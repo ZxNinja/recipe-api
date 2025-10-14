@@ -3,7 +3,7 @@
     {
       "idMeal": "1",
       "strMeal": "Sisig",
-      "strMealThumb": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=500",
+      "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7014.jpg",
       "strCategory": "Pork",
       "strArea": "Filipino",
       "strInstructions": "1. Boil pork ears and snout until tender.\n2. Grill until crispy.\n3. Chop into small pieces.\n4. Sauté onions and chili peppers.\n5. Add chopped pork, calamansi, and seasonings.\n6. Serve on sizzling plate with egg on top.",
@@ -37,7 +37,7 @@
     {
       "idMeal": "2",
       "strMeal": "Sinigang na Baboy",
-      "strMealThumb": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=500",
+      "strMealThumb": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-09-sinigang%2Fsinigang-362",
       "strCategory": "Pork",
       "strArea": "Filipino",
       "strInstructions": "1. Boil pork in water until tender (about 1 hour).\n2. Add tamarind paste to create sour broth.\n3. Add vegetables: radish, eggplant, tomatoes.\n4. Season with fish sauce to taste.\n5. Add green beans and kangkong last.\n6. Simmer for 5 more minutes.\n7. Serve hot with rice.",
@@ -71,7 +71,7 @@
     {
       "idMeal": "3",
       "strMeal": "Pancit Canton",
-      "strMealThumb": "https://images.unsplash.com/photo-1569562211093-4ed0d0758f12?w=500",
+      "strMealThumb": "https://yummykitchentv.com/wp-content/uploads/2023/01/pancit-canton-recipe-500x500.jpg",
       "strCategory": "Pasta",
       "strArea": "Filipino",
       "strInstructions": "1. Soak noodles in warm water for 10 minutes, drain well.\n2. Sauté garlic and onion in oil until fragrant.\n3. Add chicken and cook until no longer pink.\n4. Add vegetables: cabbage, carrots, bell peppers.\n5. Add noodles and soy sauce, toss well.\n6. Cook for 5-7 minutes, stirring constantly.\n7. Garnish with calamansi and serve hot.",
@@ -105,7 +105,7 @@
     {
       "idMeal": "4",
       "strMeal": "Lumpia Shanghai",
-      "strMealThumb": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=500",
+      "strMealThumb": "https://omnivorescookbook.com/wp-content/uploads/2020/12/201113_Lumpia-Shanghai_550.jpg",
       "strCategory": "Appetizer",
       "strArea": "Filipino",
       "strInstructions": "1. Mix ground pork with chopped vegetables, soy sauce, and egg.\n2. Season with salt and pepper.\n3. Place filling on lumpia wrapper and roll tightly.\n4. Seal edges with water.\n5. Deep fry in hot oil until golden brown (3-4 minutes).\n6. Drain on paper towels.\n7. Serve with sweet chili sauce.",
@@ -139,7 +139,7 @@
     {
       "idMeal": "5",
       "strMeal": "Beef Kaldereta",
-      "strMealThumb": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=500",
+      "strMealThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTDa8i09S6KGBlaqsYShb_I4fd3z1ZAePNgQ&s",
       "strCategory": "Beef",
       "strArea": "Filipino",
       "strInstructions": "1. Marinate beef in soy sauce and calamansi for 30 minutes.\n2. Brown beef in oil, set aside.\n3. Sauté garlic, onion, and tomatoes.\n4. Add tomato sauce and liver spread.\n5. Add beef and simmer until tender (1-2 hours).\n6. Add vegetables: potatoes, carrots, bell peppers.\n7. Add cheese and olives, simmer 10 more minutes.\n8. Serve with rice.",
@@ -173,7 +173,7 @@
     {
       "idMeal": "6",
       "strMeal": "Kare-Kare",
-      "strMealThumb": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=500",
+      "strMealThumb": "https://www.kuserrano.com/wp-content/uploads/2023/04/bagnet-kare-kare.jpg",
       "strCategory": "Beef",
       "strArea": "Filipino",
       "strInstructions": "1. Boil oxtail and tripe until tender (2-3 hours).\n2. In another pan, toast peanuts and rice, grind into powder.\n3. Sauté garlic, onion, and annatto seeds.\n4. Add meat broth and peanut butter.\n5. Add ground peanut-rice mixture.\n6. Add vegetables: eggplant, string beans, banana blossom.\n7. Simmer until vegetables are tender.\n8. Serve with bagoong (shrimp paste).",
@@ -207,7 +207,7 @@
     {
       "idMeal": "7",
       "strMeal": "Lechon Kawali",
-      "strMealThumb": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500",
+      "strMealThumb": "https://static01.nyt.com/images/2023/11/28/multimedia/ND-Lechon-Kawali-bflv/ND-Lechon-Kawali-bflv-mediumSquareAt3X.jpg",
       "strCategory": "Pork",
       "strArea": "Filipino",
       "strInstructions": "1. Boil pork belly with garlic, bay leaves, and peppercorns for 1 hour.\n2. Remove and let it cool, pat dry completely.\n3. Rub with salt all over.\n4. Refrigerate for 2-4 hours to dry the skin.\n5. Deep fry in hot oil until skin is crispy (10-15 minutes).\n6. Cut into serving pieces.\n7. Serve with lechon sauce or vinegar dip.",
@@ -241,7 +241,7 @@
     {
       "idMeal": "8",
       "strMeal": "Pinakbet",
-      "strMealThumb": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500",
+      "strMealThumb": "https://i0.wp.com/www.angsarap.net/wp-content/uploads/2017/02/Pinakbet-Wide.jpg?ssl=1",
       "strCategory": "Vegetarian",
       "strArea": "Filipino",
       "strInstructions": "1. Sauté garlic, onion, and tomatoes.\n2. Add pork (optional) and cook until browned.\n3. Add shrimp paste (bagoong) and mix well.\n4. Layer vegetables starting with squash.\n5. Add eggplant, okra, and bitter melon.\n6. Add string beans last.\n7. Cover and simmer for 10-15 minutes without stirring.\n8. Mix gently before serving.",
@@ -275,7 +275,7 @@
     {
       "idMeal": "9",
       "strMeal": "Chicken Adobo",
-      "strMealThumb": "https://images.unsplash.com/photo-1569058242253-92a9c755a0ec?w=500",
+      "strMealThumb": "https://gypsyplate.com/wp-content/uploads/2025/08/chicken-adobo_square.jpg",
       "strCategory": "Chicken",
       "strArea": "Filipino",
       "strInstructions": "1. Marinate chicken in soy sauce, vinegar, and garlic for 30 minutes.\n2. Heat oil in pan and brown chicken pieces.\n3. Add marinade, bay leaves, and peppercorns.\n4. Bring to boil, then simmer covered for 30 minutes.\n5. Remove cover and simmer until sauce thickens.\n6. Serve hot with steamed rice.",
@@ -309,7 +309,7 @@
     {
       "idMeal": "10",
       "strMeal": "Tocino",
-      "strMealThumb": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=500",
+      "strMealThumb": "https://norecipes.com/wp-content/uploads/2018/05/filipino-tocino-recipe_010.jpg",
       "strCategory": "Pork",
       "strArea": "Filipino",
       "strInstructions": "1. Mix pork with sugar, salt, and pineapple juice.\n2. Add red food coloring if desired.\n3. Marinate overnight in refrigerator.\n4. Pan fry in low heat with a little water.\n5. Cook until caramelized and slightly charred.\n6. Serve with garlic fried rice and egg (Tosilog).",
