@@ -13,6 +13,29 @@
             padding: 20px;
             color: #333;
         }
+        /* Navigation Bar Styles */
+        .nav-bar {
+            background-color: #f4f4f4;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            text-align: center;
+        }
+        .nav-bar a {
+            color: #3498db;
+            text-decoration: none;
+            padding: 0 15px;
+            font-weight: bold;
+        }
+        .nav-bar a:hover {
+            text-decoration: underline;
+        }
+        .current-page {
+            color: #e74c3c !important; /* Changed color to match deletion theme */
+            text-decoration: none !important;
+            cursor: default;
+        }
+        /* Existing Styles for content */
         h1 {
             color: #2c3e50;
             border-bottom: 2px solid #e74c3c;
@@ -52,6 +75,12 @@
 </head>
 <body>
 
+<div class="nav-bar">
+    <a href="index.html">Privacy Policy</a>
+    |
+    <a href="User Data Deletion Policy" class="current-page">Data Deletion Policy</a>
+</div>
+
 <h1>Plate Plan User Data Deletion Policy</h1>
 
 <p>This policy details the process for users to request the deletion of their personal data collected by the Plate Plan mobile application, primarily through **Facebook Login**.</p>
@@ -71,7 +100,7 @@
             <li>Go to the **"Apps and Websites"** section within your Facebook Settings.</li>
             <li>Find and select the **"Plate Plan"** application.</li>
             <li>Click the **"Remove"** button to revoke Plate Plan's access to your data.</li>
-            <li><strong>What Happens Next:</strong> When you remove the app from your Facebook settings, Meta sends us an automated notification. Upon receiving this notification, we will delete all associated data from our servers within **30 days**.</li>
+            <li>**What Happens Next:** When you remove the app from your Facebook settings, Meta sends us an automated notification. Upon receiving this notification, we will delete all associated data from our servers within **30 days**.</li>
         </ul>
     </li>
     <li>
@@ -80,7 +109,7 @@
             <li>Send an email to our dedicated support address: **<a href="mailto:plateplan@gmail.com">plateplan@gmail.com</a>**</li>
             <li>The email subject line **must** be: **"Data Deletion Request"**</li>
             <li>In the body of the email, please include your **registered Email Address** and/or your **Facebook User ID** so we can locate your account.</li>
-            <li><strong>What Happens Next:</strong> We will process the deletion of your account and associated personal data within **30 days** of confirming your request.</li>
+            <li>**What Happens Next:** We will process the deletion of your account and associated personal data within **30 days** of confirming your request.</li>
         </ul>
     </li>
 </ol>
@@ -94,7 +123,7 @@
 </ul>
 
 <div class="note">
-    <strong>Important Note:</strong> The deletion process only covers the data Plate Plan has collected. If you wish to delete your entire Facebook account, you must do so directly through Facebook's settings.
+    **Important Note:** The deletion process only covers the data Plate Plan has collected. If you wish to delete your entire Facebook account, you must do so directly through Facebook's settings.
 </div>
 
 <div class="contact-info">
