@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "3fc9b097-5e87-4554-bdfb-a1602363cf2a",
+		"name": "My Recipe API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49135189",
+		"_collection_link": "https://johnnybapor0521-5837018.postman.co/workspace/Sample1~85d22c2b-099f-4e65-832f-cb5f6a6a8e9e/collection/49135189-3fc9b097-5e87-4554-bdfb-a1602363cf2a?action=share&source=collection_link&creator=49135189"
+	},
+	"item": [
+		{
+			"name": "Get Categories",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

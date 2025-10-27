@@ -3,7 +3,7 @@
     {
       "idMeal": "1",
       "strMeal": "Sisig",
-      "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7014.jpg",
+      "strMealThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfm0IMi2YRIbcDBioEgvloi8dfbvQO8RNeNA&s",
       "strCategory": "Pork",
       "strArea": "Filipino",
       "strInstructions": "1. Boil pork ears and snout until tender.\\n2. Grill until crispy.\\n3. Chop into small pieces.\\n4. Sauté onions and chili peppers.\\n5. Add chopped pork, calamansi, and seasonings.\\n6. Serve on sizzling plate with egg on top.",
@@ -36,7 +36,7 @@
     },
     {
       "idMeal": "2",
-      "strMeal": "Adobo (Chicken/Pork)",
+      "strMeal": "Adobo",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_6881.jpg",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -172,7 +172,7 @@
     },
     {
       "idMeal": "6",
-      "strMeal": "Nilaga (Boiled Beef/Pork)",
+      "strMeal": "Nilaga",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_6939.jpg",
       "strCategory": "Beef",
       "strArea": "Filipino",
@@ -376,7 +376,7 @@
     },
     {
       "idMeal": "12",
-      "strMeal": "Afritada (Chicken/Pork)",
+      "strMeal": "Afritada",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7035.jpg",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -444,7 +444,7 @@
     },
     {
       "idMeal": "14",
-      "strMeal": "Puchero (Beef Stew)",
+      "strMeal": "Puchero",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7037.jpg",
       "strCategory": "Beef",
       "strArea": "Filipino",
@@ -478,7 +478,7 @@
     },
     {
       "idMeal": "15",
-      "strMeal": "KBL (Kadyos, Baboy, Langka)",
+      "strMeal": "KBL",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7038.jpg",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -512,7 +512,7 @@
     },
     {
       "idMeal": "16",
-      "strMeal": "Bistek Manok (Chicken Steak)",
+      "strMeal": "Bistek Manok ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7039.jpg",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -614,7 +614,7 @@
     },
     {
       "idMeal": "19",
-      "strMeal": "Humba (Sweet Pork Stew)",
+      "strMeal": "Humba",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7042.jpg",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -648,7 +648,7 @@
     },
     {
       "idMeal": "20",
-      "strMeal": "Pinakbet (Ilocano)",
+      "strMeal": "Pinakbet",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7043.jpg",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -784,7 +784,7 @@
     },
     {
       "idMeal": "24",
-      "strMeal": "Lomi (Thick Noodle Soup)",
+      "strMeal": "Lomi ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7047.jpg",
       "strCategory": "Noodle",
       "strArea": "Filipino",
@@ -920,7 +920,7 @@
     },
     {
       "idMeal": "28",
-      "strMeal": "Tokwa't Baboy (Tofu and Pork)",
+      "strMeal": "Tokwa't Baboy ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7051.jpg",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -988,7 +988,7 @@
     },
     {
       "idMeal": "30",
-      "strMeal": "Lumpiang Sariwa (Fresh Spring Rolls)",
+      "strMeal": "Lumpiang Sariwa ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7053.jpg",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -1158,7 +1158,7 @@
     },
     {
       "idMeal": "35",
-      "strMeal": "Torta (Eggplant Omelet)",
+      "strMeal": "Torta ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7058.jpg",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -1226,7 +1226,7 @@
     },
     {
       "idMeal": "37",
-      "strMeal": "Ginataang Sugpo (Prawns)",
+      "strMeal": "Ginataang Sugpo",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7060.jpg",
       "strCategory": "Seafood",
       "strArea": "Filipino",
@@ -1328,7 +1328,7 @@
     },
     {
       "idMeal": "40",
-      "strMeal": "Calamares (Fried Squid Rings)",
+      "strMeal": "Calamares ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7063.jpg",
       "strCategory": "Seafood",
       "strArea": "Filipino",
@@ -1362,7 +1362,7 @@
     },
     {
       "idMeal": "41",
-      "strMeal": "Bulalo (Beef Marrow Soup)",
+      "strMeal": "Bulalo ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7064.jpg",
       "strCategory": "Beef",
       "strArea": "Filipino",
@@ -1464,7 +1464,7 @@
     },
     {
       "idMeal": "44",
-      "strMeal": "Pinakbet (Seafood Version)",
+      "strMeal": "Pinakbet ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7067.jpg",
       "strCategory": "Seafood",
       "strArea": "Filipino",
@@ -1532,7 +1532,7 @@
     },
     {
       "idMeal": "46",
-      "strMeal": "Ginisang Ampalaya (Sautéed Bitter Gourd)",
+      "strMeal": "Ginisang Ampalaya",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7069.jpg",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -1600,7 +1600,7 @@
     },
     {
       "idMeal": "48",
-      "strMeal": "Chicken Lugaw (Rice Porridge)",
+      "strMeal": "Chicken Lugaw ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7071.jpg",
       "strCategory": "Rice/Porridge",
       "strArea": "Filipino",
@@ -1668,7 +1668,7 @@
     },
     {
       "idMeal": "50",
-      "strMeal": "Tocino (Sweet Cured Pork)",
+      "strMeal": "Tocino ",
       "strMealThumb": "https://www.iankewks.com/wp-content/uploads/2023/02/IMG_7073.jpg",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -2076,7 +2076,7 @@
     },
     {
       "idMeal": "62",
-      "strMeal": "Escabeche (Sweet and Sour Fish)",
+      "strMeal": "Escabeche",
       "strMealThumb": "https://placehold.co/600x400/F08080/000?text=Escabeche+Sweet+Sour+Fish",
       "strCategory": "Seafood",
       "strArea": "Filipino",
@@ -2280,7 +2280,7 @@
     },
     {
       "idMeal": "68",
-      "strMeal": "Menudo (Pork & Liver Stew)",
+      "strMeal": "Menudo ",
       "strMealThumb": "https://placehold.co/600x400/CD5C5C/FFF?text=Pork+Menudo+Stew",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -2450,7 +2450,7 @@
     },
     {
       "idMeal": "73",
-      "strMeal": "Dinuguan (Blood Stew)",
+      "strMeal": "Dinuguan ",
       "strMealThumb": "https://placehold.co/600x400/4B0082/FFF?text=Dinuguan+Pork+Blood+Stew",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -2588,7 +2588,7 @@
     },
     {
       "idMeal": "77",
-      "strMeal": "Laing (Taro Leaves in Coconut Milk)",
+      "strMeal": "Laing ",
       "strMealThumb": "https://placehold.co/600x400/9932CC/000?text=Laing+Taro+Leaves+Coconut",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -2622,7 +2622,7 @@
     },
     {
       "idMeal": "78",
-      "strMeal": "Bulalo (Beef Marrow Soup)",
+      "strMeal": "Bulalo ",
       "strMealThumb": "https://placehold.co/600x400/007bff/000?text=Bulalo+Beef+Marrow+Soup",
       "strCategory": "Beef",
       "strArea": "Filipino",
@@ -2656,7 +2656,7 @@
     },
     {
       "idMeal": "79",
-      "strMeal": "Chicken Inasal (Grilled Chicken)",
+      "strMeal": "Chicken Inasal ",
       "strMealThumb": "https://placehold.co/600x400/FFD700/000?text=Chicken+Inasal+Grilled+Atsuete",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -2690,7 +2690,7 @@
     },
     {
       "idMeal": "80",
-      "strMeal": "Kinilaw na Tuna (Filipino Ceviche)",
+      "strMeal": "Kinilaw na Tuna",
       "strMealThumb": "https://placehold.co/600x400/1E90FF/000?text=Kinilaw+Tuna+Vinegar+Ceviche",
       "strCategory": "Seafood",
       "strArea": "Filipino",
@@ -2724,7 +2724,7 @@
     },
     {
       "idMeal": "81",
-      "strMeal": "Tinolang Manok (Ginger Chicken Soup)",
+      "strMeal": "Tinolang Manok ",
       "strMealThumb": "https://placehold.co/600x400/3CB371/000?text=Tinolang+Manok+Chicken+Ginger",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -2758,7 +2758,7 @@
     },
     {
       "idMeal": "82",
-      "strMeal": "Arroz Caldo (Chicken Rice Porridge)",
+      "strMeal": "Arroz Caldo ",
       "strMealThumb": "https://placehold.co/600x400/DAA520/000?text=Arroz+Caldo+Chicken+Porridge",
       "strCategory": "Soup",
       "strArea": "Filipino",
@@ -2792,7 +2792,7 @@
     },
     {
       "idMeal": "83",
-      "strMeal": "Kaldereta (Beef/Goat Stew)",
+      "strMeal": "Kaldereta ",
       "strMealThumb": "https://placehold.co/600x400/8B0000/000?text=Kaldereta+Beef+Tomato+Stew",
       "strCategory": "Beef",
       "strArea": "Filipino",
@@ -2826,7 +2826,7 @@
     },
     {
       "idMeal": "84",
-      "strMeal": "Pininyahang Manok (Pineapple Chicken)",
+      "strMeal": "Pininyahang Manok ",
       "strMealThumb": "https://placehold.co/600x400/FFC0CB/000?text=Pininyahang+Manok+Pineapple+Cream",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -2860,7 +2860,7 @@
     },
     {
       "idMeal": "85",
-      "strMeal": "Ginisang Monggo (Sautéed Mung Beans)",
+      "strMeal": "Ginisang Monggo ",
       "strMealThumb": "https://placehold.co/600x400/FF8C00/000?text=Ginisang+Monggo+Mung+Beans",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -2894,7 +2894,7 @@
     },
     {
       "idMeal": "86",
-      "strMeal": "Tokwa't Baboy (Tofu and Pork in Vinegar)",
+      "strMeal": "Tokwa't Baboy ",
       "strMealThumb": "https://placehold.co/600x400/A0522D/000?text=Tokwat+Baboy+Tofu+Pork+Vinegar",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -2928,7 +2928,7 @@
     },
     {
       "idMeal": "87",
-      "strMeal": "Bistek Tagalog (Filipino Beef Steak)",
+      "strMeal": "Bistek Tagalog",
       "strMealThumb": "https://placehold.co/600x400/808080/000?text=Bistek+Tagalog+Beef+Soy+Calamansi",
       "strCategory": "Beef",
       "strArea": "Filipino",
@@ -2996,7 +2996,7 @@
     },
     {
       "idMeal": "89",
-      "strMeal": "Pork and Shrimp Siomai (Steamed Dumplings)",
+      "strMeal": "Pork and Shrimp Siomai ",
       "strMealThumb": "https://placehold.co/600x400/FF69B4/000?text=Pork+Shrimp+Siomai+Dumplings",
       "strCategory": "Noodle",
       "strArea": "Filipino",
@@ -3030,7 +3030,7 @@
     },
     {
       "idMeal": "90",
-      "strMeal": "Pancit Canton (Stir-fried Noodles)",
+      "strMeal": "Pancit Canton ",
       "strMealThumb": "https://placehold.co/600x400/BA55D3/000?text=Pancit+Canton+Stir+Fry+Noodles",
       "strCategory": "Noodle",
       "strArea": "Filipino",
@@ -3064,7 +3064,7 @@
     },
     {
       "idMeal": "91",
-      "strMeal": "Ginataang Sugpo (Shrimps in Coconut Milk)",
+      "strMeal": "Ginataang Sugpo",
       "strMealThumb": "https://placehold.co/600x400/FF4500/000?text=Ginataang+Sugpo+Shrimp+Coconut",
       "strCategory": "Seafood",
       "strArea": "Filipino",
@@ -3098,7 +3098,7 @@
     },
     {
       "idMeal": "92",
-      "strMeal": "Crispy Fried Chicken (Filipino Style)",
+      "strMeal": "Crispy Fried Chicken",
       "strMealThumb": "https://placehold.co/600x400/FFFF00/000?text=Crispy+Fried+Chicken",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -3132,7 +3132,7 @@
     },
     {
       "idMeal": "93",
-      "strMeal": "Lumpia Shanghai (Spring Rolls)",
+      "strMeal": "Lumpia Shanghai",
       "strMealThumb": "https://placehold.co/600x400/CD5C5C/000?text=Lumpia+Shanghai+Spring+Rolls",
       "strCategory": "Appetizer",
       "strArea": "Filipino",
@@ -3166,7 +3166,7 @@
     },
     {
       "idMeal": "94",
-      "strMeal": "Pinakbet with Bagnet (Ilocano)",
+      "strMeal": "Pinakbet with Bagnet",
       "strMealThumb": "https://placehold.co/600x400/FF6347/000?text=Pinakbet+Bagnet",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -3200,7 +3200,7 @@
     },
     {
       "idMeal": "95",
-      "strMeal": "Halo-Halo (Mixed Dessert)",
+      "strMeal": "Halo-Halo",
       "strMealThumb": "https://placehold.co/600x400/00CED1/000?text=Halo-Halo+Mixed+Dessert",
       "strCategory": "Dessert",
       "strArea": "Filipino",
@@ -3302,7 +3302,7 @@
     },
     {
       "idMeal": "98",
-      "strMeal": "Dinuguan (Pork Blood Stew)",
+      "strMeal": "Dinuguan ",
       "strMealThumb": "https://placehold.co/600x400/800000/000?text=Dinuguan+Pork+Blood+Stew",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -3336,7 +3336,7 @@
     },
     {
       "idMeal": "99",
-      "strMeal": "Sinigang na Hipon (Shrimp Sour Soup)",
+      "strMeal": "Sinigang na Hipon",
       "strMealThumb": "https://placehold.co/600x400/FFDAB9/000?text=Sinigang+Hipon+Shrimp+Tamarind",
       "strCategory": "Seafood",
       "strArea": "Filipino",
@@ -3370,7 +3370,7 @@
     },
     {
       "idMeal": "100",
-      "strMeal": "Leche Flan (Caramel Custard)",
+      "strMeal": "Leche Flan",
       "strMealThumb": "https://placehold.co/600x400/FFB6C1/000?text=Leche+Flan+Custard+Caramel",
       "strCategory": "Dessert",
       "strArea": "Filipino",
@@ -3438,7 +3438,7 @@
     },
     {
       "idMeal": "77",
-      "strMeal": "Laing (Taro Leaves in Coconut Milk)",
+      "strMeal": "Laing",
       "strMealThumb": "https://placehold.co/600x400/9932CC/000?text=Laing+Taro+Leaves+Coconut",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -3472,7 +3472,7 @@
     },
     {
       "idMeal": "78",
-      "strMeal": "Bulalo (Beef Marrow Soup)",
+      "strMeal": "Bulalo",
       "strMealThumb": "https://placehold.co/600x400/007bff/000?text=Bulalo+Beef+Marrow+Soup",
       "strCategory": "Beef",
       "strArea": "Filipino",
@@ -3506,7 +3506,7 @@
     },
     {
       "idMeal": "79",
-      "strMeal": "Chicken Inasal (Grilled Chicken)",
+      "strMeal": "Chicken Inasal",
       "strMealThumb": "https://placehold.co/600x400/FFD700/000?text=Chicken+Inasal+Grilled+Atsuete",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -3540,7 +3540,7 @@
     },
     {
       "idMeal": "80",
-      "strMeal": "Kinilaw na Tuna (Filipino Ceviche)",
+      "strMeal": "Kinilaw na Tuna",
       "strMealThumb": "https://placehold.co/600x400/1E90FF/000?text=Kinilaw+Tuna+Vinegar+Ceviche",
       "strCategory": "Seafood",
       "strArea": "Filipino",
@@ -3574,7 +3574,7 @@
     },
     {
       "idMeal": "81",
-      "strMeal": "Tinolang Manok (Ginger Chicken Soup)",
+      "strMeal": "Tinolang Manok ",
       "strMealThumb": "https://placehold.co/600x400/3CB371/000?text=Tinolang+Manok+Chicken+Ginger",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -3608,7 +3608,7 @@
     },
     {
       "idMeal": "82",
-      "strMeal": "Arroz Caldo (Chicken Rice Porridge)",
+      "strMeal": "Arroz Caldo ",
       "strMealThumb": "https://placehold.co/600x400/DAA520/000?text=Arroz+Caldo+Chicken+Porridge",
       "strCategory": "Soup",
       "strArea": "Filipino",
@@ -3642,7 +3642,7 @@
     },
     {
       "idMeal": "83",
-      "strMeal": "Kaldereta (Beef/Goat Stew)",
+      "strMeal": "Kaldereta ",
       "strMealThumb": "https://placehold.co/600x400/8B0000/000?text=Kaldereta+Beef+Tomato+Stew",
       "strCategory": "Beef",
       "strArea": "Filipino",
@@ -3676,7 +3676,7 @@
     },
     {
       "idMeal": "84",
-      "strMeal": "Pininyahang Manok (Pineapple Chicken)",
+      "strMeal": "Pininyahang Manok",
       "strMealThumb": "https://placehold.co/600x400/FFC0CB/000?text=Pininyahang+Manok+Pineapple+Cream",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -3710,7 +3710,7 @@
     },
     {
       "idMeal": "85",
-      "strMeal": "Ginisang Monggo (Sautéed Mung Beans)",
+      "strMeal": "Ginisang Monggo",
       "strMealThumb": "https://placehold.co/600x400/FF8C00/000?text=Ginisang+Monggo+Mung+Beans",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -3744,7 +3744,7 @@
     },
     {
       "idMeal": "86",
-      "strMeal": "Tokwa't Baboy (Tofu and Pork in Vinegar)",
+      "strMeal": "Tokwa't Baboy",
       "strMealThumb": "https://placehold.co/600x400/A0522D/000?text=Tokwat+Baboy+Tofu+Pork+Vinegar",
       "strCategory": "Pork",
       "strArea": "Filipino",
@@ -3778,7 +3778,7 @@
     },
     {
       "idMeal": "87",
-      "strMeal": "Bistek Tagalog (Filipino Beef Steak)",
+      "strMeal": "Bistek Tagalog",
       "strMealThumb": "https://placehold.co/600x400/808080/000?text=Bistek+Tagalog+Beef+Soy+Calamansi",
       "strCategory": "Beef",
       "strArea": "Filipino",
@@ -3846,7 +3846,7 @@
     },
     {
       "idMeal": "89",
-      "strMeal": "Pork and Shrimp Siomai (Steamed Dumplings)",
+      "strMeal": "Pork and Shrimp Siomai",
       "strMealThumb": "https://placehold.co/600x400/FF69B4/000?text=Pork+Shrimp+Siomai+Dumplings",
       "strCategory": "Noodle",
       "strArea": "Filipino",
@@ -3880,7 +3880,7 @@
     },
     {
       "idMeal": "90",
-      "strMeal": "Pancit Canton (Stir-fried Noodles)",
+      "strMeal": "Pancit Canton",
       "strMealThumb": "https://placehold.co/600x400/BA55D3/000?text=Pancit+Canton+Stir+Fry+Noodles",
       "strCategory": "Noodle",
       "strArea": "Filipino",
@@ -3914,7 +3914,7 @@
     },
     {
       "idMeal": "91",
-      "strMeal": "Ginataang Sugpo (Shrimps in Coconut Milk)",
+      "strMeal": "Ginataang Sugpo",
       "strMealThumb": "https://placehold.co/600x400/FF4500/000?text=Ginataang+Sugpo+Shrimp+Coconut",
       "strCategory": "Seafood",
       "strArea": "Filipino",
@@ -3948,7 +3948,7 @@
     },
     {
       "idMeal": "92",
-      "strMeal": "Crispy Fried Chicken (Filipino Style)",
+      "strMeal": "Crispy Fried Chicken",
       "strMealThumb": "https://placehold.co/600x400/FFFF00/000?text=Crispy+Fried+Chicken",
       "strCategory": "Chicken",
       "strArea": "Filipino",
@@ -3982,7 +3982,7 @@
     },
     {
       "idMeal": "93",
-      "strMeal": "Lumpia Shanghai (Spring Rolls)",
+      "strMeal": "Lumpia Shanghai",
       "strMealThumb": "https://placehold.co/600x400/CD5C5C/000?text=Lumpia+Shanghai+Spring+Rolls",
       "strCategory": "Appetizer",
       "strArea": "Filipino",
@@ -4016,7 +4016,7 @@
     },
     {
       "idMeal": "94",
-      "strMeal": "Pinakbet with Bagnet (Ilocano)",
+      "strMeal": "Pinakbet with Bagnet",
       "strMealThumb": "https://placehold.co/600x400/FF6347/000?text=Pinakbet+Bagnet",
       "strCategory": "Vegetable",
       "strArea": "Filipino",
@@ -4050,7 +4050,7 @@
     },
     {
       "idMeal": "95",
-      "strMeal": "Halo-Halo (Mixed Dessert)",
+      "strMeal": "Halo-Halo ",
       "strMealThumb": "https://placehold.co/600x400/00CED1/000?text=Halo-Halo+Mixed+Dessert",
       "strCategory": "Dessert",
       "strArea": "Filipino",
@@ -4152,7 +4152,7 @@
     },
     {
       "idMeal": "98",
-      "strMeal": "Dinuguan (Pork Blood Stew)",
+      "strMeal": "Dinuguan",
       "strMealThumb": "https://placehold.co/600x400/800000/000?text=Dinuguan+Pork+Blood+Stew",
       "strCategory": "Pork",
       "strArea": "Filipino",
