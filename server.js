@@ -6,6 +6,9 @@ const path = require('path');
 const PricingEngine = require('./pricing-engine');
 const MarketDataService = require('./market-data-service');
 
+const app = express();
+const PORT = process.env.PORT || 3000;
+
 // Initialize pricing services
 const pricingEngine = new PricingEngine();
 const marketDataService = new MarketDataService();
