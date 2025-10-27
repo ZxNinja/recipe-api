@@ -31,8 +31,7 @@
       "calories": 450,
       "protein": 35,
       "carbs": 10,
-      "fat": 30,
-      "price": 280
+      "fat": 30
     },
     {
       "idMeal": "2",
@@ -65,8 +64,7 @@
       "calories": 400,
       "protein": 30,
       "carbs": 5,
-      "fat": 25,
-      "price": 320
+      "fat": 25
     },
     {
       "idMeal": "3",
@@ -99,8 +97,7 @@
       "calories": 300,
       "protein": 30,
       "carbs": 15,
-      "fat": 12,
-      "price": 350
+      "fat": 12
     },
     {
       "idMeal": "4",
@@ -133,8 +130,7 @@
       "calories": 420,
       "protein": 25,
       "carbs": 50,
-      "fat": 15,
-      "price": 270
+      "fat": 15
     },
     {
       "idMeal": "5",
@@ -167,8 +163,7 @@
       "calories": 150,
       "protein": 5,
       "carbs": 25,
-      "fat": 3,
-      "price": 120
+      "fat": 3
     },
     {
       "idMeal": "6",
@@ -201,8 +196,7 @@
       "calories": 320,
       "protein": 30,
       "carbs": 15,
-      "fat": 15,
-      "price": 380
+      "fat": 15
     },
     {
       "idMeal": "7",
@@ -235,8 +229,7 @@
       "calories": 650,
       "protein": 40,
       "carbs": 5,
-      "fat": 50,
-      "price": 600
+      "fat": 50
     },
     {
       "idMeal": "8",
@@ -269,8 +262,7 @@
       "calories": 580,
       "protein": 35,
       "carbs": 5,
-      "fat": 45,
-      "price": 450
+      "fat": 45
     },
     {
       "idMeal": "9",
@@ -303,8 +295,7 @@
       "calories": 250,
       "protein": 35,
       "carbs": 5,
-      "fat": 10,
-      "price": 300
+      "fat": 10
     },
     {
       "idMeal": "10",
@@ -337,8 +328,7 @@
       "calories": 350,
       "protein": 30,
       "carbs": 15,
-      "fat": 18,
-      "price": 280
+      "fat": 18
     },
     {
       "idMeal": "11",
@@ -371,8 +361,7 @@
       "calories": 300,
       "protein": 35,
       "carbs": 5,
-      "fat": 15,
-      "price": 320
+      "fat": 15
     },
     {
       "idMeal": "12",
@@ -405,8 +394,7 @@
       "calories": 380,
       "protein": 30,
       "carbs": 25,
-      "fat": 18,
-      "price": 300
+      "fat": 18
     },
     {
       "idMeal": "13",
@@ -439,8 +427,7 @@
       "calories": 400,
       "protein": 35,
       "carbs": 25,
-      "fat": 20,
-      "price": 350
+      "fat": 20
     },
     {
       "idMeal": "14",
@@ -473,8 +460,7 @@
       "calories": 450,
       "protein": 35,
       "carbs": 40,
-      "fat": 20,
-      "price": 400
+      "fat": 20
     },
     {
       "idMeal": "15",
@@ -507,8 +493,7 @@
       "calories": 350,
       "protein": 25,
       "carbs": 25,
-      "fat": 15,
-      "price": 300
+      "fat": 15
     },
     {
       "idMeal": "16",
@@ -541,8 +526,7 @@
       "calories": 320,
       "protein": 40,
       "carbs": 10,
-      "fat": 10,
-      "price": 280
+      "fat": 10
     },
     {
       "idMeal": "17",
@@ -575,8 +559,7 @@
       "calories": 200,
       "protein": 30,
       "carbs": 5,
-      "fat": 5,
-      "price": 250
+      "fat": 5
     },
     {
       "idMeal": "18",
@@ -609,8 +592,7 @@
       "calories": 480,
       "protein": 35,
       "carbs": 10,
-      "fat": 35,
-      "price": 380
+      "fat": 35
     },
     {
       "idMeal": "19",
@@ -643,8 +625,7 @@
       "calories": 500,
       "protein": 30,
       "carbs": 30,
-      "fat": 30,
-      "price": 400
+      "fat": 30
     },
     {
       "idMeal": "20",
@@ -677,8 +658,7 @@
       "calories": 280,
       "protein": 10,
       "carbs": 25,
-      "fat": 15,
-      "price": 180
+      "fat": 15
     },
     {
       "idMeal": "21",
@@ -711,8 +691,7 @@
       "calories": 300,
       "protein": 35,
       "carbs": 10,
-      "fat": 12,
-      "price": 250
+      "fat": 12
     },
     {
       "idMeal": "22",
@@ -745,8 +724,7 @@
       "calories": 380,
       "protein": 35,
       "carbs": 10,
-      "fat": 20,
-      "price": 300
+      "fat": 20
     },
     {
       "idMeal": "23",
@@ -779,8 +757,7 @@
       "calories": 450,
       "protein": 35,
       "carbs": 30,
-      "fat": 20,
-      "price": 380
+      "fat": 20
     },
     {
       "idMeal": "24",
@@ -813,8 +790,7 @@
       "calories": 400,
       "protein": 25,
       "carbs": 45,
-      "fat": 15,
-      "price": 250
+      "fat": 15
     },
     {
       "idMeal": "25",
@@ -847,8 +823,7 @@
       "calories": 350,
       "protein": 30,
       "carbs": 15,
-      "fat": 20,
-      "price": 280
+      "fat": 20
     },
     {
       "idMeal": "26",
@@ -881,8 +856,7 @@
       "calories": 480,
       "protein": 35,
       "carbs": 15,
-      "fat": 30,
-      "price": 350
+      "fat": 30
     },
     {
       "idMeal": "27",
@@ -915,8 +889,7 @@
       "calories": 300,
       "protein": 5,
       "carbs": 45,
-      "fat": 12,
-      "price": 400
+      "fat": 12
     },
     {
       "idMeal": "28",
@@ -949,8 +922,7 @@
       "calories": 320,
       "protein": 20,
       "carbs": 10,
-      "fat": 20,
-      "price": 180
+      "fat": 20
     },
     {
       "idMeal": "29",
@@ -983,8 +955,7 @@
       "calories": 250,
       "protein": 10,
       "carbs": 15,
-      "fat": 18,
-      "price": 180
+      "fat": 18
     },
     {
       "idMeal": "30",
@@ -1017,8 +988,7 @@
       "calories": 250,
       "protein": 15,
       "carbs": 30,
-      "fat": 8,
-      "price": 150
+      "fat": 8
     },
     {
       "idMeal": "31",
@@ -1051,8 +1021,7 @@
       "calories": 200,
       "protein": 15,
       "carbs": 15,
-      "fat": 10,
-      "price": 200
+      "fat": 10
     },
     {
       "idMeal": "32",
@@ -1085,8 +1054,7 @@
       "calories": 350,
       "protein": 30,
       "carbs": 10,
-      "fat": 20,
-      "price": 320
+      "fat": 20
     },
     {
       "idMeal": "33",
@@ -1119,8 +1087,7 @@
       "calories": 280,
       "protein": 35,
       "carbs": 0,
-      "fat": 15,
-      "price": 200
+      "fat": 15
     },
     {
       "idMeal": "34",
@@ -1153,8 +1120,7 @@
       "calories": 350,
       "protein": 35,
       "carbs": 10,
-      "fat": 18,
-      "price": 280
+      "fat": 18
     },
     {
       "idMeal": "35",
@@ -1187,8 +1153,7 @@
       "calories": 220,
       "protein": 15,
       "carbs": 15,
-      "fat": 10,
-      "price": 120
+      "fat": 10
     },
     {
       "idMeal": "36",
@@ -1221,8 +1186,7 @@
       "calories": 450,
       "protein": 30,
       "carbs": 20,
-      "fat": 25,
-      "price": 380
+      "fat": 25
     },
     {
       "idMeal": "37",
@@ -1255,8 +1219,7 @@
       "calories": 320,
       "protein": 35,
       "carbs": 5,
-      "fat": 18,
-      "price": 450
+      "fat": 18
     },
     {
       "idMeal": "38",
@@ -1289,8 +1252,7 @@
       "calories": 300,
       "protein": 35,
       "carbs": 5,
-      "fat": 15,
-      "price": 280
+      "fat": 15
     },
     {
       "idMeal": "39",
@@ -1323,8 +1285,7 @@
       "calories": 350,
       "protein": 30,
       "carbs": 25,
-      "fat": 15,
-      "price": 300
+      "fat": 15
     },
     {
       "idMeal": "40",
@@ -1357,8 +1318,7 @@
       "calories": 300,
       "protein": 25,
       "carbs": 20,
-      "fat": 15,
-      "price": 280
+      "fat": 15
     },
     {
       "idMeal": "41",
@@ -1391,8 +1351,7 @@
       "calories": 420,
       "protein": 30,
       "carbs": 15,
-      "fat": 25,
-      "price": 480
+      "fat": 25
     },
     {
       "idMeal": "42",
@@ -1425,8 +1384,7 @@
       "calories": 300,
       "protein": 30,
       "carbs": 10,
-      "fat": 15,
-      "price": 250
+      "fat": 15
     },
     {
       "idMeal": "43",
@@ -1459,8 +1417,7 @@
       "calories": 380,
       "protein": 40,
       "carbs": 20,
-      "fat": 15,
-      "price": 280
+      "fat": 15
     },
     {
       "idMeal": "44",
@@ -1493,8 +1450,7 @@
       "calories": 250,
       "protein": 20,
       "carbs": 25,
-      "fat": 10,
-      "price": 250
+      "fat": 10
     },
     {
       "idMeal": "45",
@@ -1527,8 +1483,7 @@
       "calories": 380,
       "protein": 40,
       "carbs": 5,
-      "fat": 20,
-      "price": 380
+      "fat": 20
     },
     {
       "idMeal": "46",
@@ -1561,8 +1516,7 @@
       "calories": 200,
       "protein": 15,
       "carbs": 10,
-      "fat": 10,
-      "price": 150
+      "fat": 10
     },
     {
       "idMeal": "47",
@@ -1595,8 +1549,7 @@
       "calories": 150,
       "protein": 10,
       "carbs": 10,
-      "fat": 8,
-      "price": 180
+      "fat": 8
     },
     {
       "idMeal": "48",
@@ -1629,8 +1582,7 @@
       "calories": 280,
       "protein": 20,
       "carbs": 35,
-      "fat": 8,
-      "price": 150
+      "fat": 8
     },
     {
       "idMeal": "49",
@@ -1663,8 +1615,7 @@
       "calories": 480,
       "protein": 20,
       "carbs": 60,
-      "fat": 18,
-      "price": 250
+      "fat": 18
     },
     {
       "idMeal": "50",
@@ -1697,8 +1648,7 @@
       "calories": 380,
       "protein": 28,
       "carbs": 45,
-      "fat": 12,
-      "price": 240
+      "fat": 12
     },
     {
       "idMeal": "51",
@@ -1731,8 +1681,7 @@
       "calories": 450,
       "protein": 35,
       "carbs": 25,
-      "fat": 25,
-      "price": 550
+      "fat": 25
     },
     {
       "idMeal": "52",
@@ -1765,8 +1714,7 @@
       "calories": 320,
       "protein": 15,
       "carbs": 20,
-      "fat": 20,
-      "price": 180
+      "fat": 20
     },
     {
       "idMeal": "53",
@@ -1799,8 +1747,7 @@
       "calories": 250,
       "protein": 30,
       "carbs": 10,
-      "fat": 10,
-      "price": 300
+      "fat": 10
     },
     {
       "idMeal": "54",
@@ -1833,8 +1780,7 @@
       "calories": 480,
       "protein": 25,
       "carbs": 15,
-      "fat": 35,
-      "price": 280
+      "fat": 35
     },
     {
       "idMeal": "55",
@@ -1867,8 +1813,7 @@
       "calories": 350,
       "protein": 20,
       "carbs": 15,
-      "fat": 25,
-      "price": 220
+      "fat": 25
     },
     {
       "idMeal": "56",
@@ -1901,8 +1846,7 @@
       "calories": 380,
       "protein": 25,
       "carbs": 45,
-      "fat": 12,
-      "price": 250
+      "fat": 12
     },
     {
       "idMeal": "57",
@@ -1935,8 +1879,7 @@
       "calories": 200,
       "protein": 10,
       "carbs": 15,
-      "fat": 10,
-      "price": 150
+      "fat": 10
     },
     {
       "idMeal": "58",
@@ -1969,8 +1912,7 @@
       "calories": 240,
       "protein": 10,
       "carbs": 25,
-      "fat": 10,
-      "price": 170
+      "fat": 10
     },
     {
       "idMeal": "59",
@@ -2003,8 +1945,7 @@
       "calories": 520,
       "protein": 30,
       "carbs": 10,
-      "fat": 40,
-      "price": 400
+      "fat": 40
     },
     {
       "idMeal": "60",
@@ -2037,8 +1978,7 @@
       "calories": 220,
       "protein": 30,
       "carbs": 8,
-      "fat": 8,
-      "price": 280
+      "fat": 8
     },
     {
       "idMeal": "61",
@@ -2071,8 +2011,7 @@
       "calories": 350,
       "protein": 40,
       "carbs": 10,
-      "fat": 15,
-      "price": 380
+      "fat": 15
     },
     {
       "idMeal": "62",
@@ -2105,8 +2044,7 @@
       "calories": 300,
       "protein": 35,
       "carbs": 20,
-      "fat": 10,
-      "price": 350
+      "fat": 10
     },
     {
       "idMeal": "63",
@@ -2139,8 +2077,7 @@
       "calories": 210,
       "protein": 8,
       "carbs": 25,
-      "fat": 10,
-      "price": 150
+      "fat": 10
     },
     {
       "idMeal": "64",
@@ -2173,8 +2110,7 @@
       "calories": 180,
       "protein": 15,
       "carbs": 15,
-      "fat": 6,
-      "price": 200
+      "fat": 6
     },
     {
       "idMeal": "65",
@@ -2207,8 +2143,7 @@
       "calories": 420,
       "protein": 28,
       "carbs": 30,
-      "fat": 20,
-      "price": 320
+      "fat": 20
     },
     {
       "idMeal": "66",
@@ -2241,8 +2176,7 @@
       "calories": 300,
       "protein": 20,
       "carbs": 40,
-      "fat": 8,
-      "price": 180
+      "fat": 8
     },
     {
       "idMeal": "67",
@@ -2275,8 +2209,7 @@
       "calories": 250,
       "protein": 30,
       "carbs": 5,
-      "fat": 10,
-      "price": 350
+      "fat": 10
     },
     {
       "idMeal": "68",
@@ -2309,8 +2242,7 @@
       "calories": 380,
       "protein": 30,
       "carbs": 30,
-      "fat": 15,
-      "price": 280
+      "fat": 15
     },
     {
       "idMeal": "69",
@@ -2343,8 +2275,7 @@
       "calories": 350,
       "protein": 25,
       "carbs": 30,
-      "fat": 15,
-      "price": 220
+      "fat": 15
     },
     {
       "idMeal": "70",
@@ -2377,8 +2308,7 @@
       "calories": 490,
       "protein": 30,
       "carbs": 25,
-      "fat": 30,
-      "price": 450
+      "fat": 30
     },
     {
       "idMeal": "71",
@@ -2411,8 +2341,7 @@
       "calories": 550,
       "protein": 40,
       "carbs": 30,
-      "fat": 30,
-      "price": 500
+      "fat": 30
     },
     {
       "idMeal": "72",
@@ -2445,8 +2374,7 @@
       "calories": 300,
       "protein": 25,
       "carbs": 10,
-      "fat": 18,
-      "price": 350
+      "fat": 18
     },
     {
       "idMeal": "73",
@@ -2479,8 +2407,7 @@
       "calories": 320,
       "protein": 35,
       "carbs": 10,
-      "fat": 15,
-      "price": 250
+      "fat": 15
     },
     {
       "idMeal": "74",
@@ -2513,8 +2440,7 @@
       "calories": 400,
       "protein": 25,
       "carbs": 45,
-      "fat": 10,
-      "price": 280
+      "fat": 10
     },
     {
       "idMeal": "75",
@@ -2547,11 +2473,8 @@
       "calories": 400,
       "protein": 35,
       "carbs": 10,
-      "fat": 25,
-      "price": 650
-    }
-
-  ,
+      "fat": 25
+    },
     {
       "idMeal": "76",
       "strMeal": "Bopis",
@@ -2583,8 +2506,7 @@
       "calories": 350,
       "protein": 35,
       "carbs": 15,
-      "fat": 15,
-      "price": 250
+      "fat": 15
     },
     {
       "idMeal": "77",
@@ -2617,8 +2539,7 @@
       "calories": 420,
       "protein": 20,
       "carbs": 30,
-      "fat": 25,
-      "price": 280
+      "fat": 25
     },
     {
       "idMeal": "78",
@@ -2651,8 +2572,7 @@
       "calories": 550,
       "protein": 40,
       "carbs": 25,
-      "fat": 35,
-      "price": 550
+      "fat": 35
     },
     {
       "idMeal": "79",
@@ -2685,8 +2605,7 @@
       "calories": 380,
       "protein": 45,
       "carbs": 5,
-      "fat": 20,
-      "price": 280
+      "fat": 20
     },
     {
       "idMeal": "80",
@@ -2719,8 +2638,7 @@
       "calories": 250,
       "protein": 40,
       "carbs": 5,
-      "fat": 8,
-      "price": 350
+      "fat": 8
     },
     {
       "idMeal": "81",
@@ -2753,8 +2671,7 @@
       "calories": 280,
       "protein": 35,
       "carbs": 10,
-      "fat": 10,
-      "price": 260
+      "fat": 10
     },
     {
       "idMeal": "82",
@@ -2787,8 +2704,7 @@
       "calories": 300,
       "protein": 20,
       "carbs": 40,
-      "fat": 8,
-      "price": 180
+      "fat": 8
     },
     {
       "idMeal": "83",
@@ -2821,8 +2737,7 @@
       "calories": 480,
       "protein": 35,
       "carbs": 30,
-      "fat": 25,
-      "price": 450
+      "fat": 25
     },
     {
       "idMeal": "84",
@@ -2855,8 +2770,7 @@
       "calories": 390,
       "protein": 30,
       "carbs": 20,
-      "fat": 20,
-      "price": 300
+      "fat": 20
     },
     {
       "idMeal": "85",
@@ -2866,9 +2780,8 @@
       "strArea": "Filipino",
       "strInstructions": "1. Boil mung beans (monggo) until soft and mushy. Set aside.\\n2. Sauté garlic, onion, and tomatoes.\\n3. Add pork (usually fried or leftover lechon kawali) or shrimp and shrimp paste (bagoong).\\n4. Add the boiled mung beans and a little water/broth. Simmer.\\n5. Stir in bitter gourd leaves (talbos ng ampalaya) or malunggay leaves before serving.",
       "strIngredient1": "Mung Beans (Monggo)",
-      "strMeasure1": "1 cup, dried",
-      "strIngredient2": "Pork Belly/Lechon Kawali",
       "strMeasure1": "100g, cubed",
+      "strIngredient2": "Pork Belly/Lechon Kawali",
       "strIngredient3": "Shrimp Paste (Bagoong)",
       "strMeasure3": "1 tbsp",
       "strIngredient4": "Bitter Gourd Leaves",
@@ -2889,8 +2802,7 @@
       "calories": 300,
       "protein": 20,
       "carbs": 35,
-      "fat": 10,
-      "price": 180
+      "fat": 10
     },
     {
       "idMeal": "86",
@@ -2923,8 +2835,7 @@
       "calories": 380,
       "protein": 30,
       "carbs": 10,
-      "fat": 25,
-      "price": 220
+      "fat": 25
     },
     {
       "idMeal": "87",
@@ -2957,8 +2868,7 @@
       "calories": 350,
       "protein": 40,
       "carbs": 10,
-      "fat": 15,
-      "price": 380
+      "fat": 15
     },
     {
       "idMeal": "88",
@@ -2991,8 +2901,7 @@
       "calories": 420,
       "protein": 30,
       "carbs": 30,
-      "fat": 20,
-      "price": 300
+      "fat": 20
     },
     {
       "idMeal": "89",
@@ -3025,8 +2934,7 @@
       "calories": 250,
       "protein": 20,
       "carbs": 25,
-      "fat": 8,
-      "price": 200
+      "fat": 8
     },
     {
       "idMeal": "90",
@@ -3059,8 +2967,7 @@
       "calories": 450,
       "protein": 20,
       "carbs": 60,
-      "fat": 15,
-      "price": 250
+      "fat": 15
     },
     {
       "idMeal": "91",
@@ -3093,8 +3000,7 @@
       "calories": 350,
       "protein": 30,
       "carbs": 10,
-      "fat": 20,
-      "price": 400
+      "fat": 20
     },
     {
       "idMeal": "92",
@@ -3127,8 +3033,7 @@
       "calories": 500,
       "protein": 40,
       "carbs": 25,
-      "fat": 25,
-      "price": 320
+      "fat": 25
     },
     {
       "idMeal": "93",
@@ -3161,8 +3066,7 @@
       "calories": 300,
       "protein": 20,
       "carbs": 25,
-      "fat": 15,
-      "price": 200
+      "fat": 15
     },
     {
       "idMeal": "94",
@@ -3195,8 +3099,7 @@
       "calories": 400,
       "protein": 20,
       "carbs": 25,
-      "fat": 25,
-      "price": 350
+      "fat": 25
     },
     {
       "idMeal": "95",
@@ -3229,8 +3132,7 @@
       "calories": 450,
       "protein": 5,
       "carbs": 80,
-      "fat": 15,
-      "price": 150
+      "fat": 15
     },
     {
       "idMeal": "96",
@@ -3263,8 +3165,7 @@
       "calories": 400,
       "protein": 25,
       "carbs": 15,
-      "fat": 30,
-      "price": 250
+      "fat": 30
     },
     {
       "idMeal": "97",
@@ -3297,8 +3198,7 @@
       "calories": 400,
       "protein": 30,
       "carbs": 30,
-      "fat": 20,
-      "price": 300
+      "fat": 20
     },
     {
       "idMeal": "98",
@@ -3331,8 +3231,7 @@
       "calories": 350,
       "protein": 30,
       "carbs": 10,
-      "fat": 20,
-      "price": 250
+      "fat": 20
     },
     {
       "idMeal": "99",
@@ -3365,8 +3264,7 @@
       "calories": 250,
       "protein": 30,
       "carbs": 15,
-      "fat": 5,
-      "price": 350
+      "fat": 5
     },
     {
       "idMeal": "100",
@@ -3399,8 +3297,7 @@
       "calories": 500,
       "protein": 10,
       "carbs": 60,
-      "fat": 25,
-      "price": 180
+      "fat": 25
     },
     {
       "idMeal": "76",
@@ -3433,8 +3330,7 @@
       "calories": 350,
       "protein": 35,
       "carbs": 15,
-      "fat": 15,
-      "price": 250
+      "fat": 15
     },
     {
       "idMeal": "77",
@@ -3467,8 +3363,7 @@
       "calories": 420,
       "protein": 20,
       "carbs": 30,
-      "fat": 25,
-      "price": 280
+      "fat": 25
     },
     {
       "idMeal": "78",
@@ -3501,8 +3396,7 @@
       "calories": 550,
       "protein": 40,
       "carbs": 25,
-      "fat": 35,
-      "price": 550
+      "fat": 35
     },
     {
       "idMeal": "79",
@@ -3535,8 +3429,7 @@
       "calories": 380,
       "protein": 45,
       "carbs": 5,
-      "fat": 20,
-      "price": 280
+      "fat": 20
     },
     {
       "idMeal": "80",
@@ -3569,8 +3462,7 @@
       "calories": 250,
       "protein": 40,
       "carbs": 5,
-      "fat": 8,
-      "price": 350
+      "fat": 8
     },
     {
       "idMeal": "81",
@@ -3603,8 +3495,7 @@
       "calories": 280,
       "protein": 35,
       "carbs": 10,
-      "fat": 10,
-      "price": 260
+      "fat": 10
     },
     {
       "idMeal": "82",
@@ -3637,8 +3528,7 @@
       "calories": 300,
       "protein": 20,
       "carbs": 40,
-      "fat": 8,
-      "price": 180
+      "fat": 8
     },
     {
       "idMeal": "83",
@@ -3671,8 +3561,7 @@
       "calories": 480,
       "protein": 35,
       "carbs": 30,
-      "fat": 25,
-      "price": 450
+      "fat": 25
     },
     {
       "idMeal": "84",
@@ -3705,8 +3594,7 @@
       "calories": 390,
       "protein": 30,
       "carbs": 20,
-      "fat": 20,
-      "price": 300
+      "fat": 20
     },
     {
       "idMeal": "85",
@@ -3716,9 +3604,8 @@
       "strArea": "Filipino",
       "strInstructions": "1. Boil mung beans (monggo) until soft and mushy. Set aside.\\n2. Sauté garlic, onion, and tomatoes.\\n3. Add pork (usually fried or leftover lechon kawali) or shrimp and shrimp paste (bagoong).\\n4. Add the boiled mung beans and a little water/broth. Simmer.\\n5. Stir in bitter gourd leaves (talbos ng ampalaya) or malunggay leaves before serving.",
       "strIngredient1": "Mung Beans (Monggo)",
-      "strMeasure1": "1 cup, dried",
-      "strIngredient2": "Pork Belly/Lechon Kawali",
       "strMeasure1": "100g, cubed",
+      "strIngredient2": "Pork Belly/Lechon Kawali",
       "strIngredient3": "Shrimp Paste (Bagoong)",
       "strMeasure3": "1 tbsp",
       "strIngredient4": "Bitter Gourd Leaves",
@@ -3739,8 +3626,7 @@
       "calories": 300,
       "protein": 20,
       "carbs": 35,
-      "fat": 10,
-      "price": 180
+      "fat": 10
     },
     {
       "idMeal": "86",
@@ -3773,8 +3659,7 @@
       "calories": 380,
       "protein": 30,
       "carbs": 10,
-      "fat": 25,
-      "price": 220
+      "fat": 25
     },
     {
       "idMeal": "87",
@@ -3807,8 +3692,7 @@
       "calories": 350,
       "protein": 40,
       "carbs": 10,
-      "fat": 15,
-      "price": 380
+      "fat": 15
     },
     {
       "idMeal": "88",
@@ -3841,8 +3725,7 @@
       "calories": 420,
       "protein": 30,
       "carbs": 30,
-      "fat": 20,
-      "price": 300
+      "fat": 20
     },
     {
       "idMeal": "89",
@@ -3875,8 +3758,7 @@
       "calories": 250,
       "protein": 20,
       "carbs": 25,
-      "fat": 8,
-      "price": 200
+      "fat": 8
     },
     {
       "idMeal": "90",
@@ -3909,8 +3791,7 @@
       "calories": 450,
       "protein": 20,
       "carbs": 60,
-      "fat": 15,
-      "price": 250
+      "fat": 15
     },
     {
       "idMeal": "91",
@@ -3943,8 +3824,7 @@
       "calories": 350,
       "protein": 30,
       "carbs": 10,
-      "fat": 20,
-      "price": 400
+      "fat": 20
     },
     {
       "idMeal": "92",
@@ -3977,8 +3857,7 @@
       "calories": 500,
       "protein": 40,
       "carbs": 25,
-      "fat": 25,
-      "price": 320
+      "fat": 25
     },
     {
       "idMeal": "93",
@@ -4011,8 +3890,7 @@
       "calories": 300,
       "protein": 20,
       "carbs": 25,
-      "fat": 15,
-      "price": 200
+      "fat": 15
     },
     {
       "idMeal": "94",
@@ -4045,8 +3923,7 @@
       "calories": 400,
       "protein": 20,
       "carbs": 25,
-      "fat": 25,
-      "price": 350
+      "fat": 25
     },
     {
       "idMeal": "95",
@@ -4079,8 +3956,7 @@
       "calories": 450,
       "protein": 5,
       "carbs": 80,
-      "fat": 15,
-      "price": 150
+      "fat": 15
     },
     {
       "idMeal": "96",
@@ -4113,8 +3989,7 @@
       "calories": 400,
       "protein": 25,
       "carbs": 15,
-      "fat": 30,
-      "price": 250
+      "fat": 30
     },
     {
       "idMeal": "97",
@@ -4147,8 +4022,7 @@
       "calories": 400,
       "protein": 30,
       "carbs": 30,
-      "fat": 20,
-      "price": 300
+      "fat": 20
     },
     {
       "idMeal": "98",
@@ -4181,8 +4055,7 @@
       "calories": 350,
       "protein": 30,
       "carbs": 10,
-      "fat": 20,
-      "price": 250
+      "fat": 20
     },
     {
       "idMeal": "99",
@@ -4215,8 +4088,7 @@
       "calories": 250,
       "protein": 30,
       "carbs": 15,
-      "fat": 5,
-      "price": 350
+      "fat": 5
     },
     {
       "idMeal": "100",
@@ -4249,10 +4121,8 @@
       "calories": 500,
       "protein": 10,
       "carbs": 60,
-      "fat": 25,
-      "price": 180
+      "fat": 25
     }
-
   ],
   "categories": [
     {
