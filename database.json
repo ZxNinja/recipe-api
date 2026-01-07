@@ -42,7 +42,13 @@
         "Approximate / local composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.904631Z"
+      "calculated_at": "2026-01-07T23:14:08.697356Z",
+      "price_min": 350,
+      "price_max": 420,
+      "price_planned": 385,
+      "price_per_serving_min": 38,
+      "price_per_serving_max": 46,
+      "price_per_serving_planned": 42
     },
     {
       "idMeal": "2",
@@ -87,7 +93,13 @@
         "Dried spices market average",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.905124Z"
+      "calculated_at": "2026-01-07T23:14:08.697387Z",
+      "price_min": 380,
+      "price_max": 456,
+      "price_planned": 418,
+      "price_per_serving_min": 87,
+      "price_per_serving_max": 104,
+      "price_per_serving_planned": 96
     },
     {
       "idMeal": "3",
@@ -132,7 +144,13 @@
         "Local supermarket/wet-market average (approx)",
         "Supermarket / bulk price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.906747Z"
+      "calculated_at": "2026-01-07T23:14:08.697397Z",
+      "price_min": 350,
+      "price_max": 420,
+      "price_planned": 385,
+      "price_per_serving_min": 80,
+      "price_per_serving_max": 96,
+      "price_per_serving_planned": 88
     },
     {
       "idMeal": "4",
@@ -181,7 +199,13 @@
         "USDA FoodData Central",
         "Spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.907360Z"
+      "calculated_at": "2026-01-07T23:14:08.697402Z",
+      "price_min": 270,
+      "price_max": 324,
+      "price_planned": 297,
+      "price_per_serving_min": 66,
+      "price_per_serving_max": 79,
+      "price_per_serving_planned": 73
     },
     {
       "idMeal": "5",
@@ -225,7 +249,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.907836Z"
+      "calculated_at": "2026-01-07T23:14:08.697409Z",
+      "price_min": 230,
+      "price_max": 276,
+      "price_planned": 253,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "6",
@@ -269,7 +299,13 @@
         "USDA FoodData Central",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.908441Z"
+      "calculated_at": "2026-01-07T23:14:08.697414Z",
+      "price_min": 420,
+      "price_max": 504,
+      "price_planned": 462,
+      "price_per_serving_min": 43,
+      "price_per_serving_max": 52,
+      "price_per_serving_planned": 47
     },
     {
       "idMeal": "7",
@@ -315,7 +351,13 @@
         "USDA FoodData Central",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.908593Z"
+      "calculated_at": "2026-01-07T23:14:08.697420Z",
+      "price_min": 436,
+      "price_max": 523,
+      "price_planned": 480,
+      "price_per_serving_min": 109,
+      "price_per_serving_max": 131,
+      "price_per_serving_planned": 120
     },
     {
       "idMeal": "8",
@@ -360,7 +402,13 @@
         "USDA FoodData Central",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.908744Z"
+      "calculated_at": "2026-01-07T23:14:08.697425Z",
+      "price_min": 356,
+      "price_max": 427,
+      "price_planned": 392,
+      "price_per_serving_min": 89,
+      "price_per_serving_max": 107,
+      "price_per_serving_planned": 98
     },
     {
       "idMeal": "9",
@@ -404,7 +452,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.908915Z"
+      "calculated_at": "2026-01-07T23:14:08.697430Z",
+      "price_min": 270,
+      "price_max": 324,
+      "price_planned": 297,
+      "price_per_serving_min": 2,
+      "price_per_serving_max": 2,
+      "price_per_serving_planned": 2
     },
     {
       "idMeal": "10",
@@ -448,7 +502,13 @@
         "USDA FoodData Central",
         "Supermarket average (canned equivalent)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.909059Z"
+      "calculated_at": "2026-01-07T23:14:08.697435Z",
+      "price_min": 290,
+      "price_max": 348,
+      "price_planned": 319,
+      "price_per_serving_min": 28,
+      "price_per_serving_max": 34,
+      "price_per_serving_planned": 31
     },
     {
       "idMeal": "11",
@@ -493,7 +553,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.909203Z"
+      "calculated_at": "2026-01-07T23:14:08.697441Z",
+      "price_min": 190,
+      "price_max": 228,
+      "price_planned": 209,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "12",
@@ -536,7 +602,13 @@
         "Canned / supermarket average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.909331Z"
+      "calculated_at": "2026-01-07T23:14:08.697446Z",
+      "price_min": 330,
+      "price_max": 396,
+      "price_planned": 363,
+      "price_per_serving_min": 10,
+      "price_per_serving_max": 12,
+      "price_per_serving_planned": 11
     },
     {
       "idMeal": "13",
@@ -580,7 +652,13 @@
         "Generic",
         "Dried spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.909432Z"
+      "calculated_at": "2026-01-07T23:14:08.697452Z",
+      "price_min": 45,
+      "price_max": 54,
+      "price_planned": 50,
+      "price_per_serving_min": 11,
+      "price_per_serving_max": 13,
+      "price_per_serving_planned": 12
     },
     {
       "idMeal": "14",
@@ -624,7 +702,13 @@
         "Canned / supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.909898Z"
+      "calculated_at": "2026-01-07T23:14:08.697457Z",
+      "price_min": 570,
+      "price_max": 684,
+      "price_planned": 627,
+      "price_per_serving_min": 14,
+      "price_per_serving_max": 17,
+      "price_per_serving_planned": 15
     },
     {
       "idMeal": "15",
@@ -668,7 +752,13 @@
         "Local supermarket/wet-market average (approx)",
         "Supermarket / bulk price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.910366Z"
+      "calculated_at": "2026-01-07T23:14:08.697463Z",
+      "price_min": 360,
+      "price_max": 432,
+      "price_planned": 396,
+      "price_per_serving_min": 42,
+      "price_per_serving_max": 50,
+      "price_per_serving_planned": 46
     },
     {
       "idMeal": "16",
@@ -712,7 +802,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.910504Z"
+      "calculated_at": "2026-01-07T23:14:08.697468Z",
+      "price_min": 240,
+      "price_max": 288,
+      "price_planned": 264,
+      "price_per_serving_min": 6,
+      "price_per_serving_max": 7,
+      "price_per_serving_planned": 7
     },
     {
       "idMeal": "17",
@@ -755,7 +851,13 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.910651Z"
+      "calculated_at": "2026-01-07T23:14:08.697473Z",
+      "price_min": 310,
+      "price_max": 372,
+      "price_planned": 341,
+      "price_per_serving_min": 3,
+      "price_per_serving_max": 4,
+      "price_per_serving_planned": 3
     },
     {
       "idMeal": "18",
@@ -800,7 +902,13 @@
         "USDA FoodData Central",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.910772Z"
+      "calculated_at": "2026-01-07T23:14:08.697479Z",
+      "price_min": 350,
+      "price_max": 420,
+      "price_planned": 385,
+      "price_per_serving_min": 44,
+      "price_per_serving_max": 53,
+      "price_per_serving_planned": 48
     },
     {
       "idMeal": "19",
@@ -844,7 +952,13 @@
         "USDA FoodData Central",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.910881Z"
+      "calculated_at": "2026-01-07T23:14:08.697484Z",
+      "price_min": 400,
+      "price_max": 480,
+      "price_planned": 440,
+      "price_per_serving_min": 86,
+      "price_per_serving_max": 103,
+      "price_per_serving_planned": 95
     },
     {
       "idMeal": "20",
@@ -887,7 +1001,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.910995Z"
+      "calculated_at": "2026-01-07T23:14:08.697489Z",
+      "price_min": 180,
+      "price_max": 216,
+      "price_planned": 198,
+      "price_per_serving_min": 19,
+      "price_per_serving_max": 23,
+      "price_per_serving_planned": 21
     },
     {
       "idMeal": "21",
@@ -931,7 +1051,13 @@
         "USDA FoodData Central",
         "Supermarket average (canned equivalent)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.911118Z"
+      "calculated_at": "2026-01-07T23:14:08.697495Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 28,
+      "price_per_serving_max": 34,
+      "price_per_serving_planned": 31
     },
     {
       "idMeal": "22",
@@ -976,7 +1102,13 @@
         "USDA FoodData Central",
         "Spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.911267Z"
+      "calculated_at": "2026-01-07T23:14:08.697500Z",
+      "price_min": 350,
+      "price_max": 420,
+      "price_planned": 385,
+      "price_per_serving_min": 17,
+      "price_per_serving_max": 20,
+      "price_per_serving_planned": 19
     },
     {
       "idMeal": "23",
@@ -1019,7 +1151,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.911701Z"
+      "calculated_at": "2026-01-07T23:14:08.697505Z",
+      "price_min": 370,
+      "price_max": 444,
+      "price_planned": 407,
+      "price_per_serving_min": 6,
+      "price_per_serving_max": 7,
+      "price_per_serving_planned": 7
     },
     {
       "idMeal": "24",
@@ -1065,7 +1203,13 @@
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.912223Z"
+      "calculated_at": "2026-01-07T23:14:08.697510Z",
+      "price_min": 250,
+      "price_max": 300,
+      "price_planned": 275,
+      "price_per_serving_min": 26,
+      "price_per_serving_max": 31,
+      "price_per_serving_planned": 29
     },
     {
       "idMeal": "25",
@@ -1109,7 +1253,13 @@
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.912362Z"
+      "calculated_at": "2026-01-07T23:14:08.697516Z",
+      "price_min": 105,
+      "price_max": 126,
+      "price_planned": 116,
+      "price_per_serving_min": 26,
+      "price_per_serving_max": 31,
+      "price_per_serving_planned": 29
     },
     {
       "idMeal": "26",
@@ -1153,7 +1303,13 @@
         "USDA FoodData Central",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.912541Z"
+      "calculated_at": "2026-01-07T23:14:08.697521Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 26,
+      "price_per_serving_max": 31,
+      "price_per_serving_planned": 29
     },
     {
       "idMeal": "27",
@@ -1199,7 +1355,13 @@
         "USDA FoodData Central",
         "Supermarket average (canned equivalent)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.912670Z"
+      "calculated_at": "2026-01-07T23:14:08.697527Z",
+      "price_min": 250,
+      "price_max": 300,
+      "price_planned": 275,
+      "price_per_serving_min": 8,
+      "price_per_serving_max": 10,
+      "price_per_serving_planned": 9
     },
     {
       "idMeal": "28",
@@ -1242,7 +1404,13 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.912781Z"
+      "calculated_at": "2026-01-07T23:14:08.697532Z",
+      "price_min": 230,
+      "price_max": 276,
+      "price_planned": 253,
+      "price_per_serving_min": 24,
+      "price_per_serving_max": 29,
+      "price_per_serving_planned": 26
     },
     {
       "idMeal": "29",
@@ -1284,7 +1452,13 @@
         "Supermarket average (canned equivalent)",
         "Local market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.912891Z"
+      "calculated_at": "2026-01-07T23:14:08.697538Z",
+      "price_min": 200,
+      "price_max": 240,
+      "price_planned": 220,
+      "price_per_serving_min": 31,
+      "price_per_serving_max": 37,
+      "price_per_serving_planned": 34
     },
     {
       "idMeal": "30",
@@ -1326,7 +1500,13 @@
         "Local market average",
         "Supermarket average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913011Z"
+      "calculated_at": "2026-01-07T23:14:08.697543Z",
+      "price_min": 320,
+      "price_max": 384,
+      "price_planned": 352,
+      "price_per_serving_min": 8,
+      "price_per_serving_max": 10,
+      "price_per_serving_planned": 9
     },
     {
       "idMeal": "31",
@@ -1371,7 +1551,13 @@
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913129Z"
+      "calculated_at": "2026-01-07T23:14:08.697549Z",
+      "price_min": 150,
+      "price_max": 180,
+      "price_planned": 165,
+      "price_per_serving_min": 26,
+      "price_per_serving_max": 31,
+      "price_per_serving_planned": 29
     },
     {
       "idMeal": "32",
@@ -1414,7 +1600,13 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913259Z"
+      "calculated_at": "2026-01-07T23:14:08.697554Z",
+      "price_min": 320,
+      "price_max": 384,
+      "price_planned": 352,
+      "price_per_serving_min": 30,
+      "price_per_serving_max": 36,
+      "price_per_serving_planned": 33
     },
     {
       "idMeal": "33",
@@ -1459,7 +1651,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913364Z"
+      "calculated_at": "2026-01-07T23:14:08.697559Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "34",
@@ -1502,7 +1700,13 @@
         "Generic",
         "Supermarket average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913488Z"
+      "calculated_at": "2026-01-07T23:14:08.697565Z",
+      "price_min": 360,
+      "price_max": 432,
+      "price_planned": 396,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "35",
@@ -1547,7 +1751,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913613Z"
+      "calculated_at": "2026-01-07T23:14:08.697570Z",
+      "price_min": 200,
+      "price_max": 240,
+      "price_planned": 220,
+      "price_per_serving_min": 7,
+      "price_per_serving_max": 8,
+      "price_per_serving_planned": 8
     },
     {
       "idMeal": "36",
@@ -1592,7 +1802,13 @@
         "Dried spices market average",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913706Z"
+      "calculated_at": "2026-01-07T23:14:08.697576Z",
+      "price_min": 260,
+      "price_max": 312,
+      "price_planned": 286,
+      "price_per_serving_min": 66,
+      "price_per_serving_max": 79,
+      "price_per_serving_planned": 73
     },
     {
       "idMeal": "37",
@@ -1636,7 +1852,13 @@
         "USDA FoodData Central",
         "Supermarket average (canned equivalent)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913847Z"
+      "calculated_at": "2026-01-07T23:14:08.697581Z",
+      "price_min": 310,
+      "price_max": 372,
+      "price_planned": 341,
+      "price_per_serving_min": 28,
+      "price_per_serving_max": 34,
+      "price_per_serving_planned": 31
     },
     {
       "idMeal": "38",
@@ -1681,7 +1903,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913957Z"
+      "calculated_at": "2026-01-07T23:14:08.697586Z",
+      "price_min": 150,
+      "price_max": 180,
+      "price_planned": 165,
+      "price_per_serving_min": 5,
+      "price_per_serving_max": 6,
+      "price_per_serving_planned": 6
     },
     {
       "idMeal": "39",
@@ -1723,7 +1951,13 @@
         "Supermarket average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.914069Z"
+      "calculated_at": "2026-01-07T23:14:08.697591Z",
+      "price_min": 330,
+      "price_max": 396,
+      "price_planned": 363,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "40",
@@ -1769,7 +2003,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.914177Z"
+      "calculated_at": "2026-01-07T23:14:08.697597Z",
+      "price_min": 300,
+      "price_max": 360,
+      "price_planned": 330,
+      "price_per_serving_min": 14,
+      "price_per_serving_max": 17,
+      "price_per_serving_planned": 15
     },
     {
       "idMeal": "41",
@@ -1812,7 +2052,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.914729Z"
+      "calculated_at": "2026-01-07T23:14:08.697602Z",
+      "price_min": 570,
+      "price_max": 684,
+      "price_planned": 627,
+      "price_per_serving_min": 3,
+      "price_per_serving_max": 4,
+      "price_per_serving_planned": 3
     },
     {
       "idMeal": "42",
@@ -1855,7 +2101,13 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.914904Z"
+      "calculated_at": "2026-01-07T23:14:08.697607Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 2,
+      "price_per_serving_max": 2,
+      "price_per_serving_planned": 2
     },
     {
       "idMeal": "43",
@@ -1898,7 +2150,13 @@
         "Local market average",
         "Supermarket average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.915034Z"
+      "calculated_at": "2026-01-07T23:14:08.697612Z",
+      "price_min": 220,
+      "price_max": 264,
+      "price_planned": 242,
+      "price_per_serving_min": 2,
+      "price_per_serving_max": 2,
+      "price_per_serving_planned": 2
     },
     {
       "idMeal": "44",
@@ -1935,8 +2193,18 @@
       "price": 170,
       "calories_per_serving": 84,
       "price_per_serving": 23,
-      "sources": ["USDA FoodData Central", "Local market average", "Generic"],
-      "calculated_at": "2026-01-07T01:02:33.915149Z"
+      "sources": [
+        "USDA FoodData Central",
+        "Local market average",
+        "Generic"
+      ],
+      "calculated_at": "2026-01-07T23:14:08.697617Z",
+      "price_min": 170,
+      "price_max": 204,
+      "price_planned": 187,
+      "price_per_serving_min": 23,
+      "price_per_serving_max": 28,
+      "price_per_serving_planned": 25
     },
     {
       "idMeal": "45",
@@ -1979,7 +2247,13 @@
         "USDA FoodData Central",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.915286Z"
+      "calculated_at": "2026-01-07T23:14:08.697622Z",
+      "price_min": 290,
+      "price_max": 348,
+      "price_planned": 319,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "46",
@@ -2024,7 +2298,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.915391Z"
+      "calculated_at": "2026-01-07T23:14:08.697627Z",
+      "price_min": 150,
+      "price_max": 180,
+      "price_planned": 165,
+      "price_per_serving_min": 14,
+      "price_per_serving_max": 17,
+      "price_per_serving_planned": 15
     },
     {
       "idMeal": "47",
@@ -2067,7 +2347,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.915517Z"
+      "calculated_at": "2026-01-07T23:14:08.697633Z",
+      "price_min": 230,
+      "price_max": 276,
+      "price_planned": 253,
+      "price_per_serving_min": 34,
+      "price_per_serving_max": 41,
+      "price_per_serving_planned": 37
     },
     {
       "idMeal": "48",
@@ -2113,7 +2399,13 @@
         "Supermarket / local market average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.915974Z"
+      "calculated_at": "2026-01-07T23:14:08.697638Z",
+      "price_min": 240,
+      "price_max": 288,
+      "price_planned": 264,
+      "price_per_serving_min": 12,
+      "price_per_serving_max": 14,
+      "price_per_serving_planned": 13
     },
     {
       "idMeal": "49",
@@ -2159,7 +2451,13 @@
         "Canned / supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.916109Z"
+      "calculated_at": "2026-01-07T23:14:08.697643Z",
+      "price_min": 250,
+      "price_max": 300,
+      "price_planned": 275,
+      "price_per_serving_min": 55,
+      "price_per_serving_max": 66,
+      "price_per_serving_planned": 60
     },
     {
       "idMeal": "50",
@@ -2202,7 +2500,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.916236Z"
+      "calculated_at": "2026-01-07T23:14:08.697649Z",
+      "price_min": 350,
+      "price_max": 420,
+      "price_planned": 385,
+      "price_per_serving_min": 2,
+      "price_per_serving_max": 2,
+      "price_per_serving_planned": 2
     },
     {
       "idMeal": "51",
@@ -2249,7 +2553,13 @@
         "USDA FoodData Central",
         "Spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.916691Z"
+      "calculated_at": "2026-01-07T23:14:08.697654Z",
+      "price_min": 310,
+      "price_max": 372,
+      "price_planned": 341,
+      "price_per_serving_min": 47,
+      "price_per_serving_max": 56,
+      "price_per_serving_planned": 52
     },
     {
       "idMeal": "52",
@@ -2292,7 +2602,13 @@
         "Local supermarket/wet-market average (approx)",
         "Local market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.916818Z"
+      "calculated_at": "2026-01-07T23:14:08.697659Z",
+      "price_min": 180,
+      "price_max": 216,
+      "price_planned": 198,
+      "price_per_serving_min": 39,
+      "price_per_serving_max": 47,
+      "price_per_serving_planned": 43
     },
     {
       "idMeal": "53",
@@ -2337,7 +2653,13 @@
         "USDA FoodData Central",
         "Supermarket / bulk price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.917229Z"
+      "calculated_at": "2026-01-07T23:14:08.697664Z",
+      "price_min": 180,
+      "price_max": 216,
+      "price_planned": 198,
+      "price_per_serving_min": 17,
+      "price_per_serving_max": 20,
+      "price_per_serving_planned": 19
     },
     {
       "idMeal": "54",
@@ -2380,7 +2702,13 @@
         "Local supermarket/wet-market average (approx)",
         "Local market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.917443Z"
+      "calculated_at": "2026-01-07T23:14:08.697670Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 75,
+      "price_per_serving_max": 90,
+      "price_per_serving_planned": 82
     },
     {
       "idMeal": "55",
@@ -2424,7 +2752,13 @@
         "USDA FoodData Central",
         "Supermarket average (canned equivalent)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.917569Z"
+      "calculated_at": "2026-01-07T23:14:08.697675Z",
+      "price_min": 320,
+      "price_max": 384,
+      "price_planned": 352,
+      "price_per_serving_min": 31,
+      "price_per_serving_max": 37,
+      "price_per_serving_planned": 34
     },
     {
       "idMeal": "56",
@@ -2471,7 +2805,13 @@
         "Generic / food composition tables",
         "Generic citrus composition"
       ],
-      "calculated_at": "2026-01-07T01:02:33.917715Z"
+      "calculated_at": "2026-01-07T23:14:08.697680Z",
+      "price_min": 150,
+      "price_max": 180,
+      "price_planned": 165,
+      "price_per_serving_min": 30,
+      "price_per_serving_max": 36,
+      "price_per_serving_planned": 33
     },
     {
       "idMeal": "57",
@@ -2516,7 +2856,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.917829Z"
+      "calculated_at": "2026-01-07T23:14:08.697685Z",
+      "price_min": 240,
+      "price_max": 288,
+      "price_planned": 264,
+      "price_per_serving_min": 47,
+      "price_per_serving_max": 56,
+      "price_per_serving_planned": 52
     },
     {
       "idMeal": "58",
@@ -2559,7 +2905,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.917957Z"
+      "calculated_at": "2026-01-07T23:14:08.697691Z",
+      "price_min": 150,
+      "price_max": 180,
+      "price_planned": 165,
+      "price_per_serving_min": 19,
+      "price_per_serving_max": 23,
+      "price_per_serving_planned": 21
     },
     {
       "idMeal": "59",
@@ -2602,7 +2954,13 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.918039Z"
+      "calculated_at": "2026-01-07T23:14:08.697696Z",
+      "price_min": 400,
+      "price_max": 480,
+      "price_planned": 440,
+      "price_per_serving_min": 86,
+      "price_per_serving_max": 103,
+      "price_per_serving_planned": 95
     },
     {
       "idMeal": "60",
@@ -2644,7 +3002,10 @@
         "Generic",
         "Supermarket average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.918424Z"
+      "calculated_at": "2026-01-07T23:14:08.697700Z",
+      "price_min": 290,
+      "price_max": 348,
+      "price_planned": 319
     },
     {
       "idMeal": "61",
@@ -2688,7 +3049,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.918549Z"
+      "calculated_at": "2026-01-07T23:14:08.697705Z",
+      "price_min": 310,
+      "price_max": 372,
+      "price_planned": 341,
+      "price_per_serving_min": 6,
+      "price_per_serving_max": 7,
+      "price_per_serving_planned": 7
     },
     {
       "idMeal": "62",
@@ -2732,7 +3099,13 @@
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.918678Z"
+      "calculated_at": "2026-01-07T23:14:08.697711Z",
+      "price_min": 200,
+      "price_max": 240,
+      "price_planned": 220,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "63",
@@ -2774,7 +3147,13 @@
         "Supermarket average (canned equivalent)",
         "Local market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.918795Z"
+      "calculated_at": "2026-01-07T23:14:08.697716Z",
+      "price_min": 150,
+      "price_max": 180,
+      "price_planned": 165,
+      "price_per_serving_min": 30,
+      "price_per_serving_max": 36,
+      "price_per_serving_planned": 33
     },
     {
       "idMeal": "64",
@@ -2817,7 +3196,13 @@
         "Estimated (diluted broth)",
         "Estimated minimal cost"
       ],
-      "calculated_at": "2026-01-07T01:02:33.919177Z"
+      "calculated_at": "2026-01-07T23:14:08.697721Z",
+      "price_min": 190,
+      "price_max": 228,
+      "price_planned": 209,
+      "price_per_serving_min": 33,
+      "price_per_serving_max": 40,
+      "price_per_serving_planned": 36
     },
     {
       "idMeal": "65",
@@ -2862,7 +3247,13 @@
         "Dried spices market average",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.919274Z"
+      "calculated_at": "2026-01-07T23:14:08.697727Z",
+      "price_min": 350,
+      "price_max": 420,
+      "price_planned": 385,
+      "price_per_serving_min": 66,
+      "price_per_serving_max": 79,
+      "price_per_serving_planned": 73
     },
     {
       "idMeal": "66",
@@ -2908,7 +3299,13 @@
         "Supermarket / local market average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.919691Z"
+      "calculated_at": "2026-01-07T23:14:08.697732Z",
+      "price_min": 170,
+      "price_max": 204,
+      "price_planned": 187,
+      "price_per_serving_min": 13,
+      "price_per_serving_max": 16,
+      "price_per_serving_planned": 14
     },
     {
       "idMeal": "67",
@@ -2951,7 +3348,13 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.919811Z"
+      "calculated_at": "2026-01-07T23:14:08.697737Z",
+      "price_min": 250,
+      "price_max": 300,
+      "price_planned": 275,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "68",
@@ -2994,7 +3397,13 @@
         "Supermarket price",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.919928Z"
+      "calculated_at": "2026-01-07T23:14:08.697743Z",
+      "price_min": 330,
+      "price_max": 396,
+      "price_planned": 363,
+      "price_per_serving_min": 11,
+      "price_per_serving_max": 13,
+      "price_per_serving_planned": 12
     },
     {
       "idMeal": "69",
@@ -3043,7 +3452,13 @@
         "Approximate / condiment composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.920321Z"
+      "calculated_at": "2026-01-07T23:14:08.697748Z",
+      "price_min": 200,
+      "price_max": 240,
+      "price_planned": 220,
+      "price_per_serving_min": 44,
+      "price_per_serving_max": 53,
+      "price_per_serving_planned": 48
     },
     {
       "idMeal": "70",
@@ -3087,7 +3502,13 @@
         "Generic",
         "Dried spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.920422Z"
+      "calculated_at": "2026-01-07T23:14:08.697753Z",
+      "price_min": 300,
+      "price_max": 360,
+      "price_planned": 330,
+      "price_per_serving_min": 2,
+      "price_per_serving_max": 2,
+      "price_per_serving_planned": 2
     },
     {
       "idMeal": "71",
@@ -3130,7 +3551,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.920789Z"
+      "calculated_at": "2026-01-07T23:14:08.697758Z",
+      "price_min": 270,
+      "price_max": 324,
+      "price_planned": 297,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "72",
@@ -3174,7 +3601,13 @@
         "USDA FoodData Central",
         "Supermarket average (canned equivalent)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.920957Z"
+      "calculated_at": "2026-01-07T23:14:08.697763Z",
+      "price_min": 270,
+      "price_max": 324,
+      "price_planned": 297,
+      "price_per_serving_min": 68,
+      "price_per_serving_max": 82,
+      "price_per_serving_planned": 75
     },
     {
       "idMeal": "73",
@@ -3218,7 +3651,13 @@
         "Generic",
         "Dried spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.921059Z"
+      "calculated_at": "2026-01-07T23:14:08.697768Z",
+      "price_min": 240,
+      "price_max": 288,
+      "price_planned": 264,
+      "price_per_serving_min": 6,
+      "price_per_serving_max": 7,
+      "price_per_serving_planned": 7
     },
     {
       "idMeal": "74",
@@ -3269,7 +3708,13 @@
         "Generic citrus composition",
         "Spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.921756Z"
+      "calculated_at": "2026-01-07T23:14:08.697774Z",
+      "price_min": 250,
+      "price_max": 300,
+      "price_planned": 275,
+      "price_per_serving_min": 65,
+      "price_per_serving_max": 78,
+      "price_per_serving_planned": 72
     },
     {
       "idMeal": "75",
@@ -3313,7 +3758,13 @@
         "USDA FoodData Central",
         "Supermarket average (canned equivalent)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.921917Z"
+      "calculated_at": "2026-01-07T23:14:08.697779Z",
+      "price_min": 350,
+      "price_max": 420,
+      "price_planned": 385,
+      "price_per_serving_min": 15,
+      "price_per_serving_max": 18,
+      "price_per_serving_planned": 16
     },
     {
       "idMeal": "76",
@@ -3358,7 +3809,13 @@
         "USDA FoodData Central",
         "Spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.922037Z"
+      "calculated_at": "2026-01-07T23:14:08.697784Z",
+      "price_min": 180,
+      "price_max": 216,
+      "price_planned": 198,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "77",
@@ -3400,7 +3857,13 @@
         "Local supermarket/wet-market average (approx)",
         "Local market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.922165Z"
+      "calculated_at": "2026-01-07T23:14:08.697790Z",
+      "price_min": 200,
+      "price_max": 240,
+      "price_planned": 220,
+      "price_per_serving_min": 18,
+      "price_per_serving_max": 22,
+      "price_per_serving_planned": 20
     },
     {
       "idMeal": "78",
@@ -3443,7 +3906,10 @@
         "USDA FoodData Central",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.922707Z"
+      "calculated_at": "2026-01-07T23:14:08.697793Z",
+      "price_min": 560,
+      "price_max": 672,
+      "price_planned": 616
     },
     {
       "idMeal": "79",
@@ -3489,7 +3955,13 @@
         "USDA FoodData Central",
         "Spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.922841Z"
+      "calculated_at": "2026-01-07T23:14:08.697802Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 12,
+      "price_per_serving_max": 14,
+      "price_per_serving_planned": 13
     },
     {
       "idMeal": "80",
@@ -3533,7 +4005,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.922961Z"
+      "calculated_at": "2026-01-07T23:14:08.697807Z",
+      "price_min": 360,
+      "price_max": 432,
+      "price_planned": 396,
+      "price_per_serving_min": 9,
+      "price_per_serving_max": 11,
+      "price_per_serving_planned": 10
     },
     {
       "idMeal": "81",
@@ -3575,7 +4053,13 @@
         "Generic",
         "Supermarket average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.923454Z"
+      "calculated_at": "2026-01-07T23:14:08.697813Z",
+      "price_min": 370,
+      "price_max": 444,
+      "price_planned": 407,
+      "price_per_serving_min": 1,
+      "price_per_serving_max": 1,
+      "price_per_serving_planned": 1
     },
     {
       "idMeal": "82",
@@ -3622,7 +4106,13 @@
         "Supermarket / local market average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.924366Z"
+      "calculated_at": "2026-01-07T23:14:08.697818Z",
+      "price_min": 220,
+      "price_max": 264,
+      "price_planned": 242,
+      "price_per_serving_min": 13,
+      "price_per_serving_max": 16,
+      "price_per_serving_planned": 14
     },
     {
       "idMeal": "83",
@@ -3664,7 +4154,13 @@
         "Canned / supermarket average",
         "Supermarket average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.924540Z"
+      "calculated_at": "2026-01-07T23:14:08.697823Z",
+      "price_min": 380,
+      "price_max": 456,
+      "price_planned": 418,
+      "price_per_serving_min": 11,
+      "price_per_serving_max": 13,
+      "price_per_serving_planned": 12
     },
     {
       "idMeal": "84",
@@ -3706,7 +4202,13 @@
         "Supermarket average (canned equivalent)",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.924665Z"
+      "calculated_at": "2026-01-07T23:14:08.697829Z",
+      "price_min": 260,
+      "price_max": 312,
+      "price_planned": 286,
+      "price_per_serving_min": 14,
+      "price_per_serving_max": 17,
+      "price_per_serving_planned": 15
     },
     {
       "idMeal": "85",
@@ -3742,8 +4244,18 @@
       "price": 170,
       "calories_per_serving": 4,
       "price_per_serving": 2,
-      "sources": ["USDA FoodData Central", "Local market average", "Generic"],
-      "calculated_at": "2026-01-07T01:02:33.924771Z"
+      "sources": [
+        "USDA FoodData Central",
+        "Local market average",
+        "Generic"
+      ],
+      "calculated_at": "2026-01-07T23:14:08.697834Z",
+      "price_min": 170,
+      "price_max": 204,
+      "price_planned": 187,
+      "price_per_serving_min": 2,
+      "price_per_serving_max": 2,
+      "price_per_serving_planned": 2
     },
     {
       "idMeal": "86",
@@ -3787,7 +4299,13 @@
         "USDA FoodData Central",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.924871Z"
+      "calculated_at": "2026-01-07T23:14:08.697840Z",
+      "price_min": 250,
+      "price_max": 300,
+      "price_planned": 275,
+      "price_per_serving_min": 24,
+      "price_per_serving_max": 29,
+      "price_per_serving_planned": 26
     },
     {
       "idMeal": "87",
@@ -3831,7 +4349,13 @@
         "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.924973Z"
+      "calculated_at": "2026-01-07T23:14:08.697845Z",
+      "price_min": 300,
+      "price_max": 360,
+      "price_planned": 330,
+      "price_per_serving_min": 6,
+      "price_per_serving_max": 7,
+      "price_per_serving_planned": 7
     },
     {
       "idMeal": "88",
@@ -3875,7 +4399,13 @@
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.925078Z"
+      "calculated_at": "2026-01-07T23:14:08.697850Z",
+      "price_min": 240,
+      "price_max": 288,
+      "price_planned": 264,
+      "price_per_serving_min": 3,
+      "price_per_serving_max": 4,
+      "price_per_serving_planned": 3
     },
     {
       "idMeal": "89",
@@ -3918,7 +4448,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.925185Z"
+      "calculated_at": "2026-01-07T23:14:08.697856Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 33,
+      "price_per_serving_max": 40,
+      "price_per_serving_planned": 36
     },
     {
       "idMeal": "90",
@@ -3965,7 +4501,13 @@
         "Generic / food composition tables",
         "Generic citrus composition"
       ],
-      "calculated_at": "2026-01-07T01:02:33.925315Z"
+      "calculated_at": "2026-01-07T23:14:08.697861Z",
+      "price_min": 180,
+      "price_max": 216,
+      "price_planned": 198,
+      "price_per_serving_min": 37,
+      "price_per_serving_max": 44,
+      "price_per_serving_planned": 41
     },
     {
       "idMeal": "91",
@@ -4009,7 +4551,13 @@
         "USDA FoodData Central",
         "Supermarket average (canned equivalent)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.925437Z"
+      "calculated_at": "2026-01-07T23:14:08.697866Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 81,
+      "price_per_serving_max": 97,
+      "price_per_serving_planned": 89
     },
     {
       "idMeal": "92",
@@ -4054,7 +4602,13 @@
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.925554Z"
+      "calculated_at": "2026-01-07T23:14:08.697871Z",
+      "price_min": 250,
+      "price_max": 300,
+      "price_planned": 275,
+      "price_per_serving_min": 7,
+      "price_per_serving_max": 8,
+      "price_per_serving_planned": 8
     },
     {
       "idMeal": "93",
@@ -4096,7 +4650,13 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.925659Z"
+      "calculated_at": "2026-01-07T23:14:08.697876Z",
+      "price_min": 270,
+      "price_max": 324,
+      "price_planned": 297,
+      "price_per_serving_min": 39,
+      "price_per_serving_max": 47,
+      "price_per_serving_planned": 43
     },
     {
       "idMeal": "94",
@@ -4139,7 +4699,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.925763Z"
+      "calculated_at": "2026-01-07T23:14:08.697881Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 23,
+      "price_per_serving_max": 28,
+      "price_per_serving_planned": 25
     },
     {
       "idMeal": "95",
@@ -4176,8 +4742,17 @@
       "price": 150,
       "calories_per_serving": 18,
       "price_per_serving": 3,
-      "sources": ["USDA FoodData Central", "Supermarket average"],
-      "calculated_at": "2026-01-07T01:02:33.925905Z"
+      "sources": [
+        "USDA FoodData Central",
+        "Supermarket average"
+      ],
+      "calculated_at": "2026-01-07T23:14:08.697887Z",
+      "price_min": 150,
+      "price_max": 180,
+      "price_planned": 165,
+      "price_per_serving_min": 3,
+      "price_per_serving_max": 4,
+      "price_per_serving_planned": 3
     },
     {
       "idMeal": "96",
@@ -4219,7 +4794,13 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.926022Z"
+      "calculated_at": "2026-01-07T23:14:08.697893Z",
+      "price_min": 170,
+      "price_max": 204,
+      "price_planned": 187,
+      "price_per_serving_min": 4,
+      "price_per_serving_max": 5,
+      "price_per_serving_planned": 4
     },
     {
       "idMeal": "97",
@@ -4262,7 +4843,13 @@
         "Local supermarket/wet-market average (approx)",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.926155Z"
+      "calculated_at": "2026-01-07T23:14:08.697898Z",
+      "price_min": 260,
+      "price_max": 312,
+      "price_planned": 286,
+      "price_per_serving_min": 49,
+      "price_per_serving_max": 59,
+      "price_per_serving_planned": 54
     },
     {
       "idMeal": "98",
@@ -4305,7 +4892,13 @@
         "Generic",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.926268Z"
+      "calculated_at": "2026-01-07T23:14:08.697903Z",
+      "price_min": 180,
+      "price_max": 216,
+      "price_planned": 198,
+      "price_per_serving_min": 2,
+      "price_per_serving_max": 2,
+      "price_per_serving_planned": 2
     },
     {
       "idMeal": "99",
@@ -4350,7 +4943,13 @@
         "USDA FoodData Central",
         "Supermarket / bulk price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.926872Z"
+      "calculated_at": "2026-01-07T23:14:08.697908Z",
+      "price_min": 280,
+      "price_max": 336,
+      "price_planned": 308,
+      "price_per_serving_min": 55,
+      "price_per_serving_max": 66,
+      "price_per_serving_planned": 60
     },
     {
       "idMeal": "100",
@@ -4393,7 +4992,13 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.927058Z"
+      "calculated_at": "2026-01-07T23:14:08.697913Z",
+      "price_min": 180,
+      "price_max": 216,
+      "price_planned": 198,
+      "price_per_serving_min": 14,
+      "price_per_serving_max": 17,
+      "price_per_serving_planned": 15
     }
   ],
   "categories": [
