@@ -42,7 +42,8 @@
         "Approximate / local composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.904631Z"
+      "calculated_at": "2026-01-07T01:02:33.904631Z",
+      "servings": 2
     },
     {
       "idMeal": "2",
@@ -87,7 +88,8 @@
         "Dried spices market average",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.905124Z"
+      "calculated_at": "2026-01-07T01:02:33.905124Z",
+      "servings": 9
     },
     {
       "idMeal": "3",
@@ -123,20 +125,21 @@
       "fat": 530,
       "price": 350,
       "calories_per_serving": 1298,
-      "price_per_serving": 99,
+      "price_per_serving": 80,
       "sources": [
-        "Local market approximate / USDA (vegetable)",
         "Estimated placeholder (legume)",
-        "Generic",
-        "Supermarket / bulk price",
+        "Local market approximate / USDA (vegetable)",
         "Local market average",
+        "Supermarket average",
+        "Approximate / condiment composition",
         "Estimated placeholder (generic)",
         "Local supermarket/wet-market average (approx)",
-        "Supermarket average",
+        "Generic",
         "USDA FoodData Central",
-        "Approximate / condiment composition"
+        "Supermarket / bulk price"
       ],
-      "calculated_at": "2026-01-07T01:58:58.036057Z"
+      "calculated_at": "2026-01-07T02:31:46.961694Z",
+      "servings": 9
     },
     {
       "idMeal": "4",
@@ -185,7 +188,8 @@
         "USDA FoodData Central",
         "Spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.907360Z"
+      "calculated_at": "2026-01-07T01:02:33.907360Z",
+      "servings": 6
     },
     {
       "idMeal": "5",
@@ -220,18 +224,19 @@
       "carbs": 50,
       "fat": 2,
       "price": 88,
-      "calories_per_serving": 65,
-      "price_per_serving": 22,
+      "calories_per_serving": 40,
+      "price_per_serving": 4,
       "sources": [
-        "Local market approximate / USDA (vegetable)",
         "Estimated placeholder (legume)",
-        "Generic",
         "Estimated placeholder (vegetable)",
+        "Local market approximate / USDA (vegetable)",
         "Local market average",
         "Supermarket average",
-        "Approximate / condiment composition"
+        "Approximate / condiment composition",
+        "Generic"
       ],
-      "calculated_at": "2026-01-07T01:58:58.038660Z"
+      "calculated_at": "2026-01-07T02:31:46.965350Z",
+      "servings": 1
     },
     {
       "idMeal": "6",
@@ -269,14 +274,15 @@
       "calories_per_serving": 665,
       "price_per_serving": 43,
       "sources": [
-        "Supermarket price",
         "Generic vegetable composition",
-        "Generic",
         "Local market average",
         "Local supermarket/wet-market average (approx)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.039945Z"
+      "calculated_at": "2026-01-07T02:31:46.966925Z",
+      "servings": 5
     },
     {
       "idMeal": "7",
@@ -322,7 +328,8 @@
         "USDA FoodData Central",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.908593Z"
+      "calculated_at": "2026-01-07T01:02:33.908593Z",
+      "servings": 7
     },
     {
       "idMeal": "8",
@@ -367,7 +374,8 @@
         "USDA FoodData Central",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.908744Z"
+      "calculated_at": "2026-01-07T01:02:33.908744Z",
+      "servings": 12
     },
     {
       "idMeal": "9",
@@ -402,18 +410,19 @@
       "carbs": 20,
       "fat": 25,
       "price": 171,
-      "calories_per_serving": 209,
-      "price_per_serving": 43,
+      "calories_per_serving": 15,
+      "price_per_serving": 2,
       "sources": [
-        "Estimated placeholder (seafood)",
-        "Generic citrus composition",
-        "Generic",
         "Estimated placeholder (vegetable)",
         "Local market average",
-        "USDA FoodData Central",
-        "Supermarket price"
+        "Estimated placeholder (seafood)",
+        "Supermarket price",
+        "Generic",
+        "Generic citrus composition",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.041181Z"
+      "calculated_at": "2026-01-07T02:31:46.969833Z",
+      "servings": 1
     },
     {
       "idMeal": "10",
@@ -448,22 +457,23 @@
       "carbs": 52,
       "fat": 191,
       "price": 264,
-      "calories_per_serving": 580,
-      "price_per_serving": 66,
+      "calories_per_serving": 280,
+      "price_per_serving": 28,
       "sources": [
-        "Approximate / condiment composition",
-        "Supermarket average (canned equivalent)",
-        "Local market approximate / USDA (vegetable)",
-        "Estimated placeholder (legume)",
-        "Generic",
         "Estimated placeholder (vegetable)",
         "Local market average",
+        "Local market approximate / USDA (vegetable)",
+        "Estimated placeholder (legume)",
         "Supermarket average",
+        "Supermarket average (canned equivalent)",
         "USDA FoodData Central (approximate)",
-        "USDA FoodData Central",
-        "Local market / supermarket average"
+        "Approximate / condiment composition",
+        "Local market / supermarket average",
+        "Generic",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.041853Z"
+      "calculated_at": "2026-01-07T02:31:46.970991Z",
+      "servings": 4
     },
     {
       "idMeal": "11",
@@ -498,17 +508,18 @@
       "carbs": 17,
       "fat": 24,
       "price": 126,
-      "calories_per_serving": 183,
-      "price_per_serving": 32,
+      "calories_per_serving": 20,
+      "price_per_serving": 4,
       "sources": [
+        "Local market average",
         "Estimated placeholder (seafood)",
         "Supermarket price",
-        "Generic citrus composition",
         "Generic",
-        "Local market average",
+        "Generic citrus composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.042149Z"
+      "calculated_at": "2026-01-07T02:31:46.971567Z",
+      "servings": 1
     },
     {
       "idMeal": "12",
@@ -543,18 +554,19 @@
       "carbs": 149,
       "fat": 29,
       "price": 114,
-      "calories_per_serving": 238,
-      "price_per_serving": 28,
+      "calories_per_serving": 51,
+      "price_per_serving": 10,
       "sources": [
-        "Dried spices market average",
-        "Generic",
         "Estimated placeholder (vegetable)",
         "Local market average",
         "Estimated placeholder (generic)",
         "Canned / supermarket average",
-        "USDA FoodData Central"
+        "Generic",
+        "USDA FoodData Central",
+        "Dried spices market average"
       ],
-      "calculated_at": "2026-01-07T01:58:58.042559Z"
+      "calculated_at": "2026-01-07T02:31:46.972476Z",
+      "servings": 2
     },
     {
       "idMeal": "13",
@@ -589,18 +601,19 @@
       "carbs": 150,
       "fat": 29,
       "price": 116,
-      "calories_per_serving": 242,
-      "price_per_serving": 29,
+      "calories_per_serving": 59,
+      "price_per_serving": 11,
       "sources": [
-        "Dried spices market average",
-        "Supermarket price",
-        "Generic",
         "Local market average",
+        "Generic",
         "Estimated placeholder (generic)",
+        "Supermarket price",
         "Canned / supermarket average",
-        "USDA FoodData Central"
+        "USDA FoodData Central",
+        "Dried spices market average"
       ],
-      "calculated_at": "2026-01-07T01:58:58.042815Z"
+      "calculated_at": "2026-01-07T02:31:46.972951Z",
+      "servings": 2
     },
     {
       "idMeal": "14",
@@ -635,20 +648,21 @@
       "carbs": 244,
       "fat": 46,
       "price": 189,
-      "calories_per_serving": 416,
-      "price_per_serving": 47,
+      "calories_per_serving": 80,
+      "price_per_serving": 14,
       "sources": [
-        "Estimated (diluted broth)",
-        "Local market approximate / USDA (vegetable)",
-        "Estimated minimal cost",
-        "Estimated placeholder (legume)",
         "Generic vegetable composition",
+        "Estimated placeholder (legume)",
+        "Local market approximate / USDA (vegetable)",
         "Local market average",
+        "Estimated (diluted broth)",
         "Estimated placeholder (generic)",
+        "Estimated minimal cost",
         "Canned / supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.043939Z"
+      "calculated_at": "2026-01-07T02:31:46.983355Z",
+      "servings": 3
     },
     {
       "idMeal": "15",
@@ -683,18 +697,19 @@
       "carbs": 214,
       "fat": 265,
       "price": 247,
-      "calories_per_serving": 991,
-      "price_per_serving": 62,
+      "calories_per_serving": 666,
+      "price_per_serving": 42,
       "sources": [
         "Estimated placeholder (legume)",
-        "Generic",
-        "Supermarket / bulk price",
         "Estimated placeholder (generic)",
         "Local supermarket/wet-market average (approx)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central",
-        "Supermarket price"
+        "Supermarket / bulk price"
       ],
-      "calculated_at": "2026-01-07T01:58:58.045317Z"
+      "calculated_at": "2026-01-07T02:31:46.986086Z",
+      "servings": 7
     },
     {
       "idMeal": "16",
@@ -729,17 +744,18 @@
       "carbs": 62,
       "fat": 26,
       "price": 74,
-      "calories_per_serving": 147,
-      "price_per_serving": 18,
+      "calories_per_serving": 20,
+      "price_per_serving": 6,
       "sources": [
-        "Supermarket price",
-        "Generic citrus composition",
-        "Generic",
         "Local market average",
         "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Generic",
+        "Generic citrus composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.046423Z"
+      "calculated_at": "2026-01-07T02:31:46.987189Z",
+      "servings": 1
     },
     {
       "idMeal": "17",
@@ -774,18 +790,19 @@
       "carbs": 5,
       "fat": 26,
       "price": 165,
-      "calories_per_serving": 206,
-      "price_per_serving": 41,
+      "calories_per_serving": 13,
+      "price_per_serving": 3,
       "sources": [
-        "Estimated placeholder (seafood)",
-        "Supermarket price",
-        "Generic",
         "Estimated placeholder (vegetable)",
         "Local market average",
+        "Estimated placeholder (seafood)",
         "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.047270Z"
+      "calculated_at": "2026-01-07T02:31:46.988870Z",
+      "servings": 1
     },
     {
       "idMeal": "18",
@@ -823,16 +840,17 @@
       "calories_per_serving": 676,
       "price_per_serving": 44,
       "sources": [
+        "Estimated placeholder (condiment)",
+        "Estimated placeholder (generic)",
         "Estimated (diluted broth)",
+        "Local supermarket/wet-market average (approx)",
         "Estimated minimal cost",
         "Supermarket price",
-        "Estimated placeholder (generic)",
-        "Local supermarket/wet-market average (approx)",
         "Supermarket average",
-        "USDA FoodData Central",
-        "Estimated placeholder (condiment)"
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.047718Z"
+      "calculated_at": "2026-01-07T02:31:46.989560Z",
+      "servings": 5
     },
     {
       "idMeal": "19",
@@ -870,15 +888,16 @@
       "calories_per_serving": 1410,
       "price_per_serving": 86,
       "sources": [
-        "Supermarket price",
         "Estimated placeholder (legume)",
-        "Generic",
         "Local market average",
         "Estimated placeholder (generic)",
         "Local supermarket/wet-market average (approx)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.048180Z"
+      "calculated_at": "2026-01-07T02:31:46.990041Z",
+      "servings": 10
     },
     {
       "idMeal": "20",
@@ -914,16 +933,17 @@
       "fat": 89,
       "price": 115,
       "calories_per_serving": 241,
-      "price_per_serving": 29,
+      "price_per_serving": 19,
       "sources": [
-        "Local market approximate / USDA (vegetable)",
-        "Generic",
         "Estimated placeholder (vegetable)",
+        "Local market approximate / USDA (vegetable)",
         "Local market average",
         "Local supermarket/wet-market average (approx)",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.048736Z"
+      "calculated_at": "2026-01-07T02:31:46.990646Z",
+      "servings": 2
     },
     {
       "idMeal": "21",
@@ -958,18 +978,19 @@
       "carbs": 30,
       "fat": 141,
       "price": 271,
-      "calories_per_serving": 475,
-      "price_per_serving": 68,
+      "calories_per_serving": 281,
+      "price_per_serving": 28,
       "sources": [
-        "Supermarket average (canned equivalent)",
-        "Estimated placeholder (seafood)",
         "Estimated placeholder (vegetable)",
         "Local market average",
+        "Estimated placeholder (seafood)",
+        "Supermarket average (canned equivalent)",
+        "Approximate / condiment composition",
         "Supermarket average",
-        "USDA FoodData Central",
-        "Approximate / condiment composition"
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.049282Z"
+      "calculated_at": "2026-01-07T02:31:46.991462Z",
+      "servings": 3
     },
     {
       "idMeal": "22",
@@ -1004,18 +1025,19 @@
       "carbs": 45,
       "fat": 5,
       "price": 69,
-      "calories_per_serving": 87,
+      "calories_per_serving": 72,
       "price_per_serving": 17,
       "sources": [
-        "Supermarket price",
-        "Generic spice composition",
-        "Generic citrus composition",
         "Local market average",
-        "Estimated placeholder (generic)",
         "Spices market average",
+        "Estimated placeholder (generic)",
+        "Generic spice composition",
+        "Supermarket price",
+        "Generic citrus composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.050094Z"
+      "calculated_at": "2026-01-07T02:31:46.992496Z",
+      "servings": 1
     },
     {
       "idMeal": "23",
@@ -1050,16 +1072,17 @@
       "carbs": 117,
       "fat": 27,
       "price": 75,
-      "calories_per_serving": 206,
-      "price_per_serving": 19,
+      "calories_per_serving": 74,
+      "price_per_serving": 6,
       "sources": [
-        "Supermarket price",
-        "Generic",
         "Local market average",
         "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.051032Z"
+      "calculated_at": "2026-01-07T02:31:46.993889Z",
+      "servings": 1
     },
     {
       "idMeal": "24",
@@ -1095,19 +1118,20 @@
       "fat": 35,
       "price": 130,
       "calories_per_serving": 542,
-      "price_per_serving": 32,
+      "price_per_serving": 26,
       "sources": [
-        "Estimated (diluted broth)",
-        "Estimated minimal cost",
-        "Generic / food composition tables",
         "Local market average",
         "Estimated placeholder (processed food)",
+        "Estimated (diluted broth)",
         "Estimated placeholder (generic)",
+        "Estimated minimal cost",
+        "Generic / food composition tables",
         "Supermarket average",
         "Local supermarket",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.052736Z"
+      "calculated_at": "2026-01-07T02:31:46.996893Z",
+      "servings": 4
     },
     {
       "idMeal": "25",
@@ -1151,7 +1175,8 @@
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.912362Z"
+      "calculated_at": "2026-01-07T01:02:33.912362Z",
+      "servings": 2
     },
     {
       "idMeal": "26",
@@ -1186,19 +1211,20 @@
       "carbs": 34,
       "fat": 159,
       "price": 157,
-      "calories_per_serving": 542,
-      "price_per_serving": 39,
+      "calories_per_serving": 400,
+      "price_per_serving": 26,
       "sources": [
-        "Supermarket price",
-        "Supermarket / local market average",
         "Local market average",
-        "Estimated placeholder (generic)",
-        "Approximate / local composition",
-        "Local supermarket/wet-market average (approx)",
         "Local market approximate",
+        "Estimated placeholder (generic)",
+        "Local supermarket/wet-market average (approx)",
+        "Supermarket price",
+        "Approximate / local composition",
+        "Supermarket / local market average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.053776Z"
+      "calculated_at": "2026-01-07T02:31:46.998499Z",
+      "servings": 4
     },
     {
       "idMeal": "27",
@@ -1233,19 +1259,20 @@
       "carbs": 123,
       "fat": 43,
       "price": 80,
-      "calories_per_serving": 238,
-      "price_per_serving": 20,
+      "calories_per_serving": 118,
+      "price_per_serving": 8,
       "sources": [
-        "Supermarket average (canned equivalent)",
-        "Supermarket / bakery average",
-        "Generic",
         "Local market average",
+        "Generic",
+        "Supermarket average (canned equivalent)",
         "Estimated placeholder (generic)",
-        "Supermarket average",
         "Generic baked goods composition",
+        "Supermarket / bakery average",
+        "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.054390Z"
+      "calculated_at": "2026-01-07T02:31:46.999673Z",
+      "servings": 2
     },
     {
       "idMeal": "28",
@@ -1288,7 +1315,8 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.912781Z"
+      "calculated_at": "2026-01-07T01:02:33.912781Z",
+      "servings": 2
     },
     {
       "idMeal": "29",
@@ -1324,15 +1352,16 @@
       "fat": 82,
       "price": 182,
       "calories_per_serving": 259,
-      "price_per_serving": 46,
+      "price_per_serving": 31,
       "sources": [
-        "Supermarket average (canned equivalent)",
-        "Local market approximate / USDA (vegetable)",
         "Estimated placeholder (legume)",
+        "Local market approximate / USDA (vegetable)",
         "Local market average",
+        "Supermarket average (canned equivalent)",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.055210Z"
+      "calculated_at": "2026-01-07T02:31:47.001116Z",
+      "servings": 2
     },
     {
       "idMeal": "30",
@@ -1367,17 +1396,18 @@
       "carbs": 89,
       "fat": 46,
       "price": 67,
-      "calories_per_serving": 228,
-      "price_per_serving": 17,
+      "calories_per_serving": 129,
+      "price_per_serving": 8,
       "sources": [
         "Estimated placeholder (vegetable)",
         "Local market average",
-        "Estimated placeholder (generic)",
         "Estimated placeholder (processed food)",
+        "Estimated placeholder (generic)",
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.056151Z"
+      "calculated_at": "2026-01-07T02:31:47.002354Z",
+      "servings": 2
     },
     {
       "idMeal": "31",
@@ -1412,18 +1442,19 @@
       "carbs": 120,
       "fat": 37,
       "price": 152,
-      "calories_per_serving": 287,
-      "price_per_serving": 38,
+      "calories_per_serving": 159,
+      "price_per_serving": 26,
       "sources": [
+        "Local market average",
+        "Estimated placeholder (generic)",
         "Estimated (diluted broth)",
         "Estimated minimal cost",
         "Supermarket price",
-        "Local market average",
-        "Estimated placeholder (generic)",
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.057379Z"
+      "calculated_at": "2026-01-07T02:31:47.003940Z",
+      "servings": 2
     },
     {
       "idMeal": "32",
@@ -1458,18 +1489,19 @@
       "carbs": 62,
       "fat": 153,
       "price": 308,
-      "calories_per_serving": 544,
-      "price_per_serving": 77,
+      "calories_per_serving": 284,
+      "price_per_serving": 30,
       "sources": [
-        "Supermarket average (canned equivalent)",
-        "Estimated placeholder (seafood)",
-        "Supermarket price",
         "Estimated placeholder (vegetable)",
         "Local market average",
+        "Estimated placeholder (seafood)",
+        "Supermarket average (canned equivalent)",
         "Estimated placeholder (generic)",
+        "Supermarket price",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.058096Z"
+      "calculated_at": "2026-01-07T02:31:47.005134Z",
+      "servings": 4
     },
     {
       "idMeal": "33",
@@ -1504,19 +1536,20 @@
       "carbs": 0,
       "fat": 75,
       "price": 166,
-      "calories_per_serving": 307,
-      "price_per_serving": 42,
+      "calories_per_serving": 119,
+      "price_per_serving": 4,
       "sources": [
-        "Estimated placeholder (seafood)",
-        "Supermarket price",
-        "Generic / USDA averages",
-        "Generic",
         "Local market average",
+        "Estimated placeholder (seafood)",
+        "Generic",
         "Estimated placeholder (generic)",
+        "Supermarket price",
         "Supermarket average",
+        "Generic / USDA averages",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.058755Z"
+      "calculated_at": "2026-01-07T02:31:47.006227Z",
+      "servings": 2
     },
     {
       "idMeal": "34",
@@ -1551,19 +1584,20 @@
       "carbs": 33,
       "fat": 80,
       "price": 157,
-      "calories_per_serving": 324,
-      "price_per_serving": 39,
+      "calories_per_serving": 34,
+      "price_per_serving": 4,
       "sources": [
-        "Approximate / condiment composition",
-        "Generic",
         "Estimated placeholder (vegetable)",
         "Local market average",
-        "Supermarket average",
+        "Generic",
         "USDA FoodData Central (approximate)",
-        "USDA FoodData Central",
-        "Local market / supermarket average"
+        "Approximate / condiment composition",
+        "Local market / supermarket average",
+        "Supermarket average",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.059284Z"
+      "calculated_at": "2026-01-07T02:31:47.006978Z",
+      "servings": 2
     },
     {
       "idMeal": "35",
@@ -1599,18 +1633,19 @@
       "fat": 17,
       "price": 51,
       "calories_per_serving": 99,
-      "price_per_serving": 13,
+      "price_per_serving": 7,
       "sources": [
-        "Supermarket price",
+        "Local market average",
         "Local market approximate / USDA (vegetable)",
         "Generic",
         "Generic condiment averages",
-        "Local market average",
         "Estimated placeholder (generic)",
+        "Supermarket price",
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.059758Z"
+      "calculated_at": "2026-01-07T02:31:47.007432Z",
+      "servings": 1
     },
     {
       "idMeal": "36",
@@ -1655,7 +1690,8 @@
         "Dried spices market average",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.913706Z"
+      "calculated_at": "2026-01-07T01:02:33.913706Z",
+      "servings": 7
     },
     {
       "idMeal": "37",
@@ -1690,18 +1726,19 @@
       "carbs": 57,
       "fat": 154,
       "price": 291,
-      "calories_per_serving": 536,
-      "price_per_serving": 73,
+      "calories_per_serving": 281,
+      "price_per_serving": 28,
       "sources": [
-        "Supermarket average (canned equivalent)",
-        "Estimated placeholder (seafood)",
         "Local market average",
+        "Estimated placeholder (seafood)",
+        "Supermarket average (canned equivalent)",
+        "Approximate / condiment composition",
         "Estimated placeholder (generic)",
         "Supermarket average",
-        "USDA FoodData Central",
-        "Approximate / condiment composition"
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.060631Z"
+      "calculated_at": "2026-01-07T02:31:47.008364Z",
+      "servings": 4
     },
     {
       "idMeal": "38",
@@ -1736,19 +1773,20 @@
       "carbs": 5,
       "fat": 74,
       "price": 122,
-      "calories_per_serving": 279,
-      "price_per_serving": 30,
+      "calories_per_serving": 119,
+      "price_per_serving": 5,
       "sources": [
-        "Estimated placeholder (seafood)",
-        "Supermarket price",
-        "Generic / USDA averages",
-        "Generic",
         "Local market average",
+        "Estimated placeholder (seafood)",
+        "Generic",
         "Estimated placeholder (generic)",
+        "Supermarket price",
         "Supermarket average",
+        "Generic / USDA averages",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.060991Z"
+      "calculated_at": "2026-01-07T02:31:47.008835Z",
+      "servings": 2
     },
     {
       "idMeal": "39",
@@ -1783,19 +1821,20 @@
       "carbs": 60,
       "fat": 92,
       "price": 169,
-      "calories_per_serving": 379,
-      "price_per_serving": 42,
+      "calories_per_serving": 22,
+      "price_per_serving": 4,
       "sources": [
-        "Supermarket price",
         "Local market average",
+        "USDA FoodData Central (approximate)",
         "Estimated placeholder (generic)",
         "Generic beverage composition",
+        "Local market / supermarket average",
+        "Supermarket price",
         "Supermarket average",
-        "USDA FoodData Central (approximate)",
-        "USDA FoodData Central",
-        "Local market / supermarket average"
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.061756Z"
+      "calculated_at": "2026-01-07T02:31:47.009476Z",
+      "servings": 3
     },
     {
       "idMeal": "40",
@@ -1830,19 +1869,20 @@
       "carbs": 123,
       "fat": 201,
       "price": 206,
-      "calories_per_serving": 772,
-      "price_per_serving": 52,
+      "calories_per_serving": 584,
+      "price_per_serving": 14,
       "sources": [
-        "Generic / USDA averages",
-        "Supermarket price",
-        "Estimated placeholder (seafood)",
-        "Generic citrus composition",
-        "Generic",
         "Local market average",
+        "Estimated placeholder (seafood)",
+        "Generic",
+        "Supermarket price",
         "Supermarket average",
+        "Generic / USDA averages",
+        "Generic citrus composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.062312Z"
+      "calculated_at": "2026-01-07T02:31:47.010003Z",
+      "servings": 5
     },
     {
       "idMeal": "41",
@@ -1877,17 +1917,18 @@
       "carbs": 21,
       "fat": 141,
       "price": 273,
-      "calories_per_serving": 565,
-      "price_per_serving": 68,
+      "calories_per_serving": 18,
+      "price_per_serving": 3,
       "sources": [
-        "Supermarket price",
         "Generic vegetable composition",
-        "Generic",
-        "Approximate / local composition",
         "Local market average",
+        "Supermarket price",
+        "Approximate / local composition",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.063563Z"
+      "calculated_at": "2026-01-07T02:31:47.011124Z",
+      "servings": 4
     },
     {
       "idMeal": "42",
@@ -1922,16 +1963,17 @@
       "carbs": 66,
       "fat": 25,
       "price": 68,
-      "calories_per_serving": 144,
-      "price_per_serving": 17,
+      "calories_per_serving": 6,
+      "price_per_serving": 2,
       "sources": [
-        "Supermarket price",
-        "Generic",
         "Local market average",
         "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.063970Z"
+      "calculated_at": "2026-01-07T02:31:47.011496Z",
+      "servings": 1
     },
     {
       "idMeal": "43",
@@ -1966,17 +2008,18 @@
       "carbs": 36,
       "fat": 51,
       "price": 45,
-      "calories_per_serving": 168,
-      "price_per_serving": 11,
+      "calories_per_serving": 84,
+      "price_per_serving": 2,
       "sources": [
-        "Generic / USDA averages",
         "Local market average",
+        "Estimated placeholder (condiment)",
         "Estimated placeholder (generic)",
         "Supermarket average",
-        "USDA FoodData Central",
-        "Estimated placeholder (condiment)"
+        "Generic / USDA averages",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.064728Z"
+      "calculated_at": "2026-01-07T02:31:47.012224Z",
+      "servings": 1
     },
     {
       "idMeal": "44",
@@ -2012,15 +2055,16 @@
       "fat": 2,
       "price": 130,
       "calories_per_serving": 84,
-      "price_per_serving": 32,
+      "price_per_serving": 23,
       "sources": [
-        "Local market approximate / USDA (vegetable)",
-        "Generic",
         "Estimated placeholder (vegetable)",
+        "Local market approximate / USDA (vegetable)",
         "Local market average",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.065411Z"
+      "calculated_at": "2026-01-07T02:31:47.013311Z",
+      "servings": 1
     },
     {
       "idMeal": "45",
@@ -2055,17 +2099,18 @@
       "carbs": 11,
       "fat": 26,
       "price": 165,
-      "calories_per_serving": 204,
-      "price_per_serving": 41,
+      "calories_per_serving": 16,
+      "price_per_serving": 4,
       "sources": [
+        "Local market average",
         "Estimated placeholder (seafood)",
+        "Estimated placeholder (generic)",
         "Supermarket price",
         "Generic citrus composition",
-        "Local market average",
-        "Estimated placeholder (generic)",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.066136Z"
+      "calculated_at": "2026-01-07T02:31:47.014451Z",
+      "servings": 1
     },
     {
       "idMeal": "46",
@@ -2103,15 +2148,16 @@
       "calories_per_serving": 80,
       "price_per_serving": 14,
       "sources": [
-        "Generic",
         "Estimated placeholder (vegetable)",
         "Local market average",
-        "Supermarket average",
-        "USDA FoodData Central",
+        "Generic",
+        "Approximate / condiment composition",
         "Supermarket price",
-        "Approximate / condiment composition"
+        "Supermarket average",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.066715Z"
+      "calculated_at": "2026-01-07T02:31:47.015309Z",
+      "servings": 1
     },
     {
       "idMeal": "47",
@@ -2146,17 +2192,18 @@
       "carbs": 37,
       "fat": 137,
       "price": 181,
-      "calories_per_serving": 495,
-      "price_per_serving": 45,
+      "calories_per_serving": 268,
+      "price_per_serving": 34,
       "sources": [
-        "Supermarket price",
-        "Generic",
         "Local market average",
         "Estimated placeholder (processed food)",
         "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.067609Z"
+      "calculated_at": "2026-01-07T02:31:47.017084Z",
+      "servings": 3
     },
     {
       "idMeal": "48",
@@ -2191,20 +2238,21 @@
       "carbs": 152,
       "fat": 45,
       "price": 103,
-      "calories_per_serving": 336,
-      "price_per_serving": 26,
+      "calories_per_serving": 202,
+      "price_per_serving": 12,
       "sources": [
-        "Estimated (diluted broth)",
-        "Approximate / condiment composition",
-        "Estimated minimal cost",
-        "Supermarket / local market average",
         "Local market average",
-        "Supermarket average",
         "USDA FoodData Central (approximate)",
-        "USDA FoodData Central",
-        "Local market / supermarket average"
+        "Approximate / condiment composition",
+        "Estimated (diluted broth)",
+        "Local market / supermarket average",
+        "Estimated minimal cost",
+        "Supermarket average",
+        "Supermarket / local market average",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.068903Z"
+      "calculated_at": "2026-01-07T02:31:47.019186Z",
+      "servings": 2
     },
     {
       "idMeal": "49",
@@ -2250,7 +2298,8 @@
         "Canned / supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.916109Z"
+      "calculated_at": "2026-01-07T01:02:33.916109Z",
+      "servings": 6
     },
     {
       "idMeal": "50",
@@ -2285,19 +2334,20 @@
       "carbs": 107,
       "fat": 95,
       "price": 144,
-      "calories_per_serving": 414,
-      "price_per_serving": 36,
+      "calories_per_serving": 104,
+      "price_per_serving": 2,
       "sources": [
-        "Supermarket price",
-        "Generic",
         "Local market average",
+        "Supermarket average",
         "Estimated / negligible",
         "Generic beverage composition",
+        "Supermarket price",
         "Approximate / local composition",
-        "Supermarket average",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.069612Z"
+      "calculated_at": "2026-01-07T02:31:47.020451Z",
+      "servings": 3
     },
     {
       "idMeal": "51",
@@ -2332,23 +2382,24 @@
       "carbs": 166,
       "fat": 250,
       "price": 307,
-      "calories_per_serving": 775,
-      "price_per_serving": 77,
+      "calories_per_serving": 541,
+      "price_per_serving": 47,
       "sources": [
-        "Estimated (diluted broth)",
-        "Local market approximate / USDA (vegetable)",
-        "Estimated minimal cost",
-        "Estimated placeholder (legume)",
-        "Generic spice composition",
         "Generic vegetable composition",
-        "Supermarket / local market average",
+        "Estimated placeholder (legume)",
         "Local market average",
+        "Local market approximate / USDA (vegetable)",
+        "Estimated (diluted broth)",
         "Estimated placeholder (generic)",
-        "Spices market average",
+        "Generic spice composition",
+        "Estimated minimal cost",
         "Supermarket average",
+        "Supermarket / local market average",
+        "Spices market average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.071138Z"
+      "calculated_at": "2026-01-07T02:31:47.022824Z",
+      "servings": 5
     },
     {
       "idMeal": "52",
@@ -2386,14 +2437,15 @@
       "calories_per_serving": 416,
       "price_per_serving": 39,
       "sources": [
-        "Supermarket average (canned equivalent)",
         "Estimated placeholder (vegetable)",
         "Local market average",
+        "Supermarket average (canned equivalent)",
         "Estimated placeholder (generic)",
         "Local supermarket/wet-market average (approx)",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.071798Z"
+      "calculated_at": "2026-01-07T02:31:47.024037Z",
+      "servings": 3
     },
     {
       "idMeal": "53",
@@ -2428,20 +2480,21 @@
       "carbs": 166,
       "fat": 182,
       "price": 333,
-      "calories_per_serving": 810,
-      "price_per_serving": 83,
+      "calories_per_serving": 165,
+      "price_per_serving": 17,
       "sources": [
-        "Approximate / condiment composition",
-        "Generic",
-        "Supermarket / bulk price",
-        "Local market average",
         "Estimated placeholder (vegetable)",
+        "Local market average",
         "Supermarket average",
         "USDA FoodData Central (approximate)",
+        "Approximate / condiment composition",
+        "Local market / supermarket average",
+        "Generic",
         "USDA FoodData Central",
-        "Local market / supermarket average"
+        "Supermarket / bulk price"
       ],
-      "calculated_at": "2026-01-07T01:58:58.072763Z"
+      "calculated_at": "2026-01-07T02:31:47.025832Z",
+      "servings": 5
     },
     {
       "idMeal": "54",
@@ -2479,13 +2532,14 @@
       "calories_per_serving": 921,
       "price_per_serving": 75,
       "sources": [
-        "Supermarket average (canned equivalent)",
         "Local market average",
+        "Supermarket average (canned equivalent)",
         "Estimated placeholder (generic)",
         "Local supermarket/wet-market average (approx)",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.073470Z"
+      "calculated_at": "2026-01-07T02:31:47.026450Z",
+      "servings": 7
     },
     {
       "idMeal": "55",
@@ -2520,17 +2574,18 @@
       "carbs": 113,
       "fat": 153,
       "price": 198,
-      "calories_per_serving": 478,
-      "price_per_serving": 50,
+      "calories_per_serving": 293,
+      "price_per_serving": 31,
       "sources": [
-        "Supermarket average (canned equivalent)",
         "Local market average",
+        "Supermarket average (canned equivalent)",
+        "Approximate / condiment composition",
         "Estimated placeholder (generic)",
         "Supermarket average",
-        "USDA FoodData Central",
-        "Approximate / condiment composition"
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.074005Z"
+      "calculated_at": "2026-01-07T02:31:47.027002Z",
+      "servings": 3
     },
     {
       "idMeal": "56",
@@ -2577,7 +2632,8 @@
         "Generic / food composition tables",
         "Generic citrus composition"
       ],
-      "calculated_at": "2026-01-07T01:02:33.917715Z"
+      "calculated_at": "2026-01-07T01:02:33.917715Z",
+      "servings": 4
     },
     {
       "idMeal": "57",
@@ -2612,18 +2668,19 @@
       "carbs": 64,
       "fat": 405,
       "price": 253,
-      "calories_per_serving": 1148,
-      "price_per_serving": 63,
+      "calories_per_serving": 836,
+      "price_per_serving": 47,
       "sources": [
-        "Generic / USDA averages",
+        "Local market average",
         "Generic",
         "Estimated placeholder (processed food)",
-        "Local market average",
+        "Supermarket price",
         "Supermarket average",
-        "USDA FoodData Central",
-        "Supermarket price"
+        "Generic / USDA averages",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.075130Z"
+      "calculated_at": "2026-01-07T02:31:47.028175Z",
+      "servings": 8
     },
     {
       "idMeal": "58",
@@ -2659,17 +2716,18 @@
       "fat": 89,
       "price": 115,
       "calories_per_serving": 241,
-      "price_per_serving": 29,
+      "price_per_serving": 19,
       "sources": [
-        "Local market approximate / USDA (vegetable)",
         "Estimated placeholder (legume)",
-        "Generic",
         "Estimated placeholder (vegetable)",
+        "Local market approximate / USDA (vegetable)",
         "Local market average",
         "Local supermarket/wet-market average (approx)",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.075848Z"
+      "calculated_at": "2026-01-07T02:31:47.029477Z",
+      "servings": 2
     },
     {
       "idMeal": "59",
@@ -2712,7 +2770,8 @@
         "Local market average",
         "Supermarket price"
       ],
-      "calculated_at": "2026-01-07T01:02:33.918039Z"
+      "calculated_at": "2026-01-07T01:02:33.918039Z",
+      "servings": 9
     },
     {
       "idMeal": "60",
@@ -2747,19 +2806,20 @@
       "carbs": 9,
       "fat": 181,
       "price": 282,
-      "calories_per_serving": 660,
-      "price_per_serving": 70,
+      "calories_per_serving": 2,
+      "price_per_serving": 0,
       "sources": [
-        "Approximate / condiment composition",
-        "Generic",
         "Estimated placeholder (vegetable)",
         "Local market average",
         "Supermarket average",
         "USDA FoodData Central (approximate)",
-        "USDA FoodData Central",
-        "Local market / supermarket average"
+        "Approximate / condiment composition",
+        "Local market / supermarket average",
+        "Generic",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.077377Z"
+      "calculated_at": "2026-01-07T02:31:47.031923Z",
+      "servings": 4
     },
     {
       "idMeal": "61",
@@ -2794,17 +2854,18 @@
       "carbs": 62,
       "fat": 26,
       "price": 74,
-      "calories_per_serving": 147,
-      "price_per_serving": 18,
+      "calories_per_serving": 20,
+      "price_per_serving": 6,
       "sources": [
-        "Supermarket price",
-        "Generic citrus composition",
-        "Generic",
         "Local market average",
         "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Generic",
+        "Generic citrus composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.077907Z"
+      "calculated_at": "2026-01-07T02:31:47.032916Z",
+      "servings": 1
     },
     {
       "idMeal": "62",
@@ -2839,17 +2900,18 @@
       "carbs": 63,
       "fat": 75,
       "price": 174,
-      "calories_per_serving": 362,
-      "price_per_serving": 44,
+      "calories_per_serving": 162,
+      "price_per_serving": 4,
       "sources": [
-        "Generic / USDA averages",
-        "Estimated placeholder (seafood)",
         "Local market average",
+        "Estimated placeholder (seafood)",
+        "Supermarket price",
         "Supermarket average",
-        "USDA FoodData Central",
-        "Supermarket price"
+        "Generic / USDA averages",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.078220Z"
+      "calculated_at": "2026-01-07T02:31:47.033462Z",
+      "servings": 2
     },
     {
       "idMeal": "63",
@@ -2885,16 +2947,17 @@
       "fat": 115,
       "price": 150,
       "calories_per_serving": 289,
-      "price_per_serving": 38,
+      "price_per_serving": 30,
       "sources": [
-        "Supermarket average (canned equivalent)",
-        "Local market approximate / USDA (vegetable)",
         "Estimated placeholder (legume)",
+        "Local market approximate / USDA (vegetable)",
         "Estimated placeholder (vegetable)",
         "Local market average",
+        "Supermarket average (canned equivalent)",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.078769Z"
+      "calculated_at": "2026-01-07T02:31:47.034427Z",
+      "servings": 2
     },
     {
       "idMeal": "64",
@@ -2932,14 +2995,15 @@
       "calories_per_serving": 200,
       "price_per_serving": 33,
       "sources": [
-        "Estimated (diluted broth)",
-        "Estimated minimal cost",
-        "Estimated placeholder (processed food)",
         "Local market average",
+        "Estimated placeholder (processed food)",
+        "Estimated (diluted broth)",
         "Estimated placeholder (generic)",
+        "Estimated minimal cost",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.079647Z"
+      "calculated_at": "2026-01-07T02:31:47.035944Z",
+      "servings": 2
     },
     {
       "idMeal": "65",
@@ -2984,7 +3048,8 @@
         "Dried spices market average",
         "Local supermarket/wet-market average (approx)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.919274Z"
+      "calculated_at": "2026-01-07T01:02:33.919274Z",
+      "servings": 7
     },
     {
       "idMeal": "66",
@@ -3019,21 +3084,22 @@
       "carbs": 152,
       "fat": 49,
       "price": 108,
-      "calories_per_serving": 354,
-      "price_per_serving": 27,
+      "calories_per_serving": 219,
+      "price_per_serving": 13,
       "sources": [
-        "Estimated (diluted broth)",
-        "Approximate / condiment composition",
-        "Estimated minimal cost",
-        "Supermarket / local market average",
         "Local market average",
-        "Estimated placeholder (generic)",
-        "Supermarket average",
         "USDA FoodData Central (approximate)",
-        "USDA FoodData Central",
-        "Local market / supermarket average"
+        "Approximate / condiment composition",
+        "Estimated placeholder (generic)",
+        "Estimated (diluted broth)",
+        "Local market / supermarket average",
+        "Estimated minimal cost",
+        "Supermarket average",
+        "Supermarket / local market average",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.081448Z"
+      "calculated_at": "2026-01-07T02:31:47.038219Z",
+      "servings": 2
     },
     {
       "idMeal": "67",
@@ -3068,17 +3134,18 @@
       "carbs": 11,
       "fat": 26,
       "price": 164,
-      "calories_per_serving": 206,
-      "price_per_serving": 41,
+      "calories_per_serving": 18,
+      "price_per_serving": 4,
       "sources": [
-        "Dried spices market average",
-        "Estimated placeholder (seafood)",
-        "Supermarket price",
         "Local market average",
+        "Estimated placeholder (seafood)",
         "Estimated placeholder (generic)",
-        "USDA FoodData Central"
+        "Supermarket price",
+        "USDA FoodData Central",
+        "Dried spices market average"
       ],
-      "calculated_at": "2026-01-07T01:58:58.082006Z"
+      "calculated_at": "2026-01-07T02:31:47.038802Z",
+      "servings": 1
     },
     {
       "idMeal": "68",
@@ -3113,18 +3180,19 @@
       "carbs": 236,
       "fat": 39,
       "price": 145,
-      "calories_per_serving": 380,
-      "price_per_serving": 36,
+      "calories_per_serving": 57,
+      "price_per_serving": 11,
       "sources": [
-        "Supermarket price",
         "Estimated placeholder (legume)",
-        "Generic",
         "Local market average",
         "Estimated placeholder (generic)",
+        "Supermarket price",
         "Canned / supermarket average",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.082707Z"
+      "calculated_at": "2026-01-07T02:31:47.039513Z",
+      "servings": 3
     },
     {
       "idMeal": "69",
@@ -3173,7 +3241,8 @@
         "Approximate / condiment composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:02:33.920321Z"
+      "calculated_at": "2026-01-07T01:02:33.920321Z",
+      "servings": 4
     },
     {
       "idMeal": "70",
@@ -3208,17 +3277,18 @@
       "carbs": 92,
       "fat": 148,
       "price": 121,
-      "calories_per_serving": 578,
-      "price_per_serving": 30,
+      "calories_per_serving": 23,
+      "price_per_serving": 2,
       "sources": [
-        "Dried spices market average",
+        "Local market average",
+        "Estimated placeholder (processed food)",
         "Supermarket price",
         "Generic",
-        "Estimated placeholder (processed food)",
-        "Local market average",
-        "USDA FoodData Central"
+        "USDA FoodData Central",
+        "Dried spices market average"
       ],
-      "calculated_at": "2026-01-07T01:58:58.084345Z"
+      "calculated_at": "2026-01-07T02:31:47.041943Z",
+      "servings": 4
     },
     {
       "idMeal": "71",
@@ -3253,18 +3323,19 @@
       "carbs": 74,
       "fat": 7,
       "price": 35,
-      "calories_per_serving": 100,
+      "calories_per_serving": 64,
       "price_per_serving": 4,
       "sources": [
-        "Supermarket price",
         "Generic vegetable composition",
-        "Generic",
         "Local market average",
+        "Estimated placeholder (condiment)",
         "Estimated placeholder (generic)",
-        "USDA FoodData Central",
-        "Estimated placeholder (condiment)"
+        "Supermarket price",
+        "Generic",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.085524Z"
+      "calculated_at": "2026-01-07T02:31:47.044145Z",
+      "servings": 1
     },
     {
       "idMeal": "72",
@@ -3299,18 +3370,19 @@
       "carbs": 49,
       "fat": 72,
       "price": 271,
-      "calories_per_serving": 339,
+      "calories_per_serving": 267,
       "price_per_serving": 68,
       "sources": [
-        "Supermarket average (canned equivalent)",
         "Estimated placeholder (vegetable)",
         "Local market average",
+        "Supermarket average (canned equivalent)",
+        "Approximate / condiment composition",
         "Estimated placeholder (generic)",
         "Supermarket average",
-        "USDA FoodData Central",
-        "Approximate / condiment composition"
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.086354Z"
+      "calculated_at": "2026-01-07T02:31:47.045305Z",
+      "servings": 2
     },
     {
       "idMeal": "73",
@@ -3345,19 +3417,20 @@
       "carbs": 43,
       "fat": 47,
       "price": 108,
-      "calories_per_serving": 269,
-      "price_per_serving": 27,
+      "calories_per_serving": 21,
+      "price_per_serving": 6,
       "sources": [
-        "Dried spices market average",
-        "Supermarket price",
-        "Generic",
         "Local market average",
-        "Estimated placeholder (generic)",
-        "Approximate / local composition",
         "Local market approximate",
-        "USDA FoodData Central"
+        "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Approximate / local composition",
+        "Generic",
+        "USDA FoodData Central",
+        "Dried spices market average"
       ],
-      "calculated_at": "2026-01-07T01:58:58.086771Z"
+      "calculated_at": "2026-01-07T02:31:47.045772Z",
+      "servings": 2
     },
     {
       "idMeal": "74",
@@ -3408,7 +3481,8 @@
         "Generic citrus composition",
         "Spices market average"
       ],
-      "calculated_at": "2026-01-07T01:02:33.921756Z"
+      "calculated_at": "2026-01-07T01:02:33.921756Z",
+      "servings": 5
     },
     {
       "idMeal": "75",
@@ -3443,19 +3517,20 @@
       "carbs": 44,
       "fat": 71,
       "price": 97,
-      "calories_per_serving": 215,
-      "price_per_serving": 24,
+      "calories_per_serving": 141,
+      "price_per_serving": 15,
       "sources": [
-        "Supermarket average (canned equivalent)",
-        "Estimated placeholder (seafood)",
-        "Supermarket price",
-        "Generic",
         "Estimated placeholder (vegetable)",
         "Local market average",
+        "Estimated placeholder (seafood)",
+        "Supermarket average (canned equivalent)",
         "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.088840Z"
+      "calculated_at": "2026-01-07T02:31:47.048041Z",
+      "servings": 1
     },
     {
       "idMeal": "76",
@@ -3490,18 +3565,19 @@
       "carbs": 70,
       "fat": 26,
       "price": 74,
-      "calories_per_serving": 150,
-      "price_per_serving": 18,
+      "calories_per_serving": 12,
+      "price_per_serving": 4,
       "sources": [
-        "Supermarket price",
-        "Generic spice composition",
-        "Generic",
         "Local market average",
         "Estimated placeholder (generic)",
+        "Generic spice composition",
+        "Supermarket price",
+        "Generic",
         "Spices market average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.089455Z"
+      "calculated_at": "2026-01-07T02:31:47.048769Z",
+      "servings": 1
     },
     {
       "idMeal": "77",
@@ -3536,8 +3612,8 @@
       "carbs": 51,
       "fat": 79,
       "price": 121,
-      "calories_per_serving": 280,
-      "price_per_serving": 30,
+      "calories_per_serving": 152,
+      "price_per_serving": 18,
       "sources": [
         "Estimated placeholder (vegetable)",
         "Local market average",
@@ -3545,7 +3621,8 @@
         "Local supermarket/wet-market average (approx)",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.090222Z"
+      "calculated_at": "2026-01-07T02:31:47.049734Z",
+      "servings": 2
     },
     {
       "idMeal": "78",
@@ -3580,17 +3657,18 @@
       "carbs": 58,
       "fat": 141,
       "price": 285,
-      "calories_per_serving": 608,
-      "price_per_serving": 71,
+      "calories_per_serving": 2,
+      "price_per_serving": 0,
       "sources": [
-        "Supermarket price",
         "Generic vegetable composition",
-        "Generic",
         "Local market average",
+        "Supermarket price",
         "Approximate / local composition",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.091160Z"
+      "calculated_at": "2026-01-07T02:31:47.051269Z",
+      "servings": 4
     },
     {
       "idMeal": "79",
@@ -3625,19 +3703,20 @@
       "carbs": 31,
       "fat": 4,
       "price": 50,
-      "calories_per_serving": 64,
+      "calories_per_serving": 48,
       "price_per_serving": 12,
       "sources": [
-        "Supermarket price",
-        "Generic spice composition",
-        "Generic citrus composition",
-        "Generic",
         "Local market average",
-        "Estimated placeholder (generic)",
         "Spices market average",
+        "Estimated placeholder (generic)",
+        "Generic spice composition",
+        "Supermarket price",
+        "Generic",
+        "Generic citrus composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.092122Z"
+      "calculated_at": "2026-01-07T02:31:47.052772Z",
+      "servings": 1
     },
     {
       "idMeal": "80",
@@ -3672,17 +3751,18 @@
       "carbs": 20,
       "fat": 15,
       "price": 126,
-      "calories_per_serving": 145,
-      "price_per_serving": 32,
+      "calories_per_serving": 32,
+      "price_per_serving": 9,
       "sources": [
+        "Local market average",
         "Estimated placeholder (seafood)",
         "Supermarket price",
-        "Generic citrus composition",
         "Generic",
-        "Local market average",
+        "Generic citrus composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.092943Z"
+      "calculated_at": "2026-01-07T02:31:47.053608Z",
+      "servings": 1
     },
     {
       "idMeal": "81",
@@ -3717,19 +3797,20 @@
       "carbs": 9,
       "fat": 76,
       "price": 130,
-      "calories_per_serving": 286,
-      "price_per_serving": 32,
+      "calories_per_serving": 4,
+      "price_per_serving": 1,
       "sources": [
-        "Approximate / condiment composition",
-        "Generic",
         "Estimated placeholder (vegetable)",
         "Local market average",
         "Supermarket average",
         "USDA FoodData Central (approximate)",
-        "USDA FoodData Central",
-        "Local market / supermarket average"
+        "Approximate / condiment composition",
+        "Local market / supermarket average",
+        "Generic",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.094092Z"
+      "calculated_at": "2026-01-07T02:31:47.054879Z",
+      "servings": 2
     },
     {
       "idMeal": "82",
@@ -3764,21 +3845,22 @@
       "carbs": 152,
       "fat": 57,
       "price": 119,
-      "calories_per_serving": 381,
-      "price_per_serving": 30,
+      "calories_per_serving": 219,
+      "price_per_serving": 13,
       "sources": [
-        "Estimated (diluted broth)",
-        "Approximate / condiment composition",
-        "Estimated minimal cost",
-        "Generic citrus composition",
-        "Supermarket / local market average",
         "Local market average",
-        "Supermarket average",
         "USDA FoodData Central (approximate)",
-        "USDA FoodData Central",
-        "Local market / supermarket average"
+        "Approximate / condiment composition",
+        "Estimated (diluted broth)",
+        "Local market / supermarket average",
+        "Estimated minimal cost",
+        "Supermarket average",
+        "Supermarket / local market average",
+        "Generic citrus composition",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.095501Z"
+      "calculated_at": "2026-01-07T02:31:47.056238Z",
+      "servings": 3
     },
     {
       "idMeal": "83",
@@ -3813,18 +3895,19 @@
       "carbs": 148,
       "fat": 40,
       "price": 121,
-      "calories_per_serving": 262,
-      "price_per_serving": 30,
+      "calories_per_serving": 74,
+      "price_per_serving": 11,
       "sources": [
         "Estimated placeholder (vegetable)",
         "Local market average",
-        "Estimated placeholder (generic)",
         "Estimated placeholder (processed food)",
-        "Supermarket average",
+        "Estimated placeholder (generic)",
         "Canned / supermarket average",
+        "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.096251Z"
+      "calculated_at": "2026-01-07T02:31:47.057030Z",
+      "servings": 2
     },
     {
       "idMeal": "84",
@@ -3859,20 +3942,21 @@
       "carbs": 54,
       "fat": 145,
       "price": 200,
-      "calories_per_serving": 486,
-      "price_per_serving": 50,
+      "calories_per_serving": 142,
+      "price_per_serving": 14,
       "sources": [
-        "Supermarket average (canned equivalent)",
-        "Supermarket price",
         "Local market average",
+        "Supermarket average (canned equivalent)",
+        "USDA FoodData Central (approximate)",
         "Estimated placeholder (generic)",
         "Generic beverage composition",
+        "Local market / supermarket average",
+        "Supermarket price",
         "Supermarket average",
-        "USDA FoodData Central (approximate)",
-        "USDA FoodData Central",
-        "Local market / supermarket average"
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.096660Z"
+      "calculated_at": "2026-01-07T02:31:47.057512Z",
+      "servings": 3
     },
     {
       "idMeal": "85",
@@ -3906,18 +3990,19 @@
       "carbs": 80,
       "fat": 0,
       "price": 49,
-      "calories_per_serving": 112,
-      "price_per_serving": 12,
+      "calories_per_serving": 4,
+      "price_per_serving": 2,
       "sources": [
-        "Generic",
-        "Estimated placeholder (vegetable)",
         "Estimated",
-        "Local market average",
-        "Supermarket / bulk price",
+        "Estimated placeholder (vegetable)",
         "Generic legume composition",
-        "USDA FoodData Central"
+        "Local market average",
+        "Generic",
+        "USDA FoodData Central",
+        "Supermarket / bulk price"
       ],
-      "calculated_at": "2026-01-07T01:58:58.097002Z"
+      "calculated_at": "2026-01-07T02:31:47.057891Z",
+      "servings": 1
     },
     {
       "idMeal": "86",
@@ -3952,17 +4037,18 @@
       "carbs": 53,
       "fat": 107,
       "price": 127,
-      "calories_per_serving": 370,
-      "price_per_serving": 32,
+      "calories_per_serving": 296,
+      "price_per_serving": 24,
       "sources": [
-        "Supermarket price",
-        "Generic",
         "Local market average",
         "Estimated placeholder (generic)",
         "Local supermarket/wet-market average (approx)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.097582Z"
+      "calculated_at": "2026-01-07T02:31:47.058507Z",
+      "servings": 2
     },
     {
       "idMeal": "87",
@@ -3997,17 +4083,18 @@
       "carbs": 62,
       "fat": 26,
       "price": 74,
-      "calories_per_serving": 147,
-      "price_per_serving": 18,
+      "calories_per_serving": 20,
+      "price_per_serving": 6,
       "sources": [
-        "Supermarket price",
-        "Generic citrus composition",
-        "Generic",
         "Local market average",
         "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Generic",
+        "Generic citrus composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.098099Z"
+      "calculated_at": "2026-01-07T02:31:47.059048Z",
+      "servings": 1
     },
     {
       "idMeal": "88",
@@ -4042,18 +4129,19 @@
       "carbs": 58,
       "fat": 31,
       "price": 175,
-      "calories_per_serving": 266,
-      "price_per_serving": 44,
+      "calories_per_serving": 48,
+      "price_per_serving": 3,
       "sources": [
-        "Estimated placeholder (seafood)",
-        "Supermarket price",
-        "Generic condiment averages",
         "Local market average",
+        "Estimated placeholder (seafood)",
+        "Generic condiment averages",
         "Estimated placeholder (generic)",
+        "Supermarket price",
         "Supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.098692Z"
+      "calculated_at": "2026-01-07T02:31:47.059629Z",
+      "servings": 2
     },
     {
       "idMeal": "89",
@@ -4088,17 +4176,18 @@
       "carbs": 36,
       "fat": 133,
       "price": 176,
-      "calories_per_serving": 477,
-      "price_per_serving": 44,
+      "calories_per_serving": 250,
+      "price_per_serving": 33,
       "sources": [
-        "Supermarket price",
-        "Generic",
         "Local market average",
         "Estimated placeholder (processed food)",
         "Estimated placeholder (generic)",
+        "Supermarket price",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.099373Z"
+      "calculated_at": "2026-01-07T02:31:47.060427Z",
+      "servings": 3
     },
     {
       "idMeal": "90",
@@ -4145,7 +4234,8 @@
         "Generic / food composition tables",
         "Generic citrus composition"
       ],
-      "calculated_at": "2026-01-07T01:02:33.925315Z"
+      "calculated_at": "2026-01-07T01:02:33.925315Z",
+      "servings": 4
     },
     {
       "idMeal": "91",
@@ -4189,7 +4279,8 @@
         "USDA FoodData Central",
         "Supermarket average (canned equivalent)"
       ],
-      "calculated_at": "2026-01-07T01:02:33.925437Z"
+      "calculated_at": "2026-01-07T01:02:33.925437Z",
+      "servings": 3
     },
     {
       "idMeal": "92",
@@ -4224,18 +4315,19 @@
       "carbs": 226,
       "fat": 62,
       "price": 148,
-      "calories_per_serving": 430,
-      "price_per_serving": 37,
+      "calories_per_serving": 130,
+      "price_per_serving": 7,
       "sources": [
-        "Supermarket price",
-        "Generic citrus composition",
-        "Generic condiment averages",
         "Local market average",
+        "Generic condiment averages",
         "Estimated placeholder (generic)",
+        "Supermarket price",
         "Supermarket average",
+        "Generic citrus composition",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.101139Z"
+      "calculated_at": "2026-01-07T02:31:47.062099Z",
+      "servings": 3
     },
     {
       "idMeal": "93",
@@ -4270,16 +4362,17 @@
       "carbs": 97,
       "fat": 235,
       "price": 255,
-      "calories_per_serving": 836,
-      "price_per_serving": 64,
+      "calories_per_serving": 398,
+      "price_per_serving": 39,
       "sources": [
-        "Supermarket price",
+        "Local market average",
         "Estimated placeholder (processed food)",
         "Estimated placeholder (generic)",
-        "Local market average",
+        "Supermarket price",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.101552Z"
+      "calculated_at": "2026-01-07T02:31:47.062486Z",
+      "servings": 6
     },
     {
       "idMeal": "94",
@@ -4315,16 +4408,17 @@
       "fat": 116,
       "price": 131,
       "calories_per_serving": 306,
-      "price_per_serving": 33,
+      "price_per_serving": 23,
       "sources": [
-        "Local market approximate / USDA (vegetable)",
-        "Generic",
         "Estimated placeholder (vegetable)",
+        "Local market approximate / USDA (vegetable)",
         "Local market average",
         "Local supermarket/wet-market average (approx)",
+        "Generic",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.102105Z"
+      "calculated_at": "2026-01-07T02:31:47.063034Z",
+      "servings": 2
     },
     {
       "idMeal": "95",
@@ -4359,15 +4453,16 @@
       "carbs": 97,
       "fat": 33,
       "price": 76,
-      "calories_per_serving": 207,
-      "price_per_serving": 19,
+      "calories_per_serving": 18,
+      "price_per_serving": 3,
       "sources": [
         "Estimated placeholder (generic)",
+        "Supermarket average",
         "Estimated placeholder (legume)",
-        "USDA FoodData Central",
-        "Supermarket average"
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.103474Z"
+      "calculated_at": "2026-01-07T02:31:47.064527Z",
+      "servings": 1
     },
     {
       "idMeal": "96",
@@ -4402,17 +4497,18 @@
       "carbs": 82,
       "fat": 32,
       "price": 82,
-      "calories_per_serving": 186,
-      "price_per_serving": 20,
+      "calories_per_serving": 37,
+      "price_per_serving": 4,
       "sources": [
-        "Supermarket price",
         "Estimated placeholder (vegetable)",
         "Local market average",
+        "Estimated placeholder (condiment)",
         "Estimated placeholder (generic)",
-        "USDA FoodData Central",
-        "Estimated placeholder (condiment)"
+        "Supermarket price",
+        "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.104236Z"
+      "calculated_at": "2026-01-07T02:31:47.065275Z",
+      "servings": 1
     },
     {
       "idMeal": "97",
@@ -4447,18 +4543,19 @@
       "carbs": 170,
       "fat": 268,
       "price": 236,
-      "calories_per_serving": 877,
-      "price_per_serving": 59,
+      "calories_per_serving": 697,
+      "price_per_serving": 49,
       "sources": [
-        "Supermarket price",
         "Estimated placeholder (legume)",
-        "Estimated placeholder (processed food)",
         "Local market average",
+        "Estimated placeholder (processed food)",
         "Local supermarket/wet-market average (approx)",
+        "Supermarket price",
         "Canned / supermarket average",
         "USDA FoodData Central"
       ],
-      "calculated_at": "2026-01-07T01:58:58.104819Z"
+      "calculated_at": "2026-01-07T02:31:47.065852Z",
+      "servings": 6
     },
     {
       "idMeal": "98",
@@ -4493,21 +4590,22 @@
       "carbs": 10,
       "fat": 39,
       "price": 79,
-      "calories_per_serving": 232,
-      "price_per_serving": 20,
+      "calories_per_serving": 7,
+      "price_per_serving": 2,
       "sources": [
-        "Dried spices market average",
-        "Supermarket price",
-        "Estimated minimal cost",
-        "Generic",
         "Estimated",
         "Local market average",
-        "Estimated placeholder (generic)",
-        "Approximate / local composition",
         "Local market approximate",
-        "USDA FoodData Central"
+        "Estimated placeholder (generic)",
+        "Estimated minimal cost",
+        "Supermarket price",
+        "Approximate / local composition",
+        "Generic",
+        "USDA FoodData Central",
+        "Dried spices market average"
       ],
-      "calculated_at": "2026-01-07T01:58:58.105230Z"
+      "calculated_at": "2026-01-07T02:31:47.066273Z",
+      "servings": 2
     },
     {
       "idMeal": "99",
@@ -4543,19 +4641,20 @@
       "fat": 3,
       "price": 290,
       "calories_per_serving": 162,
-      "price_per_serving": 72,
+      "price_per_serving": 55,
       "sources": [
-        "Local market approximate / USDA (vegetable)",
         "Estimated placeholder (legume)",
-        "Generic",
-        "Estimated placeholder (vegetable)",
+        "Local market approximate / USDA (vegetable)",
         "Local market average",
-        "Supermarket / bulk price",
+        "Estimated placeholder (vegetable)",
         "Supermarket average",
+        "Approximate / condiment composition",
+        "Generic",
         "USDA FoodData Central",
-        "Approximate / condiment composition"
+        "Supermarket / bulk price"
       ],
-      "calculated_at": "2026-01-07T01:58:58.106266Z"
+      "calculated_at": "2026-01-07T02:31:47.067645Z",
+      "servings": 1
     },
     {
       "idMeal": "100",
@@ -4598,7 +4697,8 @@
         "Local market average",
         "Generic"
       ],
-      "calculated_at": "2026-01-07T01:02:33.927058Z"
+      "calculated_at": "2026-01-07T01:02:33.927058Z",
+      "servings": 2
     }
   ],
   "categories": [
