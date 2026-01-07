@@ -32,7 +32,7 @@
       "protein": 103,
       "carbs": 37,
       "fat": 105,
-      "price": 150,
+      "price": 350,
       "calories_per_serving": 371,
       "price_per_serving": 38,
       "sources": [
@@ -76,7 +76,7 @@
       "protein": 104,
       "carbs": 13,
       "fat": 531,
-      "price": 320,
+      "price": 380,
       "calories_per_serving": 1322,
       "price_per_serving": 87,
       "sources": [
@@ -215,7 +215,7 @@
       "protein": 16,
       "carbs": 2,
       "fat": 10,
-      "price": 14,
+      "price": 230,
       "calories_per_serving": 40,
       "price_per_serving": 4,
       "sources": [
@@ -259,7 +259,7 @@
       "protein": 49,
       "carbs": 15,
       "fat": 265,
-      "price": 171,
+      "price": 420,
       "calories_per_serving": 665,
       "price_per_serving": 43,
       "sources": [
@@ -394,7 +394,7 @@
       "protein": 2,
       "carbs": 14,
       "fat": 0,
-      "price": 10,
+      "price": 270,
       "calories_per_serving": 15,
       "price_per_serving": 2,
       "sources": [
@@ -438,7 +438,7 @@
       "protein": 14,
       "carbs": 28,
       "fat": 115,
-      "price": 110,
+      "price": 290,
       "calories_per_serving": 280,
       "price_per_serving": 28,
       "sources": [
@@ -482,7 +482,7 @@
       "protein": 3,
       "carbs": 17,
       "fat": 1,
-      "price": 15,
+      "price": 190,
       "calories_per_serving": 20,
       "price_per_serving": 4,
       "sources": [
@@ -527,7 +527,7 @@
       "protein": 10,
       "carbs": 45,
       "fat": 3,
-      "price": 38,
+      "price": 330,
       "calories_per_serving": 51,
       "price_per_serving": 10,
       "sources": [
@@ -614,7 +614,7 @@
       "protein": 26,
       "carbs": 25,
       "fat": 14,
-      "price": 57,
+      "price": 570,
       "calories_per_serving": 80,
       "price_per_serving": 14,
       "sources": [
@@ -658,7 +658,7 @@
       "protein": 48,
       "carbs": 19,
       "fat": 265,
-      "price": 167,
+      "price": 360,
       "calories_per_serving": 666,
       "price_per_serving": 42,
       "sources": [
@@ -702,7 +702,7 @@
       "protein": 10,
       "carbs": 10,
       "fat": 1,
-      "price": 24,
+      "price": 240,
       "calories_per_serving": 20,
       "price_per_serving": 6,
       "sources": [
@@ -746,7 +746,7 @@
       "protein": 1,
       "carbs": 5,
       "fat": 5,
-      "price": 11,
+      "price": 310,
       "calories_per_serving": 13,
       "price_per_serving": 3,
       "sources": [
@@ -789,7 +789,7 @@
       "protein": 52,
       "carbs": 10,
       "fat": 268,
-      "price": 176,
+      "price": 350,
       "calories_per_serving": 676,
       "price_per_serving": 44,
       "sources": [
@@ -878,7 +878,7 @@
       "protein": 37,
       "carbs": 1,
       "fat": 89,
-      "price": 76,
+      "price": 180,
       "calories_per_serving": 241,
       "price_per_serving": 19,
       "sources": [
@@ -921,7 +921,7 @@
       "protein": 13,
       "carbs": 30,
       "fat": 115,
-      "price": 114,
+      "price": 280,
       "calories_per_serving": 281,
       "price_per_serving": 28,
       "sources": [
@@ -965,7 +965,7 @@
       "protein": 7,
       "carbs": 45,
       "fat": 5,
-      "price": 69,
+      "price": 350,
       "calories_per_serving": 72,
       "price_per_serving": 17,
       "sources": [
@@ -1010,7 +1010,7 @@
       "protein": 11,
       "carbs": 64,
       "fat": 1,
-      "price": 22,
+      "price": 370,
       "calories_per_serving": 74,
       "price_per_serving": 6,
       "sources": [
@@ -1053,7 +1053,7 @@
       "protein": 86,
       "carbs": 399,
       "fat": 23,
-      "price": 103,
+      "price": 250,
       "calories_per_serving": 542,
       "price_per_serving": 26,
       "sources": [
@@ -1143,7 +1143,7 @@
       "protein": 35,
       "carbs": 5,
       "fat": 159,
-      "price": 106,
+      "price": 280,
       "calories_per_serving": 400,
       "price_per_serving": 26,
       "sources": [
@@ -1187,7 +1187,7 @@
       "protein": 5,
       "carbs": 75,
       "fat": 19,
-      "price": 32,
+      "price": 250,
       "calories_per_serving": 118,
       "price_per_serving": 8,
       "sources": [
@@ -1233,7 +1233,7 @@
       "protein": 26,
       "carbs": 25,
       "fat": 107,
-      "price": 94,
+      "price": 230,
       "calories_per_serving": 295,
       "price_per_serving": 24,
       "sources": [
@@ -1276,7 +1276,7 @@
       "protein": 34,
       "carbs": 51,
       "fat": 82,
-      "price": 124,
+      "price": 200,
       "calories_per_serving": 259,
       "price_per_serving": 31,
       "sources": [
@@ -1318,7 +1318,7 @@
       "protein": 15,
       "carbs": 57,
       "fat": 24,
-      "price": 32,
+      "price": 320,
       "calories_per_serving": 129,
       "price_per_serving": 8,
       "sources": [
@@ -1360,7 +1360,7 @@
       "protein": 77,
       "carbs": 15,
       "fat": 29,
-      "price": 102,
+      "price": 150,
       "calories_per_serving": 159,
       "price_per_serving": 26,
       "sources": [
@@ -1405,7 +1405,7 @@
       "protein": 12,
       "carbs": 31,
       "fat": 115,
-      "price": 119,
+      "price": 320,
       "calories_per_serving": 284,
       "price_per_serving": 30,
       "sources": [
@@ -1448,7 +1448,7 @@
       "protein": 1,
       "carbs": 0,
       "fat": 50,
-      "price": 16,
+      "price": 280,
       "calories_per_serving": 119,
       "price_per_serving": 4,
       "sources": [
@@ -1493,7 +1493,7 @@
       "protein": 7,
       "carbs": 18,
       "fat": 4,
-      "price": 17,
+      "price": 360,
       "calories_per_serving": 34,
       "price_per_serving": 4,
       "sources": [
@@ -1536,7 +1536,7 @@
       "protein": 33,
       "carbs": 15,
       "fat": 24,
-      "price": 28,
+      "price": 200,
       "calories_per_serving": 99,
       "price_per_serving": 7,
       "sources": [
@@ -1581,7 +1581,7 @@
       "protein": 77,
       "carbs": 58,
       "fat": 398,
-      "price": 263,
+      "price": 260,
       "calories_per_serving": 1039,
       "price_per_serving": 66,
       "sources": [
@@ -1626,7 +1626,7 @@
       "protein": 13,
       "carbs": 30,
       "fat": 115,
-      "price": 114,
+      "price": 310,
       "calories_per_serving": 281,
       "price_per_serving": 28,
       "sources": [
@@ -1670,7 +1670,7 @@
       "protein": 1,
       "carbs": 5,
       "fat": 50,
-      "price": 19,
+      "price": 150,
       "calories_per_serving": 119,
       "price_per_serving": 5,
       "sources": [
@@ -1715,7 +1715,7 @@
       "protein": 6,
       "carbs": 7,
       "fat": 4,
-      "price": 17,
+      "price": 330,
       "calories_per_serving": 22,
       "price_per_serving": 4,
       "sources": [
@@ -1757,7 +1757,7 @@
       "protein": 12,
       "carbs": 123,
       "fat": 201,
-      "price": 56,
+      "price": 300,
       "calories_per_serving": 584,
       "price_per_serving": 14,
       "sources": [
@@ -1803,7 +1803,7 @@
       "protein": 2,
       "carbs": 15,
       "fat": 0,
-      "price": 11,
+      "price": 570,
       "calories_per_serving": 18,
       "price_per_serving": 3,
       "sources": [
@@ -1846,7 +1846,7 @@
       "protein": 1,
       "carbs": 3,
       "fat": 0,
-      "price": 10,
+      "price": 280,
       "calories_per_serving": 6,
       "price_per_serving": 2,
       "sources": [
@@ -1889,7 +1889,7 @@
       "protein": 6,
       "carbs": 0,
       "fat": 35,
-      "price": 10,
+      "price": 220,
       "calories_per_serving": 84,
       "price_per_serving": 2,
       "sources": [
@@ -1932,7 +1932,7 @@
       "protein": 59,
       "carbs": 1,
       "fat": 10,
-      "price": 91,
+      "price": 170,
       "calories_per_serving": 84,
       "price_per_serving": 23,
       "sources": ["USDA FoodData Central", "Local market average", "Generic"],
@@ -1970,7 +1970,7 @@
       "protein": 6,
       "carbs": 11,
       "fat": 0,
-      "price": 15,
+      "price": 290,
       "calories_per_serving": 16,
       "price_per_serving": 4,
       "sources": [
@@ -2013,7 +2013,7 @@
       "protein": 44,
       "carbs": 2,
       "fat": 10,
-      "price": 58,
+      "price": 150,
       "calories_per_serving": 80,
       "price_per_serving": 14,
       "sources": [
@@ -2058,7 +2058,7 @@
       "protein": 82,
       "carbs": 10,
       "fat": 77,
-      "price": 135,
+      "price": 230,
       "calories_per_serving": 268,
       "price_per_serving": 34,
       "sources": [
@@ -2101,7 +2101,7 @@
       "protein": 26,
       "carbs": 152,
       "fat": 8,
-      "price": 48,
+      "price": 240,
       "calories_per_serving": 202,
       "price_per_serving": 12,
       "sources": [
@@ -2193,7 +2193,7 @@
       "protein": 1,
       "carbs": 107,
       "fat": 0,
-      "price": 9,
+      "price": 350,
       "calories_per_serving": 104,
       "price_per_serving": 2,
       "sources": [
@@ -2236,7 +2236,7 @@
       "protein": 27,
       "carbs": 49,
       "fat": 208,
-      "price": 188,
+      "price": 310,
       "calories_per_serving": 541,
       "price_per_serving": 47,
       "sources": [
@@ -2326,7 +2326,7 @@
       "protein": 13,
       "carbs": 166,
       "fat": 2,
-      "price": 69,
+      "price": 180,
       "calories_per_serving": 165,
       "price_per_serving": 17,
       "sources": [
@@ -2414,7 +2414,7 @@
       "protein": 20,
       "carbs": 39,
       "fat": 116,
-      "price": 124,
+      "price": 320,
       "calories_per_serving": 293,
       "price_per_serving": 31,
       "sources": [
@@ -2458,7 +2458,7 @@
       "protein": 96,
       "carbs": 380,
       "fat": 12,
-      "price": 118,
+      "price": 150,
       "calories_per_serving": 502,
       "price_per_serving": 30,
       "sources": [
@@ -2505,7 +2505,7 @@
       "protein": 90,
       "carbs": 15,
       "fat": 325,
-      "price": 188,
+      "price": 240,
       "calories_per_serving": 836,
       "price_per_serving": 47,
       "sources": [
@@ -2550,7 +2550,7 @@
       "protein": 37,
       "carbs": 1,
       "fat": 89,
-      "price": 76,
+      "price": 150,
       "calories_per_serving": 241,
       "price_per_serving": 19,
       "sources": [
@@ -2636,7 +2636,7 @@
       "protein": 2,
       "carbs": 1,
       "fat": 0,
-      "price": 2,
+      "price": 290,
       "calories_per_serving": 2,
       "price_per_serving": 0,
       "sources": [
@@ -2678,7 +2678,7 @@
       "protein": 10,
       "carbs": 10,
       "fat": 1,
-      "price": 24,
+      "price": 310,
       "calories_per_serving": 20,
       "price_per_serving": 6,
       "sources": [
@@ -2722,7 +2722,7 @@
       "protein": 0,
       "carbs": 50,
       "fat": 50,
-      "price": 16,
+      "price": 200,
       "calories_per_serving": 162,
       "price_per_serving": 4,
       "sources": [
@@ -2808,7 +2808,7 @@
       "protein": 68,
       "carbs": 4,
       "fat": 54,
-      "price": 132,
+      "price": 190,
       "calories_per_serving": 200,
       "price_per_serving": 33,
       "sources": [
@@ -2851,7 +2851,7 @@
       "protein": 80,
       "carbs": 52,
       "fat": 398,
-      "price": 320,
+      "price": 350,
       "calories_per_serving": 1035,
       "price_per_serving": 66,
       "sources": [
@@ -2896,7 +2896,7 @@
       "protein": 32,
       "carbs": 152,
       "fat": 8,
-      "price": 52,
+      "price": 170,
       "calories_per_serving": 219,
       "price_per_serving": 13,
       "sources": [
@@ -2942,7 +2942,7 @@
       "protein": 4,
       "carbs": 11,
       "fat": 0,
-      "price": 14,
+      "price": 250,
       "calories_per_serving": 18,
       "price_per_serving": 4,
       "sources": [
@@ -2985,7 +2985,7 @@
       "protein": 15,
       "carbs": 46,
       "fat": 3,
-      "price": 43,
+      "price": 330,
       "calories_per_serving": 57,
       "price_per_serving": 11,
       "sources": [
@@ -3028,7 +3028,7 @@
       "protein": 115,
       "carbs": 228,
       "fat": 68,
-      "price": 175,
+      "price": 200,
       "calories_per_serving": 505,
       "price_per_serving": 44,
       "sources": [
@@ -3077,7 +3077,7 @@
       "protein": 3,
       "carbs": 18,
       "fat": 0,
-      "price": 10,
+      "price": 300,
       "calories_per_serving": 23,
       "price_per_serving": 2,
       "sources": [
@@ -3121,7 +3121,7 @@
       "protein": 10,
       "carbs": 56,
       "fat": 1,
-      "price": 17,
+      "price": 270,
       "calories_per_serving": 64,
       "price_per_serving": 4,
       "sources": [
@@ -3164,7 +3164,7 @@
       "protein": 128,
       "carbs": 18,
       "fat": 59,
-      "price": 271,
+      "price": 270,
       "calories_per_serving": 267,
       "price_per_serving": 68,
       "sources": [
@@ -3208,7 +3208,7 @@
       "protein": 3,
       "carbs": 10,
       "fat": 0,
-      "price": 24,
+      "price": 240,
       "calories_per_serving": 21,
       "price_per_serving": 6,
       "sources": [
@@ -3252,7 +3252,7 @@
       "protein": 167,
       "carbs": 399,
       "fat": 77,
-      "price": 280,
+      "price": 250,
       "calories_per_serving": 754,
       "price_per_serving": 65,
       "sources": [
@@ -3303,7 +3303,7 @@
       "protein": 6,
       "carbs": 16,
       "fat": 58,
-      "price": 59,
+      "price": 350,
       "calories_per_serving": 141,
       "price_per_serving": 15,
       "sources": [
@@ -3347,7 +3347,7 @@
       "protein": 1,
       "carbs": 7,
       "fat": 1,
-      "price": 18,
+      "price": 180,
       "calories_per_serving": 12,
       "price_per_serving": 4,
       "sources": [
@@ -3392,7 +3392,7 @@
       "protein": 31,
       "carbs": 0,
       "fat": 53,
-      "price": 70,
+      "price": 200,
       "calories_per_serving": 152,
       "price_per_serving": 18,
       "sources": [
@@ -3434,7 +3434,7 @@
       "protein": 1,
       "carbs": 2,
       "fat": 0,
-      "price": 2,
+      "price": 560,
       "calories_per_serving": 2,
       "price_per_serving": 0,
       "sources": [
@@ -3477,7 +3477,7 @@
       "protein": 4,
       "carbs": 31,
       "fat": 4,
-      "price": 50,
+      "price": 280,
       "calories_per_serving": 48,
       "price_per_serving": 12,
       "sources": [
@@ -3523,7 +3523,7 @@
       "protein": 3,
       "carbs": 20,
       "fat": 0,
-      "price": 36,
+      "price": 360,
       "calories_per_serving": 32,
       "price_per_serving": 9,
       "sources": [
@@ -3567,7 +3567,7 @@
       "protein": 3,
       "carbs": 2,
       "fat": 0,
-      "price": 4,
+      "price": 370,
       "calories_per_serving": 4,
       "price_per_serving": 1,
       "sources": [
@@ -3609,7 +3609,7 @@
       "protein": 32,
       "carbs": 152,
       "fat": 8,
-      "price": 52,
+      "price": 220,
       "calories_per_serving": 219,
       "price_per_serving": 13,
       "sources": [
@@ -3656,7 +3656,7 @@
       "protein": 10,
       "carbs": 43,
       "fat": 14,
-      "price": 44,
+      "price": 380,
       "calories_per_serving": 74,
       "price_per_serving": 11,
       "sources": [
@@ -3698,7 +3698,7 @@
       "protein": 8,
       "carbs": 20,
       "fat": 58,
-      "price": 56,
+      "price": 260,
       "calories_per_serving": 142,
       "price_per_serving": 14,
       "sources": [
@@ -3739,7 +3739,7 @@
       "protein": 4,
       "carbs": 0,
       "fat": 0,
-      "price": 6,
+      "price": 170,
       "calories_per_serving": 4,
       "price_per_serving": 2,
       "sources": ["USDA FoodData Central", "Local market average", "Generic"],
@@ -3777,7 +3777,7 @@
       "protein": 30,
       "carbs": 23,
       "fat": 107,
-      "price": 97,
+      "price": 250,
       "calories_per_serving": 296,
       "price_per_serving": 24,
       "sources": [
@@ -3821,7 +3821,7 @@
       "protein": 10,
       "carbs": 10,
       "fat": 1,
-      "price": 24,
+      "price": 300,
       "calories_per_serving": 20,
       "price_per_serving": 6,
       "sources": [
@@ -3865,7 +3865,7 @@
       "protein": 0,
       "carbs": 46,
       "fat": 0,
-      "price": 11,
+      "price": 240,
       "calories_per_serving": 48,
       "price_per_serving": 3,
       "sources": [
@@ -3909,7 +3909,7 @@
       "protein": 76,
       "carbs": 6,
       "fat": 72,
-      "price": 131,
+      "price": 280,
       "calories_per_serving": 250,
       "price_per_serving": 33,
       "sources": [
@@ -3952,7 +3952,7 @@
       "protein": 110,
       "carbs": 391,
       "fat": 15,
-      "price": 149,
+      "price": 180,
       "calories_per_serving": 527,
       "price_per_serving": 37,
       "sources": [
@@ -3999,7 +3999,7 @@
       "protein": 133,
       "carbs": 31,
       "fat": 117,
-      "price": 400,
+      "price": 280,
       "calories_per_serving": 405,
       "price_per_serving": 81,
       "sources": [
@@ -4043,7 +4043,7 @@
       "protein": 18,
       "carbs": 106,
       "fat": 2,
-      "price": 28,
+      "price": 250,
       "calories_per_serving": 130,
       "price_per_serving": 7,
       "sources": [
@@ -4088,7 +4088,7 @@
       "protein": 92,
       "carbs": 15,
       "fat": 125,
-      "price": 155,
+      "price": 270,
       "calories_per_serving": 398,
       "price_per_serving": 39,
       "sources": [
@@ -4130,7 +4130,7 @@
       "protein": 42,
       "carbs": 1,
       "fat": 116,
-      "price": 92,
+      "price": 280,
       "calories_per_serving": 306,
       "price_per_serving": 23,
       "sources": [
@@ -4173,7 +4173,7 @@
       "protein": 5,
       "carbs": 6,
       "fat": 4,
-      "price": 13,
+      "price": 150,
       "calories_per_serving": 18,
       "price_per_serving": 3,
       "sources": ["USDA FoodData Central", "Supermarket average"],
@@ -4211,7 +4211,7 @@
       "protein": 10,
       "carbs": 15,
       "fat": 5,
-      "price": 17,
+      "price": 170,
       "calories_per_serving": 37,
       "price_per_serving": 4,
       "sources": [
@@ -4253,7 +4253,7 @@
       "protein": 57,
       "carbs": 43,
       "fat": 268,
-      "price": 196,
+      "price": 260,
       "calories_per_serving": 697,
       "price_per_serving": 49,
       "sources": [
@@ -4296,7 +4296,7 @@
       "protein": 0,
       "carbs": 2,
       "fat": 0,
-      "price": 9,
+      "price": 180,
       "calories_per_serving": 7,
       "price_per_serving": 2,
       "sources": [
@@ -4339,7 +4339,7 @@
       "protein": 134,
       "carbs": 3,
       "fat": 11,
-      "price": 221,
+      "price": 280,
       "calories_per_serving": 162,
       "price_per_serving": 55,
       "sources": [
@@ -4384,7 +4384,7 @@
       "protein": 63,
       "carbs": 204,
       "fat": 48,
-      "price": 55,
+      "price": 180,
       "calories_per_serving": 372,
       "price_per_serving": 14,
       "sources": [
