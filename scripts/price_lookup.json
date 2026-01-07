@@ -1,0 +1,674 @@
+{
+  "pork_hock": {
+    "price_php_per_kg": 280,
+    "source": "Local supermarket/wet-market average (approx)"
+  },
+  "pork_belly": {
+    "price_php_per_kg": 320,
+    "source": "Local supermarket/wet-market average (approx)"
+  },
+  "garlic": {
+    "price_php_per_kg": 200,
+    "source": "Local market average"
+  },
+  "bay_leaf": {
+    "price_php_per_kg": 800,
+    "source": "Dried spices market average"
+  },
+  "peppercorns": {
+    "price_php_per_kg": 1200,
+    "source": "Dried spices market average"
+  },
+  "salt": {
+    "price_php_per_kg": 25,
+    "source": "Supermarket price"
+  },
+  "vinegar": {
+    "price_php_per_liter": 60,
+    "source": "Supermarket price"
+  },
+  "soy_sauce": {
+    "price_php_per_liter": 120,
+    "source": "Supermarket price"
+  },
+  "onion": {
+    "price_php_per_kg": 60,
+    "source": "Local market average"
+  },
+  "egg": {
+    "price_php_per_kg": 90,
+    "source": "Local market average"
+  },
+  "shrimp": {
+    "price_php_per_kg": 420,
+    "source": "Local market average"
+  },
+  "ground_pork": {
+    "price_php_per_kg": 280,
+    "source": "Local market average"
+  },
+  "noodles": {
+    "price_php_per_kg": 120,
+    "source": "Local supermarket"
+  },
+  "tomato": {
+    "price_php_per_kg": 80,
+    "source": "Local market average"
+  },
+  "cabbage": {
+    "price_php_per_kg": 50,
+    "source": "Local market average"
+  },
+  "potato": {
+    "price_php_per_kg": 70,
+    "source": "Local market average"
+  },
+  "eggplant": {
+    "price_php_per_kg": 90,
+    "source": "Local market average"
+  },
+  "pork_ears": {
+    "price_php_per_kg": 220,
+    "source": "Local market average"
+  },
+  "pork_snout": {
+    "price_php_per_kg": 220,
+    "source": "Local market average"
+  },
+  "rice": {
+    "price_php_per_kg": 60,
+    "source": "Supermarket / local market average"
+  },
+  "coconut_milk": {
+    "price_php_per_liter": 220,
+    "source": "Supermarket average (canned equivalent)"
+  },
+  "sugar": {
+    "price_php_per_kg": 50,
+    "source": "Local market average"
+  },
+  "flour": {
+    "price_php_per_kg": 90,
+    "source": "Supermarket average"
+  },
+  "cornstarch": {
+    "price_php_per_kg": 150,
+    "source": "Supermarket average"
+  },
+  "cooking_oil": {
+    "price_php_per_liter": 180,
+    "source": "Supermarket average"
+  },
+  "fish_sauce": {
+    "price_php_per_liter": 150,
+    "source": "Supermarket average"
+  },
+  "banana_ketchup": {
+    "price_php_per_liter": 150,
+    "source": "Supermarket average"
+  },
+  "chicharon": {
+    "price_php_per_kg": 500,
+    "source": "Local market / snack prices"
+  },
+  "milk": {
+    "price_php_per_liter": 110,
+    "source": "Supermarket average"
+  },
+  "bread": {
+    "price_php_per_kg": 120,
+    "source": "Bakery / supermarket average"
+  },
+  "butter": {
+    "price_php_per_kg": 560,
+    "source": "Supermarket average"
+  },
+  "tomato_paste": {
+    "price_php_per_kg": 150,
+    "source": "Canned / supermarket average"
+  },
+  "chili_peppers": {
+    "price_php_per_kg": 200,
+    "source": "Local market average"
+  },
+  "calamansi": {
+    "price_php_per_kg": 150,
+    "source": "Local market average"
+  },
+  "tamarind": {
+    "price_php_per_kg": 220,
+    "source": "Supermarket / bulk price"
+  },
+  "annatto": {
+    "price_php_per_kg": 800,
+    "source": "Spices market average"
+  },
+  "condensed_milk": {
+    "price_php_per_kg": 380,
+    "source": "Supermarket average"
+  },
+  "pie_crust": {
+    "price_php_per_kg": 300,
+    "source": "Supermarket / bakery average"
+  },
+  "young_coconut": {
+    "price_php_per_kg": 180,
+    "source": "Local market average"
+  },
+  "chicken_wings": {
+    "price_php_per_kg": 160,
+    "source": "Local market average"
+  },
+  "chicken": {
+    "price_php_per_kg": 220,
+    "source": "Local market / supermarket average"
+  },
+  "carrot": {
+    "price_php_per_kg": 40,
+    "source": "Local market average"
+  },
+  "bell_pepper": {
+    "price_php_per_kg": 180,
+    "source": "Local market average"
+  },
+  "ginger": {
+    "price_php_per_kg": 200,
+    "source": "Local market average"
+  },
+  "bok_choy": {
+    "price_php_per_kg": 60,
+    "source": "Local market average"
+  },
+  "kangkong": {
+    "price_php_per_kg": 60,
+    "source": "Local market average"
+  },
+  "corn_on_the_cob": {
+    "price_php_per_kg": 60,
+    "source": "Local market average"
+  },
+  "mung_beans": {
+    "price_php_per_kg": 120,
+    "source": "Supermarket / bulk price"
+  },
+  "pork_innards": {
+    "price_php_per_kg": 120,
+    "source": "Local market approximate"
+  },
+  "pork_blood": {
+    "price_php_per_kg": 30,
+    "source": "Estimated minimal cost"
+  },
+  "pork_shoulder": {
+    "price_php_per_kg": 260,
+    "source": "Local market average"
+  },
+  "beef_shank": {
+    "price_php_per_kg": 260,
+    "source": "Local market average"
+  },
+  "pineapple_juice": {
+    "price_php_per_liter": 80,
+    "source": "Supermarket average"
+  },
+  "red_food_coloring": {
+    "price_php_per_kg": 1000,
+    "source": "Estimated / negligible"
+  },
+  "shrimp_broth": {
+    "price_php_per_liter": 30,
+    "source": "Estimated minimal cost"
+  },
+  "chicken_broth": {
+    "price_php_per_liter": 30,
+    "source": "Estimated minimal cost"
+  },
+  "beef_broth": {
+    "price_php_per_liter": 30,
+    "source": "Estimated minimal cost"
+  },
+  "pork_broth": {
+    "price_php_per_liter": 30,
+    "source": "Estimated minimal cost"
+  },
+  "water": {
+    "price_php_per_liter": 0,
+    "source": "Generic"
+  },
+  "adobo_sauce/oil": {
+    "price_php_per_kg": 180,
+    "source": "Estimated placeholder (condiment)"
+  },
+  "banana_leaves/aluminum_foil": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "beef/goat_meat": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "beef_brisket": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "beef_brisket/chuck": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "beef_sirloin": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "bitter_gourd_ampalaya": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "bitter_gourd_leaves": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "button_mushrooms": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "chayote_sayote": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "cheddar_cheese_shredded": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "chicken/pork": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "chicken_adobo_shredded": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "chicken_breast": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "chicken_breast/thighs": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "chicken_legs/thighs": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "chicken_piece": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "chicken_thighs/legs": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "chopped_wing_beans/long_beans": {
+    "price_php_per_kg": 120,
+    "source": "Estimated placeholder (legume)"
+  },
+  "coconut_cream": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "coconut_cream_kakang_gata": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "dried_banana_blossoms": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "dried_shiitake_mushrooms": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "dried_taro_leaves_gabi": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "fermented_black_beans_tausi": {
+    "price_php_per_kg": 120,
+    "source": "Estimated placeholder (legume)"
+  },
+  "firm_tofu_tokwa": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "fish_fillet_cream_dory/tilapia": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "fish_tilapia/galunggong": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "fish_tilapia/lapu-lapu": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "fried_tofu_tokwa": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "garbanzo_beans": {
+    "price_php_per_kg": 120,
+    "source": "Estimated placeholder (legume)"
+  },
+  "green_beans": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "green_chili_siling_haba": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "green_olives": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "green_papaya": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "green_peas": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "ground_meat_optional": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "ground_peanuts": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "hotdogs/sausages": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "hotdogs/vienna_sausage": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "kadyos_pigeon_peas": {
+    "price_php_per_kg": 120,
+    "source": "Estimated placeholder (legume)"
+  },
+  "kikiam_chinese_sausage": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "leche_flan": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "lechon_sauce_sarsa": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "leftover_lechon": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "lemon_grass_tanglad": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "lemongrass": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "lettuce_leaves": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "liver_spread": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "long_beans_sitaw": {
+    "price_php_per_kg": 120,
+    "source": "Estimated placeholder (legume)"
+  },
+  "long_green_chili_siling_haba": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "long_green_chilies": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "long_green_chilies_siling_haba": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "lumpia_wrapper_fresh": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "lumpia_wrappers": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "macapuno_coconut_sport": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "malunggay_leaves": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "malunggay_leaves_moringa": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "malunggay_leaves_optional": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "mang_tomas_sauce": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "mayonnaise": {
+    "price_php_per_kg": 180,
+    "source": "Estimated placeholder (condiment)"
+  },
+  "molo_wrappers_wonton": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "mud_crabs_alimango": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "nata_de_coco": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "oil": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "okra": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "oxtail": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "oyster_sauce": {
+    "price_php_per_kg": 180,
+    "source": "Estimated placeholder (condiment)"
+  },
+  "pepper": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "pigs_blood": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "pineapple_chunks": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "pork": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "pork/chicken_slices": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "pork_leg_pata": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "pork_liver": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "pork_lungs_and_heart": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "pork_lungs_and_heart_mince": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "pork_offal_liver/intestines": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "prawns_sugpo": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "radish_labanos": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "raisins": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "saba_banana_plantain": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "saffron/kasubha_optional": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "sayote_chayote": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "sesame_oil": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "shaved_ice": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "shredded_chicken": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "siomai/wonton_wrappers": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "siomai_wrapper": {
+    "price_php_per_kg": 150,
+    "source": "Estimated placeholder (processed food)"
+  },
+  "smoked_fish_flakes_tinapa": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "snails_kuhol": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "squash_kalabasa": {
+    "price_php_per_kg": 60,
+    "source": "Estimated placeholder (vegetable)"
+  },
+  "squid_ink": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "squid_pusit": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "star_anise": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "stingray_pagi_flaked": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "string_beans": {
+    "price_php_per_kg": 120,
+    "source": "Estimated placeholder (legume)"
+  },
+  "sweetened_beans/fruits": {
+    "price_php_per_kg": 120,
+    "source": "Estimated placeholder (legume)"
+  },
+  "tilapia": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "bangus": {
+    "price_php_per_kg": 260,
+    "source": "Local market average"
+  },
+  "toasted_pinipig": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "tuna_belly": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "tuna_loin": {
+    "price_php_per_kg": 300,
+    "source": "Estimated placeholder (seafood)"
+  },
+  "ube_ice_cream": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "unripe_jackfruit_langka": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "vanilla_extract": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "vegetable_filling_mixed": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  },
+  "worcestershire_sauce": {
+    "price_php_per_kg": 180,
+    "source": "Estimated placeholder (condiment)"
+  },
+  "young_coconut_strips_buko": {
+    "price_php_per_kg": 100,
+    "source": "Estimated placeholder (generic)"
+  }
+}

@@ -1,0 +1,1183 @@
+{
+  "suspicious": [
+    {
+      "key": "chicken",
+      "calories": 215,
+      "protein": 18.0,
+      "carbs": 0.0,
+      "fat": 15.0,
+      "source": "USDA FoodData Central (approximate)",
+      "used_total_kcal_in_breakdown": 12255.0
+    },
+    {
+      "key": "pork_belly",
+      "calories": 518,
+      "protein": 9.34,
+      "carbs": 0.0,
+      "fat": 53.0,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 10878.0
+    },
+    {
+      "key": "coconut_milk",
+      "calories": 230,
+      "protein": 2.3,
+      "carbs": 5.5,
+      "fat": 24.0,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 9890.0
+    },
+    {
+      "key": "ground_pork",
+      "calories": 291,
+      "protein": 16.5,
+      "carbs": 0.0,
+      "fat": 24.0,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 5238.0
+    },
+    {
+      "key": "cooking_oil",
+      "calories": 884,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 100.0,
+      "source": "Generic / USDA averages",
+      "used_total_kcal_in_breakdown": 5127.2
+    },
+    {
+      "key": "lumpia_wrappers",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 2700.0
+    },
+    {
+      "key": "rice",
+      "calories": 365,
+      "protein": 7.1,
+      "carbs": 80.0,
+      "fat": 0.7,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 2194.4
+    },
+    {
+      "key": "beef_shank",
+      "calories": 217,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 14.0,
+      "source": "Approximate / local composition",
+      "used_total_kcal_in_breakdown": 2170.0
+    },
+    {
+      "key": "noodles",
+      "calories": 371,
+      "protein": 13.0,
+      "carbs": 74.7,
+      "fat": 2.0,
+      "source": "Generic / food composition tables",
+      "used_total_kcal_in_breakdown": 1855.0
+    },
+    {
+      "key": "butter",
+      "calories": 717,
+      "protein": 0.85,
+      "carbs": 0.06,
+      "fat": 81.0,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 1821.2
+    },
+    {
+      "key": "coconut_cream",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 1600.0
+    },
+    {
+      "key": "fish_tilapia/lapu-lapu",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 1500.0
+    },
+    {
+      "key": "leftover_lechon",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 1500.0
+    },
+    {
+      "key": "squid_pusit",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 1500.0
+    },
+    {
+      "key": "tilapia",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 1500.0
+    },
+    {
+      "key": "sugar",
+      "calories": 387,
+      "protein": 0.0,
+      "carbs": 100.0,
+      "fat": 0.0,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 1315.8
+    },
+    {
+      "key": "bangus",
+      "calories": 160,
+      "protein": 19.0,
+      "carbs": 0.0,
+      "fat": 6.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 1280.0
+    },
+    {
+      "key": "beef_brisket",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 1250.0
+    },
+    {
+      "key": "pork_shoulder",
+      "calories": 242,
+      "protein": 17.5,
+      "carbs": 0.0,
+      "fat": 19.0,
+      "source": "Approximate / local composition",
+      "used_total_kcal_in_breakdown": 1210.0
+    },
+    {
+      "key": "garbanzo_beans",
+      "calories": 330,
+      "protein": 22.0,
+      "carbs": 60.0,
+      "fat": 1.5,
+      "source": "Estimated placeholder (legume)",
+      "used_total_kcal_in_breakdown": 1188.0
+    },
+    {
+      "key": "beef_sirloin",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 1000.0
+    },
+    {
+      "key": "chicken_piece",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 1000.0
+    },
+    {
+      "key": "oxtail",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 1000.0
+    },
+    {
+      "key": "flour",
+      "calories": 364,
+      "protein": 10.0,
+      "carbs": 76.0,
+      "fat": 1.0,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 928.2
+    },
+    {
+      "key": "siomai/wonton_wrappers",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 900.0
+    },
+    {
+      "key": "siomai_wrapper",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 900.0
+    },
+    {
+      "key": "fried_tofu_tokwa",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 800.0
+    },
+    {
+      "key": "kadyos_pigeon_peas",
+      "calories": 330,
+      "protein": 22.0,
+      "carbs": 60.0,
+      "fat": 1.5,
+      "source": "Estimated placeholder (legume)",
+      "used_total_kcal_in_breakdown": 792.0
+    },
+    {
+      "key": "fish_fillet_cream_dory/tilapia",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 750.0
+    },
+    {
+      "key": "fish_tilapia/galunggong",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 750.0
+    },
+    {
+      "key": "prawns_sugpo",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 750.0
+    },
+    {
+      "key": "stingray_pagi_flaked",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 750.0
+    },
+    {
+      "key": "tuna_belly",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 750.0
+    },
+    {
+      "key": "lechon_sauce_sarsa",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 720.0
+    },
+    {
+      "key": "tamarind",
+      "calories": 239,
+      "protein": 2.8,
+      "carbs": 62.5,
+      "fat": 0.6,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 645.3000000000001
+    },
+    {
+      "key": "pineapple_chunks",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 600.0
+    },
+    {
+      "key": "beef/goat_meat",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 500.0
+    },
+    {
+      "key": "beef_brisket/chuck",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 500.0
+    },
+    {
+      "key": "chicken/pork",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 500.0
+    },
+    {
+      "key": "chicken_breast/thighs",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 500.0
+    },
+    {
+      "key": "pork",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 500.0
+    },
+    {
+      "key": "pork_lungs_and_heart",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 500.0
+    },
+    {
+      "key": "pork_lungs_and_heart_mince",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 500.0
+    },
+    {
+      "key": "snails_kuhol",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 500.0
+    },
+    {
+      "key": "coconut_cream_kakang_gata",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 480.0
+    },
+    {
+      "key": "pigs_blood",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 480.0
+    },
+    {
+      "key": "shaved_ice",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 480.0
+    },
+    {
+      "key": "unripe_jackfruit_langka",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 480.0
+    },
+    {
+      "key": "young_coconut_strips_buko",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 480.0
+    },
+    {
+      "key": "tuna_loin",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 450.0
+    },
+    {
+      "key": "oil",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 430.0
+    },
+    {
+      "key": "cornstarch",
+      "calories": 381,
+      "protein": 0.3,
+      "carbs": 91.0,
+      "fat": 0.3,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 384.90000000000003
+    },
+    {
+      "key": "mung_beans",
+      "calories": 347,
+      "protein": 23.9,
+      "carbs": 62.6,
+      "fat": 1.2,
+      "source": "Generic legume composition",
+      "used_total_kcal_in_breakdown": 347.0
+    },
+    {
+      "key": "chicken_adobo_shredded",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 300.0
+    },
+    {
+      "key": "vegetable_filling_mixed",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 240.0
+    },
+    {
+      "key": "sweetened_beans/fruits",
+      "calories": 330,
+      "protein": 22.0,
+      "carbs": 60.0,
+      "fat": 1.5,
+      "source": "Estimated placeholder (legume)",
+      "used_total_kcal_in_breakdown": 198.0
+    },
+    {
+      "key": "squash_kalabasa",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 192.0
+    },
+    {
+      "key": "pork_liver",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 150.0
+    },
+    {
+      "key": "button_mushrooms",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 120.0
+    },
+    {
+      "key": "lumpia_wrapper_fresh",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 120.0
+    },
+    {
+      "key": "malunggay_leaves_moringa",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 120.0
+    },
+    {
+      "key": "pork/chicken_slices",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 100.0
+    },
+    {
+      "key": "hotdogs/vienna_sausage",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 90.0
+    },
+    {
+      "key": "long_green_chili_siling_haba",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 80.0
+    },
+    {
+      "key": "mayonnaise",
+      "calories": 120,
+      "protein": 1.0,
+      "carbs": 20.0,
+      "fat": 3.0,
+      "source": "Estimated placeholder (condiment)",
+      "used_total_kcal_in_breakdown": 72.0
+    },
+    {
+      "key": "annatto",
+      "calories": 350,
+      "protein": 7.5,
+      "carbs": 52.0,
+      "fat": 8.0,
+      "source": "Generic spice composition",
+      "used_total_kcal_in_breakdown": 70.0
+    },
+    {
+      "key": "kikiam_chinese_sausage",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 60.0
+    },
+    {
+      "key": "raisins",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 60.0
+    },
+    {
+      "key": "green_beans",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 48.0
+    },
+    {
+      "key": "malunggay_leaves",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 48.0
+    },
+    {
+      "key": "bay_leaf",
+      "calories": 313,
+      "protein": 7.6,
+      "carbs": 74.97,
+      "fat": 7.0,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 37.8
+    },
+    {
+      "key": "adobo_sauce/oil",
+      "calories": 120,
+      "protein": 1.0,
+      "carbs": 20.0,
+      "fat": 3.0,
+      "source": "Estimated placeholder (condiment)",
+      "used_total_kcal_in_breakdown": 36.0
+    },
+    {
+      "key": "ground_peanuts",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 30.0
+    },
+    {
+      "key": "long_green_chilies",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 30.0
+    },
+    {
+      "key": "long_green_chilies_siling_haba",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 30.0
+    },
+    {
+      "key": "macapuno_coconut_sport",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 30.0
+    },
+    {
+      "key": "mud_crabs_alimango",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 30.0
+    },
+    {
+      "key": "nata_de_coco",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 30.0
+    },
+    {
+      "key": "pepper",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 30.0
+    },
+    {
+      "key": "saba_banana_plantain",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 30.0
+    },
+    {
+      "key": "star_anise",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 30.0
+    },
+    {
+      "key": "malunggay_leaves_optional",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 24.0
+    },
+    {
+      "key": "okra",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 20.0
+    },
+    {
+      "key": "oyster_sauce",
+      "calories": 120,
+      "protein": 1.0,
+      "carbs": 20.0,
+      "fat": 3.0,
+      "source": "Estimated placeholder (condiment)",
+      "used_total_kcal_in_breakdown": 18.0
+    },
+    {
+      "key": "toasted_pinipig",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 15.0
+    },
+    {
+      "key": "green_olives",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 12.0
+    },
+    {
+      "key": "green_peas",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 12.0
+    },
+    {
+      "key": "sesame_oil",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 10.0
+    },
+    {
+      "key": "pie_crust",
+      "calories": 400,
+      "protein": 6.0,
+      "carbs": 45.0,
+      "fat": 21.0,
+      "source": "Generic baked goods composition",
+      "used_total_kcal_in_breakdown": 8.0
+    },
+    {
+      "key": "lettuce_leaves",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 8.0
+    },
+    {
+      "key": "green_chili_siling_haba",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 6.0
+    },
+    {
+      "key": "bitter_gourd_ampalaya",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 4.0
+    },
+    {
+      "key": "liver_spread",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 3.0
+    },
+    {
+      "key": "chayote_sayote",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 2.0
+    },
+    {
+      "key": "sayote_chayote",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 2.0
+    },
+    {
+      "key": "leche_flan",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 1.0
+    },
+    {
+      "key": "ube_ice_cream",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 1.0
+    },
+    {
+      "key": "dried_taro_leaves_gabi",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 0.2
+    },
+    {
+      "key": "green_papaya",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 0.2
+    },
+    {
+      "key": "pork_hock",
+      "calories": 290,
+      "protein": 18.0,
+      "carbs": 0.0,
+      "fat": 23.0,
+      "source": "USDA FoodData Central (approximate)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "peppercorns",
+      "calories": 251,
+      "protein": 10.39,
+      "carbs": 64.8,
+      "fat": 3.3,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "pork_ears",
+      "calories": 250,
+      "protein": 18.0,
+      "carbs": 0.0,
+      "fat": 20.0,
+      "source": "Approximate / local composition",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "pork_snout",
+      "calories": 250,
+      "protein": 18.0,
+      "carbs": 0.0,
+      "fat": 20.0,
+      "source": "Approximate / local composition",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "chicharon",
+      "calories": 540,
+      "protein": 30.0,
+      "carbs": 0.0,
+      "fat": 45.0,
+      "source": "Approximate / local composition",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "bread",
+      "calories": 265,
+      "protein": 9.0,
+      "carbs": 49.0,
+      "fat": 3.2,
+      "source": "USDA FoodData Central",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "condensed_milk",
+      "calories": 321,
+      "protein": 7.9,
+      "carbs": 54.4,
+      "fat": 8.7,
+      "source": "Generic / condensed milk nutritional data",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "young_coconut",
+      "calories": 354,
+      "protein": 3.3,
+      "carbs": 15.2,
+      "fat": 33.5,
+      "source": "Generic coconut meat composition",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "chicken_wings",
+      "calories": 203,
+      "protein": 18.6,
+      "carbs": 0.0,
+      "fat": 14.1,
+      "source": "USDA FoodData Central (approximate)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "banana_leaves/aluminum_foil",
+      "calories": 20,
+      "protein": 1.5,
+      "carbs": 3.0,
+      "fat": 0.2,
+      "source": "Estimated placeholder (vegetable)",
+      "used_total_kcal_in_breakdown": 0.0
+    },
+    {
+      "key": "cheddar_cheese_shredded",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "chicken_breast",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "chicken_legs/thighs",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "chicken_thighs/legs",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "dried_banana_blossoms",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "dried_shiitake_mushrooms",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "fermented_black_beans_tausi",
+      "calories": 330,
+      "protein": 22.0,
+      "carbs": 60.0,
+      "fat": 1.5,
+      "source": "Estimated placeholder (legume)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "firm_tofu_tokwa",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "ground_meat_optional",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "hotdogs/sausages",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "lemon_grass_tanglad",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "lemongrass",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "mang_tomas_sauce",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "molo_wrappers_wonton",
+      "calories": 300,
+      "protein": 10.0,
+      "carbs": 10.0,
+      "fat": 20.0,
+      "source": "Estimated placeholder (processed food)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "pork_leg_pata",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "pork_offal_liver/intestines",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "saffron/kasubha_optional",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0.0
+    },
+    {
+      "key": "shredded_chicken",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "smoked_fish_flakes_tinapa",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "squid_ink",
+      "calories": 150,
+      "protein": 20.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (seafood)",
+      "used_total_kcal_in_breakdown": 0.0
+    },
+    {
+      "key": "vanilla_extract",
+      "calories": 100,
+      "protein": 3.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "source": "Estimated placeholder (generic)",
+      "used_total_kcal_in_breakdown": 0
+    },
+    {
+      "key": "worcestershire_sauce",
+      "calories": 120,
+      "protein": 1.0,
+      "carbs": 20.0,
+      "fat": 3.0,
+      "source": "Estimated placeholder (condiment)",
+      "used_total_kcal_in_breakdown": 0
+    }
+  ]
+}

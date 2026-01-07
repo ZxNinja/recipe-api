@@ -1,0 +1,505 @@
+{
+  "summary_count": 100,
+  "top": [
+    {
+      "idMeal": "60",
+      "name": "Tinolang Manok",
+      "old_cal": 9,
+      "new_cal": 2641,
+      "cal_delta": 2632,
+      "old_price": 2,
+      "new_price": 282,
+      "price_delta": 280
+    },
+    {
+      "idMeal": "53",
+      "name": "Sinampalukang Manok",
+      "old_cal": 661,
+      "new_cal": 3242,
+      "cal_delta": 2581,
+      "old_price": 69,
+      "new_price": 333,
+      "price_delta": 264
+    },
+    {
+      "idMeal": "78",
+      "name": "Bulalo ",
+      "old_cal": 10,
+      "new_cal": 2432,
+      "cal_delta": 2422,
+      "old_price": 2,
+      "new_price": 285,
+      "price_delta": 283
+    },
+    {
+      "idMeal": "70",
+      "name": "Paksiw na Lechon",
+      "old_cal": 91,
+      "new_cal": 2311,
+      "cal_delta": 2220,
+      "old_price": 10,
+      "new_price": 121,
+      "price_delta": 111
+    },
+    {
+      "idMeal": "41",
+      "name": "Bulalo ",
+      "old_cal": 70,
+      "new_cal": 2260,
+      "cal_delta": 2190,
+      "old_price": 11,
+      "new_price": 273,
+      "price_delta": 262
+    },
+    {
+      "idMeal": "93",
+      "name": "Lumpia Shanghai",
+      "old_cal": 1594,
+      "new_cal": 3344,
+      "cal_delta": 1750,
+      "old_price": 155,
+      "new_price": 255,
+      "price_delta": 100
+    },
+    {
+      "idMeal": "39",
+      "name": "Pininyahang Manok",
+      "old_cal": 89,
+      "new_cal": 1517,
+      "cal_delta": 1428,
+      "old_price": 17,
+      "new_price": 169,
+      "price_delta": 152
+    },
+    {
+      "idMeal": "84",
+      "name": "Pininyahang Manok ",
+      "old_cal": 568,
+      "new_cal": 1944,
+      "cal_delta": 1376,
+      "old_price": 56,
+      "new_price": 200,
+      "price_delta": 144
+    },
+    {
+      "idMeal": "14",
+      "name": "Puchero",
+      "old_cal": 321,
+      "new_cal": 1662,
+      "cal_delta": 1341,
+      "old_price": 57,
+      "new_price": 189,
+      "price_delta": 132
+    },
+    {
+      "idMeal": "15",
+      "name": "KBL",
+      "old_cal": 2662,
+      "new_cal": 3964,
+      "cal_delta": 1302,
+      "old_price": 167,
+      "new_price": 247,
+      "price_delta": 80
+    },
+    {
+      "idMeal": "68",
+      "name": "Menudo ",
+      "old_cal": 229,
+      "new_cal": 1520,
+      "cal_delta": 1291,
+      "old_price": 43,
+      "new_price": 145,
+      "price_delta": 102
+    },
+    {
+      "idMeal": "50",
+      "name": "Tocino ",
+      "old_cal": 380,
+      "new_cal": 1657,
+      "cal_delta": 1277,
+      "old_price": 9,
+      "new_price": 144,
+      "price_delta": 135
+    },
+    {
+      "idMeal": "57",
+      "name": "Lumpia Shanghai",
+      "old_cal": 3342,
+      "new_cal": 4592,
+      "cal_delta": 1250,
+      "old_price": 188,
+      "new_price": 253,
+      "price_delta": 65
+    },
+    {
+      "idMeal": "92",
+      "name": "Crispy Fried Chicken",
+      "old_cal": 500,
+      "new_cal": 1718,
+      "cal_delta": 1218,
+      "old_price": 28,
+      "new_price": 148,
+      "price_delta": 120
+    },
+    {
+      "idMeal": "10",
+      "name": "Ginataang Manok",
+      "old_cal": 1122,
+      "new_cal": 2320,
+      "cal_delta": 1198,
+      "old_price": 110,
+      "new_price": 264,
+      "price_delta": 154
+    },
+    {
+      "idMeal": "34",
+      "name": "Sinarsahan na Manok",
+      "old_cal": 137,
+      "new_cal": 1296,
+      "cal_delta": 1159,
+      "old_price": 17,
+      "new_price": 157,
+      "price_delta": 140
+    },
+    {
+      "idMeal": "81",
+      "name": "Tinolang Manok ",
+      "old_cal": 18,
+      "new_cal": 1145,
+      "cal_delta": 1127,
+      "old_price": 4,
+      "new_price": 130,
+      "price_delta": 126
+    },
+    {
+      "idMeal": "32",
+      "name": "Kinunot na Pagi",
+      "old_cal": 1135,
+      "new_cal": 2174,
+      "cal_delta": 1039,
+      "old_price": 119,
+      "new_price": 308,
+      "price_delta": 189
+    },
+    {
+      "idMeal": "37",
+      "name": "Ginataang Sugpo",
+      "old_cal": 1125,
+      "new_cal": 2146,
+      "cal_delta": 1021,
+      "old_price": 114,
+      "new_price": 291,
+      "price_delta": 177
+    },
+    {
+      "idMeal": "73",
+      "name": "Dinuguan ",
+      "old_cal": 85,
+      "new_cal": 1075,
+      "cal_delta": 990,
+      "old_price": 24,
+      "new_price": 108,
+      "price_delta": 84
+    },
+    {
+      "idMeal": "51",
+      "name": "Kare-Kare",
+      "old_cal": 2165,
+      "new_cal": 3099,
+      "cal_delta": 934,
+      "old_price": 188,
+      "new_price": 307,
+      "price_delta": 119
+    },
+    {
+      "idMeal": "47",
+      "name": "Pork and Shrimp Siomai",
+      "old_cal": 1074,
+      "new_cal": 1979,
+      "cal_delta": 905,
+      "old_price": 135,
+      "new_price": 181,
+      "price_delta": 46
+    },
+    {
+      "idMeal": "89",
+      "name": "Pork and Shrimp Siomai ",
+      "old_cal": 1002,
+      "new_cal": 1907,
+      "cal_delta": 905,
+      "old_price": 131,
+      "new_price": 176,
+      "price_delta": 45
+    },
+    {
+      "idMeal": "98",
+      "name": "Dinuguan ",
+      "old_cal": 28,
+      "new_cal": 929,
+      "cal_delta": 901,
+      "old_price": 9,
+      "new_price": 79,
+      "price_delta": 70
+    },
+    {
+      "idMeal": "88",
+      "name": "Sweet and Sour Fish Fillet",
+      "old_cal": 193,
+      "new_cal": 1065,
+      "cal_delta": 872,
+      "old_price": 11,
+      "new_price": 175,
+      "price_delta": 164
+    },
+    {
+      "idMeal": "62",
+      "name": "Escabeche",
+      "old_cal": 646,
+      "new_cal": 1450,
+      "cal_delta": 804,
+      "old_price": 16,
+      "new_price": 174,
+      "price_delta": 158
+    },
+    {
+      "idMeal": "17",
+      "name": "Pinaksiw na Isda",
+      "old_cal": 51,
+      "new_cal": 826,
+      "cal_delta": 775,
+      "old_price": 11,
+      "new_price": 165,
+      "price_delta": 154
+    },
+    {
+      "idMeal": "21",
+      "name": "Ginataang Tilapia",
+      "old_cal": 1125,
+      "new_cal": 1900,
+      "cal_delta": 775,
+      "old_price": 114,
+      "new_price": 271,
+      "price_delta": 157
+    },
+    {
+      "idMeal": "9",
+      "name": "Pinaputok na Isda",
+      "old_cal": 61,
+      "new_cal": 835,
+      "cal_delta": 774,
+      "old_price": 10,
+      "new_price": 171,
+      "price_delta": 161
+    },
+    {
+      "idMeal": "67",
+      "name": "Adobong Pusit",
+      "old_cal": 70,
+      "new_cal": 825,
+      "cal_delta": 755,
+      "old_price": 14,
+      "new_price": 164,
+      "price_delta": 150
+    },
+    {
+      "idMeal": "95",
+      "name": "Halo-Halo",
+      "old_cal": 73,
+      "new_cal": 828,
+      "cal_delta": 755,
+      "old_price": 13,
+      "new_price": 76,
+      "price_delta": 63
+    },
+    {
+      "idMeal": "33",
+      "name": "Piniritong Tilapia",
+      "old_cal": 475,
+      "new_cal": 1228,
+      "cal_delta": 753,
+      "old_price": 16,
+      "new_price": 166,
+      "price_delta": 150
+    },
+    {
+      "idMeal": "45",
+      "name": "Grilled Tuna Belly",
+      "old_cal": 63,
+      "new_cal": 816,
+      "cal_delta": 753,
+      "old_price": 15,
+      "new_price": 165,
+      "price_delta": 150
+    },
+    {
+      "idMeal": "83",
+      "name": "Kaldereta ",
+      "old_cal": 297,
+      "new_cal": 1049,
+      "cal_delta": 752,
+      "old_price": 44,
+      "new_price": 121,
+      "price_delta": 77
+    },
+    {
+      "idMeal": "40",
+      "name": "Calamares ",
+      "old_cal": 2336,
+      "new_cal": 3086,
+      "cal_delta": 750,
+      "old_price": 56,
+      "new_price": 206,
+      "price_delta": 150
+    },
+    {
+      "idMeal": "12",
+      "name": "Afritada",
+      "old_cal": 203,
+      "new_cal": 952,
+      "cal_delta": 749,
+      "old_price": 38,
+      "new_price": 114,
+      "price_delta": 76
+    },
+    {
+      "idMeal": "55",
+      "name": "Ginataang Kuhol",
+      "old_cal": 1172,
+      "new_cal": 1913,
+      "cal_delta": 741,
+      "old_price": 124,
+      "new_price": 198,
+      "price_delta": 74
+    },
+    {
+      "idMeal": "13",
+      "name": "Mechado",
+      "old_cal": 235,
+      "new_cal": 970,
+      "cal_delta": 735,
+      "old_price": 45,
+      "new_price": 116,
+      "price_delta": 71
+    },
+    {
+      "idMeal": "97",
+      "name": "Pork Menudo",
+      "old_cal": 2787,
+      "new_cal": 3508,
+      "cal_delta": 721,
+      "old_price": 196,
+      "new_price": 236,
+      "price_delta": 40
+    },
+    {
+      "idMeal": "11",
+      "name": "Inihaw na Bangus",
+      "old_cal": 79,
+      "new_cal": 731,
+      "cal_delta": 652,
+      "old_price": 15,
+      "new_price": 126,
+      "price_delta": 111
+    },
+    {
+      "idMeal": "82",
+      "name": "Arroz Caldo ",
+      "old_cal": 877,
+      "new_cal": 1524,
+      "cal_delta": 647,
+      "old_price": 52,
+      "new_price": 119,
+      "price_delta": 67
+    },
+    {
+      "idMeal": "38",
+      "name": "Daing na Bangus",
+      "old_cal": 477,
+      "new_cal": 1116,
+      "cal_delta": 639,
+      "old_price": 19,
+      "new_price": 122,
+      "price_delta": 103
+    },
+    {
+      "idMeal": "96",
+      "name": "Sizzling Tofu",
+      "old_cal": 147,
+      "new_cal": 743,
+      "cal_delta": 596,
+      "old_price": 17,
+      "new_price": 82,
+      "price_delta": 65
+    },
+    {
+      "idMeal": "26",
+      "name": "Crispy Dinuguan",
+      "old_cal": 1598,
+      "new_cal": 2168,
+      "cal_delta": 570,
+      "old_price": 106,
+      "new_price": 157,
+      "price_delta": 51
+    },
+    {
+      "idMeal": "42",
+      "name": "Bopis",
+      "old_cal": 23,
+      "new_cal": 577,
+      "cal_delta": 554,
+      "old_price": 10,
+      "new_price": 68,
+      "price_delta": 58
+    },
+    {
+      "idMeal": "76",
+      "name": "Bopis",
+      "old_cal": 48,
+      "new_cal": 600,
+      "cal_delta": 552,
+      "old_price": 18,
+      "new_price": 74,
+      "price_delta": 56
+    },
+    {
+      "idMeal": "48",
+      "name": "Chicken Lugaw ",
+      "old_cal": 806,
+      "new_cal": 1346,
+      "cal_delta": 540,
+      "old_price": 48,
+      "new_price": 103,
+      "price_delta": 55
+    },
+    {
+      "idMeal": "66",
+      "name": "Arroz Caldo",
+      "old_cal": 877,
+      "new_cal": 1417,
+      "cal_delta": 540,
+      "old_price": 52,
+      "new_price": 108,
+      "price_delta": 56
+    },
+    {
+      "idMeal": "23",
+      "name": "Beef Pares",
+      "old_cal": 294,
+      "new_cal": 825,
+      "cal_delta": 531,
+      "old_price": 22,
+      "new_price": 75,
+      "price_delta": 53
+    },
+    {
+      "idMeal": "31",
+      "name": "Chopsuey",
+      "old_cal": 636,
+      "new_cal": 1149,
+      "cal_delta": 513,
+      "old_price": 102,
+      "new_price": 152,
+      "price_delta": 50
+    }
+  ]
+}
