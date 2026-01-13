@@ -1,0 +1,395 @@
+{
+  "summary": {
+    "total_recipes": 100,
+    "recipes_with_flags": 84,
+    "recipes_using_generic_fallbacks": 0
+  },
+  "top_by_rel_change": [
+    {
+      "id": "64",
+      "name": "Molo Soup",
+      "old_cal": 5960,
+      "new_cal": 4269,
+      "rel_change": 0.2837248322147651,
+      "flags_count": 2,
+      "flags": [
+        {
+          "ingredient": "Molo Wrappers (Wonton)",
+          "measure": "1 pack",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Garlic",
+          "measure": "fried bits for garnish",
+          "reason": "no grams parsed"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Bistek Manok ",
+      "old_cal": 1441,
+      "new_cal": 1083,
+      "rel_change": 0.24843858431644691,
+      "flags_count": 0,
+      "flags": []
+    },
+    {
+      "id": "1",
+      "name": "Sisig",
+      "old_cal": 2009,
+      "new_cal": 1558,
+      "rel_change": 0.22448979591836735,
+      "flags_count": 0,
+      "flags": []
+    },
+    {
+      "id": "42",
+      "name": "Bopis",
+      "old_cal": 1484,
+      "new_cal": 1166,
+      "rel_change": 0.21428571428571427,
+      "flags_count": 3,
+      "flags": [
+        {
+          "ingredient": "Bell Pepper",
+          "measure": "1/2 piece, diced",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Chili Peppers (Siling Labuyo)",
+          "measure": "3 pieces, minced",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Ginger",
+          "measure": "1 inch, minced",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Bistek Tagalog",
+      "old_cal": 1496,
+      "new_cal": 1184,
+      "rel_change": 0.20855614973262032,
+      "flags_count": 0,
+      "flags": []
+    },
+    {
+      "id": "87",
+      "name": "Bistek Tagalog",
+      "old_cal": 1496,
+      "new_cal": 1184,
+      "rel_change": 0.20855614973262032,
+      "flags_count": 0,
+      "flags": []
+    },
+    {
+      "id": "76",
+      "name": "Bopis",
+      "old_cal": 1528,
+      "new_cal": 1211,
+      "rel_change": 0.20746073298429318,
+      "flags_count": 2,
+      "flags": [
+        {
+          "ingredient": "Green Bell Pepper",
+          "measure": "1 piece, diced",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Chili Peppers (Siling Labuyo)",
+          "measure": "5 pieces",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Batchoy",
+      "old_cal": 8606,
+      "new_cal": 7096,
+      "rel_change": 0.17545898210550778,
+      "flags_count": 1,
+      "flags": [
+        {
+          "ingredient": "Fish Sauce (Patis)",
+          "measure": "to taste",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Pork Ribs with Mushroom Gravy",
+      "old_cal": 2810,
+      "new_cal": 2340,
+      "rel_change": 0.16725978647686832,
+      "flags_count": 0,
+      "flags": []
+    },
+    {
+      "id": "48",
+      "name": "Chicken Lugaw ",
+      "old_cal": 9331,
+      "new_cal": 7778,
+      "rel_change": 0.16643446575929696,
+      "flags_count": 2,
+      "flags": [
+        {
+          "ingredient": "Fish Sauce (Patis)",
+          "measure": "to taste",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Fried Garlic Bits",
+          "measure": "for garnish",
+          "reason": "no grams parsed"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Nilaga baka",
+      "old_cal": 1940,
+      "new_cal": 1622,
+      "rel_change": 0.16391752577319588,
+      "flags_count": 3,
+      "flags": [
+        {
+          "ingredient": "Cabbage",
+          "measure": "1/4 head, cut",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Pechay (Bok Choy)",
+          "measure": "1 bunch",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Salt and Pepper",
+          "measure": "to taste",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Pininyahang Manok",
+      "old_cal": 2195,
+      "new_cal": 1836,
+      "rel_change": 0.16355353075170842,
+      "flags_count": 0,
+      "flags": []
+    },
+    {
+      "id": "98",
+      "name": "Dinuguan ",
+      "old_cal": 3053,
+      "new_cal": 2583,
+      "rel_change": 0.153946937438585,
+      "flags_count": 2,
+      "flags": [
+        {
+          "ingredient": "Long Green Chili (Siling Haba)",
+          "measure": "3 pieces",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Bay Leaves",
+          "measure": "2 pieces",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Mechado",
+      "old_cal": 2049,
+      "new_cal": 1737,
+      "rel_change": 0.15226939970717424,
+      "flags_count": 1,
+      "flags": [
+        {
+          "ingredient": "Bay Leaves",
+          "measure": "2 pieces",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Tinolang Manok",
+      "old_cal": 4956,
+      "new_cal": 4242,
+      "rel_change": 0.1440677966101695,
+      "flags_count": 2,
+      "flags": [
+        {
+          "ingredient": "Sayote (Chayote)",
+          "measure": "1 piece, cubed",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Fish Sauce (Patis)",
+          "measure": "to taste",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Sinarsahan na Manok",
+      "old_cal": 2503,
+      "new_cal": 2148,
+      "rel_change": 0.1418298042349181,
+      "flags_count": 1,
+      "flags": [
+        {
+          "ingredient": "Fish Sauce (Patis)",
+          "measure": "to taste",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Sinampalukang Manok",
+      "old_cal": 5065,
+      "new_cal": 4348,
+      "rel_change": 0.14155972359328728,
+      "flags_count": 0,
+      "flags": []
+    },
+    {
+      "id": "31",
+      "name": "Chopsuey",
+      "old_cal": 1907,
+      "new_cal": 1640,
+      "rel_change": 0.14001048767697954,
+      "flags_count": 1,
+      "flags": [
+        {
+          "ingredient": "Quail Eggs (optional)",
+          "measure": "6 pieces",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "Arroz Caldo",
+      "old_cal": 11299,
+      "new_cal": 9746,
+      "rel_change": 0.13744579166297902,
+      "flags_count": 3,
+      "flags": [
+        {
+          "ingredient": "Fish Sauce (Patis)",
+          "measure": "to taste",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Fried Garlic Bits",
+          "measure": "for garnish",
+          "reason": "no grams parsed"
+        },
+        {
+          "ingredient": "Saffron/Kasubha (optional)",
+          "measure": "pinch",
+          "reason": "no grams parsed"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Afritada",
+      "old_cal": 2413,
+      "new_cal": 2096,
+      "rel_change": 0.13137173642768338,
+      "flags_count": 1,
+      "flags": [
+        {
+          "ingredient": "Bay Leaves",
+          "measure": "2 pieces",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "name": "Pininyahang Manok ",
+      "old_cal": 2807,
+      "new_cal": 2449,
+      "rel_change": 0.12753829711435696,
+      "flags_count": 0,
+      "flags": []
+    },
+    {
+      "id": "68",
+      "name": "Menudo ",
+      "old_cal": 3122,
+      "new_cal": 2741,
+      "rel_change": 0.12203715566944266,
+      "flags_count": 0,
+      "flags": []
+    },
+    {
+      "id": "4",
+      "name": "Pancit Palabok",
+      "old_cal": 3112,
+      "new_cal": 2735,
+      "rel_change": 0.1211439588688946,
+      "flags_count": 1,
+      "flags": [
+        {
+          "ingredient": "Hard-boiled Eggs",
+          "measure": "3 pieces",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "name": "Tinolang Manok ",
+      "old_cal": 2976,
+      "new_cal": 2618,
+      "rel_change": 0.12029569892473119,
+      "flags_count": 1,
+      "flags": [
+        {
+          "ingredient": "Chayote (Sayote)",
+          "measure": "1 piece, cubed",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "KBL",
+      "old_cal": 2729,
+      "new_cal": 2411,
+      "rel_change": 0.11652620007328691,
+      "flags_count": 3,
+      "flags": [
+        {
+          "ingredient": "Batuan (Sour Fruit) or Tamarind Mix",
+          "measure": "3 pieces or 1/2 pack",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Long Green Chilies (Siling Haba)",
+          "measure": "3 pieces",
+          "reason": "ambiguous measure, used defaults"
+        },
+        {
+          "ingredient": "Salt/Fish Sauce",
+          "measure": "to taste",
+          "reason": "ambiguous measure, used defaults"
+        }
+      ]
+    }
+  ]
+}

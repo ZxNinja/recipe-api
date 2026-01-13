@@ -28,12 +28,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 1484,
-      "protein": 103,
-      "carbs": 37,
-      "fat": 105,
+      "calories": 2633,
+      "protein": 182,
+      "carbs": 31,
+      "fat": 199,
       "price": 350,
-      "calories_per_serving": 371,
+      "calories_per_serving": 658,
       "price_per_serving": 38,
       "sources": [
         "Generic citrus composition",
@@ -48,7 +48,16 @@
       "price_planned": 385,
       "price_per_serving_min": 38,
       "price_per_serving_max": 46,
-      "price_per_serving_planned": 42
+      "price_per_serving_planned": 42,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.030149Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 0
+      }
     },
     {
       "idMeal": "2",
@@ -78,12 +87,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 5287,
-      "protein": 104,
-      "carbs": 13,
-      "fat": 531,
+      "calories": 3177,
+      "protein": 293,
+      "carbs": 142,
+      "fat": 163,
       "price": 380,
-      "calories_per_serving": 1322,
+      "calories_per_serving": 794,
       "price_per_serving": 87,
       "sources": [
         "USDA FoodData Central",
@@ -99,7 +108,16 @@
       "price_planned": 418,
       "price_per_serving_min": 87,
       "price_per_serving_max": 104,
-      "price_per_serving_planned": 96
+      "price_per_serving_planned": 96,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.030479Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "3",
@@ -129,12 +147,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 5191,
-      "protein": 95,
-      "carbs": 1,
-      "fat": 530,
+      "calories": 3091,
+      "protein": 277,
+      "carbs": 57,
+      "fat": 177,
       "price": 350,
-      "calories_per_serving": 1298,
+      "calories_per_serving": 773,
       "price_per_serving": 80,
       "sources": [
         "Supermarket average",
@@ -150,7 +168,16 @@
       "price_planned": 385,
       "price_per_serving_min": 80,
       "price_per_serving_max": 96,
-      "price_per_serving_planned": 88
+      "price_per_serving_planned": 88,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.030837Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 5
+      }
     },
     {
       "idMeal": "4",
@@ -180,12 +207,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 3356,
-      "protein": 185,
-      "carbs": 379,
-      "fat": 116,
+      "calories": 1846,
+      "protein": 155,
+      "carbs": 66,
+      "fat": 97,
       "price": 270,
-      "calories_per_serving": 839,
+      "calories_per_serving": 462,
       "price_per_serving": 66,
       "sources": [
         "Local supermarket",
@@ -205,7 +232,16 @@
       "price_planned": 297,
       "price_per_serving_min": 66,
       "price_per_serving_max": 79,
-      "price_per_serving_planned": 73
+      "price_per_serving_planned": 73,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.031134Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "5",
@@ -235,12 +271,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 150,
-      "protein": 16,
-      "carbs": 2,
-      "fat": 10,
+      "calories": 633,
+      "protein": 29,
+      "carbs": 106,
+      "fat": 15,
       "price": 230,
-      "calories_per_serving": 40,
+      "calories_per_serving": 158,
       "price_per_serving": 4,
       "sources": [
         "Local market average",
@@ -255,7 +291,16 @@
       "price_planned": 253,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.031452Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "6",
@@ -285,12 +330,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 2660,
-      "protein": 49,
-      "carbs": 15,
-      "fat": 265,
+      "calories": 1574,
+      "protein": 145,
+      "carbs": 66,
+      "fat": 76,
       "price": 420,
-      "calories_per_serving": 665,
+      "calories_per_serving": 394,
       "price_per_serving": 43,
       "sources": [
         "Local market average",
@@ -305,7 +350,16 @@
       "price_planned": 462,
       "price_per_serving_min": 43,
       "price_per_serving_max": 52,
-      "price_per_serving_planned": 47
+      "price_per_serving_planned": 47,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.031688Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 4
+      }
     },
     {
       "idMeal": "7",
@@ -335,12 +389,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 4407,
-      "protein": 273,
-      "carbs": 12,
-      "fat": 346,
+      "calories": 3080,
+      "protein": 285,
+      "carbs": 130,
+      "fat": 163,
       "price": 436,
-      "calories_per_serving": 1102,
+      "calories_per_serving": 770,
       "price_per_serving": 109,
       "sources": [
         "Local market average",
@@ -357,7 +411,16 @@
       "price_planned": 480,
       "price_per_serving_min": 109,
       "price_per_serving_max": 131,
-      "price_per_serving_planned": 120
+      "price_per_serving_planned": 120,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.031839Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 4
+      }
     },
     {
       "idMeal": "8",
@@ -387,12 +450,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 6948,
-      "protein": 93,
+      "calories": 6096,
+      "protein": 91,
       "carbs": 5,
-      "fat": 730,
+      "fat": 631,
       "price": 356,
-      "calories_per_serving": 1737,
+      "calories_per_serving": 1524,
       "price_per_serving": 89,
       "sources": [
         "Supermarket price",
@@ -408,7 +471,16 @@
       "price_planned": 392,
       "price_per_serving_min": 89,
       "price_per_serving_max": 107,
-      "price_per_serving_planned": 98
+      "price_per_serving_planned": 98,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.032004Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "9",
@@ -438,12 +510,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 61,
-      "protein": 2,
-      "carbs": 14,
-      "fat": 0,
+      "calories": 591,
+      "protein": 103,
+      "carbs": 27,
+      "fat": 9,
       "price": 270,
-      "calories_per_serving": 15,
+      "calories_per_serving": 153,
       "price_per_serving": 2,
       "sources": [
         "Generic citrus composition",
@@ -458,7 +530,16 @@
       "price_planned": 297,
       "price_per_serving_min": 2,
       "price_per_serving_max": 2,
-      "price_per_serving_planned": 2
+      "price_per_serving_planned": 2,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.032296Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 5
+      }
     },
     {
       "idMeal": "10",
@@ -488,12 +569,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 1122,
-      "protein": 14,
-      "carbs": 28,
-      "fat": 115,
+      "calories": 1831,
+      "protein": 147,
+      "carbs": 67,
+      "fat": 105,
       "price": 290,
-      "calories_per_serving": 280,
+      "calories_per_serving": 458,
       "price_per_serving": 28,
       "sources": [
         "Supermarket average",
@@ -508,7 +589,16 @@
       "price_planned": 319,
       "price_per_serving_min": 28,
       "price_per_serving_max": 34,
-      "price_per_serving_planned": 31
+      "price_per_serving_planned": 31,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.032565Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "11",
@@ -538,12 +628,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 79,
-      "protein": 3,
-      "carbs": 17,
-      "fat": 1,
+      "calories": 158,
+      "protein": 4,
+      "carbs": 29,
+      "fat": 3,
       "price": 190,
-      "calories_per_serving": 20,
+      "calories_per_serving": 40,
       "price_per_serving": 4,
       "sources": [
         "Generic citrus composition",
@@ -559,7 +649,16 @@
       "price_planned": 209,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.032788Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 6
+      }
     },
     {
       "idMeal": "12",
@@ -589,12 +688,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 203,
-      "protein": 10,
-      "carbs": 45,
-      "fat": 3,
+      "calories": 2094,
+      "protein": 158,
+      "carbs": 187,
+      "fat": 88,
       "price": 330,
-      "calories_per_serving": 51,
+      "calories_per_serving": 524,
       "price_per_serving": 10,
       "sources": [
         "Dried spices market average",
@@ -608,7 +707,16 @@
       "price_planned": 363,
       "price_per_serving_min": 10,
       "price_per_serving_max": 12,
-      "price_per_serving_planned": 11
+      "price_per_serving_planned": 11,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.033115Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "13",
@@ -638,12 +746,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 235,
-      "protein": 15,
-      "carbs": 48,
-      "fat": 4,
+      "calories": 1929,
+      "protein": 152,
+      "carbs": 152,
+      "fat": 84,
       "price": 45,
-      "calories_per_serving": 59,
+      "calories_per_serving": 482,
       "price_per_serving": 11,
       "sources": [
         "USDA FoodData Central",
@@ -658,7 +766,16 @@
       "price_planned": 50,
       "price_per_serving_min": 11,
       "price_per_serving_max": 13,
-      "price_per_serving_planned": 12
+      "price_per_serving_planned": 12,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.033395Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "14",
@@ -688,12 +805,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 321,
-      "protein": 26,
-      "carbs": 25,
-      "fat": 14,
+      "calories": 3289,
+      "protein": 297,
+      "carbs": 117,
+      "fat": 169,
       "price": 570,
-      "calories_per_serving": 80,
+      "calories_per_serving": 822,
       "price_per_serving": 14,
       "sources": [
         "Local market average",
@@ -708,7 +825,16 @@
       "price_planned": 627,
       "price_per_serving_min": 14,
       "price_per_serving_max": 17,
-      "price_per_serving_planned": 15
+      "price_per_serving_planned": 15,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.033698Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 4
+      }
     },
     {
       "idMeal": "15",
@@ -738,12 +864,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 2662,
-      "protein": 48,
-      "carbs": 19,
-      "fat": 265,
+      "calories": 3133,
+      "protein": 51,
+      "carbs": 54,
+      "fat": 292,
       "price": 360,
-      "calories_per_serving": 666,
+      "calories_per_serving": 783,
       "price_per_serving": 42,
       "sources": [
         "Supermarket price",
@@ -758,7 +884,16 @@
       "price_planned": 396,
       "price_per_serving_min": 42,
       "price_per_serving_max": 50,
-      "price_per_serving_planned": 46
+      "price_per_serving_planned": 46,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.034204Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 5
+      }
     },
     {
       "idMeal": "16",
@@ -788,12 +923,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 82,
-      "protein": 10,
-      "carbs": 10,
-      "fat": 1,
+      "calories": 1394,
+      "protein": 148,
+      "carbs": 38,
+      "fat": 69,
       "price": 240,
-      "calories_per_serving": 20,
+      "calories_per_serving": 348,
       "price_per_serving": 6,
       "sources": [
         "Generic citrus composition",
@@ -808,7 +943,16 @@
       "price_planned": 264,
       "price_per_serving_min": 6,
       "price_per_serving_max": 7,
-      "price_per_serving_planned": 7
+      "price_per_serving_planned": 7,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.034440Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 0
+      }
     },
     {
       "idMeal": "17",
@@ -838,12 +982,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 51,
-      "protein": 1,
-      "carbs": 5,
-      "fat": 5,
+      "calories": 654,
+      "protein": 104,
+      "carbs": 27,
+      "fat": 14,
       "price": 310,
-      "calories_per_serving": 13,
+      "calories_per_serving": 168,
       "price_per_serving": 3,
       "sources": [
         "USDA FoodData Central",
@@ -857,7 +1001,16 @@
       "price_planned": 341,
       "price_per_serving_min": 3,
       "price_per_serving_max": 4,
-      "price_per_serving_planned": 3
+      "price_per_serving_planned": 3,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.034742Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "18",
@@ -887,12 +1040,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 2703,
-      "protein": 52,
-      "carbs": 10,
-      "fat": 268,
+      "calories": 2243,
+      "protein": 205,
+      "carbs": 42,
+      "fat": 126,
       "price": 350,
-      "calories_per_serving": 676,
+      "calories_per_serving": 561,
       "price_per_serving": 44,
       "sources": [
         "Estimated minimal cost",
@@ -908,7 +1061,16 @@
       "price_planned": 385,
       "price_per_serving_min": 44,
       "price_per_serving_max": 53,
-      "price_per_serving_planned": 48
+      "price_per_serving_planned": 48,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.034982Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 0
+      }
     },
     {
       "idMeal": "19",
@@ -938,12 +1100,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 5641,
-      "protein": 103,
-      "carbs": 106,
-      "fat": 531,
+      "calories": 5806,
+      "protein": 99,
+      "carbs": 135,
+      "fat": 535,
       "price": 400,
-      "calories_per_serving": 1410,
+      "calories_per_serving": 1452,
       "price_per_serving": 86,
       "sources": [
         "Local market average",
@@ -958,7 +1120,16 @@
       "price_planned": 440,
       "price_per_serving_min": 86,
       "price_per_serving_max": 103,
-      "price_per_serving_planned": 95
+      "price_per_serving_planned": 95,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.035221Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 0
+      }
     },
     {
       "idMeal": "20",
@@ -988,12 +1159,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 965,
-      "protein": 37,
-      "carbs": 1,
-      "fat": 89,
+      "calories": 1167,
+      "protein": 35,
+      "carbs": 76,
+      "fat": 86,
       "price": 180,
-      "calories_per_serving": 241,
+      "calories_per_serving": 292,
       "price_per_serving": 19,
       "sources": [
         "USDA FoodData Central",
@@ -1007,7 +1178,16 @@
       "price_planned": 198,
       "price_per_serving_min": 19,
       "price_per_serving_max": 23,
-      "price_per_serving_planned": 21
+      "price_per_serving_planned": 21,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.035483Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "21",
@@ -1037,12 +1217,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 1125,
-      "protein": 13,
-      "carbs": 30,
-      "fat": 115,
+      "calories": 842,
+      "protein": 116,
+      "carbs": 28,
+      "fat": 35,
       "price": 280,
-      "calories_per_serving": 281,
+      "calories_per_serving": 216,
       "price_per_serving": 28,
       "sources": [
         "Local market average",
@@ -1057,7 +1237,16 @@
       "price_planned": 308,
       "price_per_serving_min": 28,
       "price_per_serving_max": 34,
-      "price_per_serving_planned": 31
+      "price_per_serving_planned": 31,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.035685Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "22",
@@ -1087,12 +1276,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 287,
-      "protein": 7,
-      "carbs": 45,
-      "fat": 5,
+      "calories": 693,
+      "protein": 59,
+      "carbs": 35,
+      "fat": 34,
       "price": 350,
-      "calories_per_serving": 72,
+      "calories_per_serving": 173,
       "price_per_serving": 17,
       "sources": [
         "Generic citrus composition",
@@ -1108,7 +1297,16 @@
       "price_planned": 385,
       "price_per_serving_min": 17,
       "price_per_serving_max": 20,
-      "price_per_serving_planned": 19
+      "price_per_serving_planned": 19,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.036005Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "23",
@@ -1138,12 +1336,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 294,
-      "protein": 11,
-      "carbs": 64,
-      "fat": 1,
+      "calories": 1786,
+      "protein": 142,
+      "carbs": 99,
+      "fat": 84,
       "price": 370,
-      "calories_per_serving": 74,
+      "calories_per_serving": 446,
       "price_per_serving": 6,
       "sources": [
         "USDA FoodData Central",
@@ -1157,7 +1355,16 @@
       "price_planned": 407,
       "price_per_serving_min": 6,
       "price_per_serving_max": 7,
-      "price_per_serving_planned": 7
+      "price_per_serving_planned": 7,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.036267Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "24",
@@ -1187,12 +1394,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 2169,
-      "protein": 86,
-      "carbs": 399,
-      "fat": 23,
+      "calories": 2410,
+      "protein": 169,
+      "carbs": 125,
+      "fat": 123,
       "price": 250,
-      "calories_per_serving": 542,
+      "calories_per_serving": 602,
       "price_per_serving": 26,
       "sources": [
         "Local supermarket",
@@ -1209,7 +1416,16 @@
       "price_planned": 275,
       "price_per_serving_min": 26,
       "price_per_serving_max": 31,
-      "price_per_serving_planned": 29
+      "price_per_serving_planned": 29,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.036524Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "25",
@@ -1239,12 +1455,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 1481,
-      "protein": 111,
-      "carbs": 83,
-      "fat": 76,
+      "calories": 2034,
+      "protein": 161,
+      "carbs": 164,
+      "fat": 75,
       "price": 105,
-      "calories_per_serving": 370,
+      "calories_per_serving": 508,
       "price_per_serving": 26,
       "sources": [
         "Local market average",
@@ -1259,7 +1475,16 @@
       "price_planned": 116,
       "price_per_serving_min": 26,
       "price_per_serving_max": 31,
-      "price_per_serving_planned": 29
+      "price_per_serving_planned": 29,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.036805Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "26",
@@ -1289,12 +1514,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 1598,
-      "protein": 35,
-      "carbs": 5,
-      "fat": 159,
+      "calories": 1622,
+      "protein": 178,
+      "carbs": 25,
+      "fat": 85,
       "price": 280,
-      "calories_per_serving": 400,
+      "calories_per_serving": 406,
       "price_per_serving": 26,
       "sources": [
         "Local market average",
@@ -1309,7 +1534,16 @@
       "price_planned": 308,
       "price_per_serving_min": 26,
       "price_per_serving_max": 31,
-      "price_per_serving_planned": 29
+      "price_per_serving_planned": 29,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.037074Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "27",
@@ -1339,12 +1573,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 474,
-      "protein": 5,
-      "carbs": 75,
-      "fat": 19,
+      "calories": 1070,
+      "protein": 13,
+      "carbs": 177,
+      "fat": 34,
       "price": 250,
-      "calories_per_serving": 118,
+      "calories_per_serving": 268,
       "price_per_serving": 8,
       "sources": [
         "Generic baked goods composition",
@@ -1361,7 +1595,16 @@
       "price_planned": 275,
       "price_per_serving_min": 8,
       "price_per_serving_max": 10,
-      "price_per_serving_planned": 9
+      "price_per_serving_planned": 9,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.037344Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "28",
@@ -1391,12 +1634,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 1181,
-      "protein": 26,
-      "carbs": 25,
-      "fat": 107,
+      "calories": 1200,
+      "protein": 32,
+      "carbs": 17,
+      "fat": 111,
       "price": 230,
-      "calories_per_serving": 295,
+      "calories_per_serving": 300,
       "price_per_serving": 24,
       "sources": [
         "USDA FoodData Central",
@@ -1410,7 +1653,16 @@
       "price_planned": 253,
       "price_per_serving_min": 24,
       "price_per_serving_max": 29,
-      "price_per_serving_planned": 26
+      "price_per_serving_planned": 26,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.037605Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "29",
@@ -1440,12 +1692,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 1035,
-      "protein": 34,
-      "carbs": 51,
+      "calories": 1106,
+      "protein": 45,
+      "carbs": 60,
       "fat": 82,
       "price": 200,
-      "calories_per_serving": 259,
+      "calories_per_serving": 276,
       "price_per_serving": 31,
       "sources": [
         "USDA FoodData Central",
@@ -1458,7 +1710,16 @@
       "price_planned": 220,
       "price_per_serving_min": 31,
       "price_per_serving_max": 37,
-      "price_per_serving_planned": 34
+      "price_per_serving_planned": 34,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.037871Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "30",
@@ -1488,12 +1749,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 515,
-      "protein": 15,
-      "carbs": 57,
-      "fat": 24,
+      "calories": 1069,
+      "protein": 32,
+      "carbs": 125,
+      "fat": 42,
       "price": 320,
-      "calories_per_serving": 129,
+      "calories_per_serving": 267,
       "price_per_serving": 8,
       "sources": [
         "USDA FoodData Central",
@@ -1506,7 +1767,16 @@
       "price_planned": 352,
       "price_per_serving_min": 8,
       "price_per_serving_max": 10,
-      "price_per_serving_planned": 9
+      "price_per_serving_planned": 9,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.038189Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "31",
@@ -1536,12 +1806,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 636,
-      "protein": 77,
-      "carbs": 15,
-      "fat": 29,
+      "calories": 1101,
+      "protein": 85,
+      "carbs": 50,
+      "fat": 58,
       "price": 150,
-      "calories_per_serving": 159,
+      "calories_per_serving": 275,
       "price_per_serving": 26,
       "sources": [
         "Local market average",
@@ -1557,7 +1827,16 @@
       "price_planned": 165,
       "price_per_serving_min": 26,
       "price_per_serving_max": 31,
-      "price_per_serving_planned": 29
+      "price_per_serving_planned": 29,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.038430Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "32",
@@ -1587,12 +1866,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 1135,
-      "protein": 12,
-      "carbs": 31,
-      "fat": 115,
+      "calories": 1840,
+      "protein": 41,
+      "carbs": 122,
+      "fat": 140,
       "price": 320,
-      "calories_per_serving": 284,
+      "calories_per_serving": 460,
       "price_per_serving": 30,
       "sources": [
         "USDA FoodData Central",
@@ -1606,7 +1885,16 @@
       "price_planned": 352,
       "price_per_serving_min": 30,
       "price_per_serving_max": 36,
-      "price_per_serving_planned": 33
+      "price_per_serving_planned": 33,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.038692Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "33",
@@ -1636,12 +1924,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 475,
-      "protein": 1,
-      "carbs": 0,
-      "fat": 50,
+      "calories": 966,
+      "protein": 102,
+      "carbs": 7,
+      "fat": 60,
       "price": 280,
-      "calories_per_serving": 119,
+      "calories_per_serving": 198,
       "price_per_serving": 4,
       "sources": [
         "Local market average",
@@ -1657,7 +1945,16 @@
       "price_planned": 308,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.038906Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "34",
@@ -1687,12 +1984,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 137,
-      "protein": 7,
-      "carbs": 18,
-      "fat": 4,
+      "calories": 1631,
+      "protein": 143,
+      "carbs": 52,
+      "fat": 86,
       "price": 360,
-      "calories_per_serving": 34,
+      "calories_per_serving": 408,
       "price_per_serving": 4,
       "sources": [
         "Approximate / condiment composition",
@@ -1706,7 +2003,16 @@
       "price_planned": 396,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.039117Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "35",
@@ -1736,12 +2042,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 396,
-      "protein": 33,
-      "carbs": 15,
-      "fat": 24,
+      "calories": 328,
+      "protein": 22,
+      "carbs": 21,
+      "fat": 17,
       "price": 200,
-      "calories_per_serving": 99,
+      "calories_per_serving": 82,
       "price_per_serving": 7,
       "sources": [
         "Local market average",
@@ -1757,7 +2063,16 @@
       "price_planned": 220,
       "price_per_serving_min": 7,
       "price_per_serving_max": 8,
-      "price_per_serving_planned": 8
+      "price_per_serving_planned": 8,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.039367Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "36",
@@ -1787,12 +2102,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 4156,
-      "protein": 77,
-      "carbs": 58,
-      "fat": 398,
+      "calories": 2466,
+      "protein": 216,
+      "carbs": 132,
+      "fat": 121,
       "price": 260,
-      "calories_per_serving": 1039,
+      "calories_per_serving": 616,
       "price_per_serving": 66,
       "sources": [
         "USDA FoodData Central",
@@ -1808,7 +2123,16 @@
       "price_planned": 286,
       "price_per_serving_min": 66,
       "price_per_serving_max": 79,
-      "price_per_serving_planned": 73
+      "price_per_serving_planned": 73,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.039613Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "37",
@@ -1838,12 +2162,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 1125,
-      "protein": 13,
-      "carbs": 30,
-      "fat": 115,
+      "calories": 1631,
+      "protein": 14,
+      "carbs": 85,
+      "fat": 137,
       "price": 310,
-      "calories_per_serving": 281,
+      "calories_per_serving": 408,
       "price_per_serving": 28,
       "sources": [
         "Local market average",
@@ -1858,7 +2182,16 @@
       "price_planned": 341,
       "price_per_serving_min": 28,
       "price_per_serving_max": 34,
-      "price_per_serving_planned": 31
+      "price_per_serving_planned": 31,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.039847Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "38",
@@ -1888,12 +2221,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 477,
-      "protein": 1,
-      "carbs": 5,
-      "fat": 50,
+      "calories": 402,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 33,
       "price": 150,
-      "calories_per_serving": 119,
+      "calories_per_serving": 100,
       "price_per_serving": 5,
       "sources": [
         "Local market average",
@@ -1909,7 +2242,16 @@
       "price_planned": 165,
       "price_per_serving_min": 5,
       "price_per_serving_max": 6,
-      "price_per_serving_planned": 6
+      "price_per_serving_planned": 6,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.040062Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "39",
@@ -1939,12 +2281,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 89,
-      "protein": 6,
-      "carbs": 7,
-      "fat": 4,
+      "calories": 1621,
+      "protein": 150,
+      "carbs": 74,
+      "fat": 78,
       "price": 330,
-      "calories_per_serving": 22,
+      "calories_per_serving": 404,
       "price_per_serving": 4,
       "sources": [
         "USDA FoodData Central",
@@ -1957,7 +2299,16 @@
       "price_planned": 363,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.040332Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "40",
@@ -1987,12 +2338,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 2336,
-      "protein": 12,
-      "carbs": 123,
-      "fat": 201,
+      "calories": 2225,
+      "protein": 104,
+      "carbs": 255,
+      "fat": 84,
       "price": 300,
-      "calories_per_serving": 584,
+      "calories_per_serving": 556,
       "price_per_serving": 14,
       "sources": [
         "Generic citrus composition",
@@ -2009,7 +2360,16 @@
       "price_planned": 330,
       "price_per_serving_min": 14,
       "price_per_serving_max": 17,
-      "price_per_serving_planned": 15
+      "price_per_serving_planned": 15,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.040473Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "41",
@@ -2039,12 +2399,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 70,
-      "protein": 2,
-      "carbs": 15,
-      "fat": 0,
+      "calories": 2659,
+      "protein": 268,
+      "carbs": 34,
+      "fat": 152,
       "price": 570,
-      "calories_per_serving": 18,
+      "calories_per_serving": 665,
       "price_per_serving": 3,
       "sources": [
         "USDA FoodData Central",
@@ -2058,7 +2418,16 @@
       "price_planned": 627,
       "price_per_serving_min": 3,
       "price_per_serving_max": 4,
-      "price_per_serving_planned": 3
+      "price_per_serving_planned": 3,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.040704Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 5
+      }
     },
     {
       "idMeal": "42",
@@ -2088,12 +2457,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 23,
-      "protein": 1,
-      "carbs": 3,
-      "fat": 0,
+      "calories": 1427,
+      "protein": 140,
+      "carbs": 36,
+      "fat": 76,
       "price": 280,
-      "calories_per_serving": 6,
+      "calories_per_serving": 357,
       "price_per_serving": 2,
       "sources": [
         "USDA FoodData Central",
@@ -2107,7 +2476,16 @@
       "price_planned": 308,
       "price_per_serving_min": 2,
       "price_per_serving_max": 2,
-      "price_per_serving_planned": 2
+      "price_per_serving_planned": 2,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.041155Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "43",
@@ -2137,12 +2515,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 380,
-      "protein": 6,
-      "carbs": 0,
-      "fat": 35,
+      "calories": 1084,
+      "protein": 88,
+      "carbs": 3,
+      "fat": 77,
       "price": 220,
-      "calories_per_serving": 84,
+      "calories_per_serving": 217,
       "price_per_serving": 2,
       "sources": [
         "USDA FoodData Central",
@@ -2156,7 +2534,16 @@
       "price_planned": 242,
       "price_per_serving_min": 2,
       "price_per_serving_max": 2,
-      "price_per_serving_planned": 2
+      "price_per_serving_planned": 2,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.041571Z",
+      "nutrition_assumptions": {
+        "servings_used": 5,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "44",
@@ -2186,12 +2573,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 336,
-      "protein": 59,
-      "carbs": 1,
-      "fat": 10,
+      "calories": 538,
+      "protein": 57,
+      "carbs": 76,
+      "fat": 6,
       "price": 170,
-      "calories_per_serving": 84,
+      "calories_per_serving": 134,
       "price_per_serving": 23,
       "sources": [
         "USDA FoodData Central",
@@ -2204,7 +2591,16 @@
       "price_planned": 187,
       "price_per_serving_min": 23,
       "price_per_serving_max": 28,
-      "price_per_serving_planned": 25
+      "price_per_serving_planned": 25,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.042067Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "45",
@@ -2234,12 +2630,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 63,
-      "protein": 6,
-      "carbs": 11,
-      "fat": 0,
+      "calories": 1118,
+      "protein": 121,
+      "carbs": 23,
+      "fat": 56,
       "price": 290,
-      "calories_per_serving": 16,
+      "calories_per_serving": 154,
       "price_per_serving": 4,
       "sources": [
         "Generic citrus composition",
@@ -2253,7 +2649,16 @@
       "price_planned": 319,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.042532Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "46",
@@ -2283,12 +2688,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=n5l5y8pB2eA",
-      "calories": 322,
-      "protein": 44,
-      "carbs": 2,
-      "fat": 10,
+      "calories": 506,
+      "protein": 48,
+      "carbs": 9,
+      "fat": 30,
       "price": 150,
-      "calories_per_serving": 80,
+      "calories_per_serving": 126,
       "price_per_serving": 14,
       "sources": [
         "Local market average",
@@ -2304,7 +2709,16 @@
       "price_planned": 165,
       "price_per_serving_min": 14,
       "price_per_serving_max": 17,
-      "price_per_serving_planned": 15
+      "price_per_serving_planned": 15,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.042902Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "47",
@@ -2334,12 +2748,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=T_sI_F3Ew40",
-      "calories": 1074,
-      "protein": 82,
-      "carbs": 10,
-      "fat": 77,
+      "calories": 2497,
+      "protein": 98,
+      "carbs": 157,
+      "fat": 143,
       "price": 230,
-      "calories_per_serving": 268,
+      "calories_per_serving": 624,
       "price_per_serving": 34,
       "sources": [
         "USDA FoodData Central",
@@ -2353,7 +2767,16 @@
       "price_planned": 253,
       "price_per_serving_min": 34,
       "price_per_serving_max": 41,
-      "price_per_serving_planned": 37
+      "price_per_serving_planned": 37,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.043334Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "48",
@@ -2383,12 +2806,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 806,
-      "protein": 26,
-      "carbs": 152,
-      "fat": 8,
+      "calories": 1124,
+      "protein": 86,
+      "carbs": 97,
+      "fat": 41,
       "price": 240,
-      "calories_per_serving": 202,
+      "calories_per_serving": 281,
       "price_per_serving": 12,
       "sources": [
         "Local market average",
@@ -2405,7 +2828,16 @@
       "price_planned": 264,
       "price_per_serving_min": 12,
       "price_per_serving_max": 14,
-      "price_per_serving_planned": 13
+      "price_per_serving_planned": 13,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.043777Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 5
+      }
     },
     {
       "idMeal": "49",
@@ -2435,12 +2867,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 3600,
-      "protein": 127,
-      "carbs": 584,
-      "fat": 86,
+      "calories": 2286,
+      "protein": 94,
+      "carbs": 234,
+      "fat": 95,
       "price": 250,
-      "calories_per_serving": 900,
+      "calories_per_serving": 572,
       "price_per_serving": 55,
       "sources": [
         "Local supermarket",
@@ -2457,7 +2889,16 @@
       "price_planned": 275,
       "price_per_serving_min": 55,
       "price_per_serving_max": 66,
-      "price_per_serving_planned": 60
+      "price_per_serving_planned": 60,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.044237Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "50",
@@ -2487,12 +2928,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=6vPY4-VyG5o",
-      "calories": 380,
-      "protein": 1,
-      "carbs": 107,
-      "fat": 0,
+      "calories": 1788,
+      "protein": 137,
+      "carbs": 132,
+      "fat": 75,
       "price": 350,
-      "calories_per_serving": 104,
+      "calories_per_serving": 446,
       "price_per_serving": 2,
       "sources": [
         "USDA FoodData Central",
@@ -2506,7 +2947,16 @@
       "price_planned": 385,
       "price_per_serving_min": 2,
       "price_per_serving_max": 2,
-      "price_per_serving_planned": 2
+      "price_per_serving_planned": 2,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.044626Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "51",
@@ -2536,12 +2986,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Fj0y7E_4mUw",
-      "calories": 2165,
-      "protein": 27,
-      "carbs": 49,
-      "fat": 208,
+      "calories": 3636,
+      "protein": 181,
+      "carbs": 189,
+      "fat": 236,
       "price": 310,
-      "calories_per_serving": 541,
+      "calories_per_serving": 909,
       "price_per_serving": 47,
       "sources": [
         "Local market average",
@@ -2559,7 +3009,16 @@
       "price_planned": 341,
       "price_per_serving_min": 47,
       "price_per_serving_max": 56,
-      "price_per_serving_planned": 52
+      "price_per_serving_planned": 52,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.045195Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 5
+      }
     },
     {
       "idMeal": "52",
@@ -2589,12 +3048,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=qT3g2kP5bWc",
-      "calories": 1664,
-      "protein": 28,
-      "carbs": 29,
-      "fat": 168,
+      "calories": 1820,
+      "protein": 26,
+      "carbs": 56,
+      "fat": 172,
       "price": 180,
-      "calories_per_serving": 416,
+      "calories_per_serving": 455,
       "price_per_serving": 39,
       "sources": [
         "USDA FoodData Central",
@@ -2608,7 +3067,16 @@
       "price_planned": 198,
       "price_per_serving_min": 39,
       "price_per_serving_max": 47,
-      "price_per_serving_planned": 43
+      "price_per_serving_planned": 43,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.045618Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "53",
@@ -2638,12 +3106,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=lV0_gZ1sXqE",
-      "calories": 661,
-      "protein": 13,
-      "carbs": 166,
-      "fat": 2,
+      "calories": 560,
+      "protein": 23,
+      "carbs": 60,
+      "fat": 22,
       "price": 180,
-      "calories_per_serving": 165,
+      "calories_per_serving": 140,
       "price_per_serving": 17,
       "sources": [
         "Local market average",
@@ -2659,7 +3127,16 @@
       "price_planned": 198,
       "price_per_serving_min": 17,
       "price_per_serving_max": 20,
-      "price_per_serving_planned": 19
+      "price_per_serving_planned": 19,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.046173Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 4
+      }
     },
     {
       "idMeal": "54",
@@ -2689,12 +3166,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=iE5sW-5FjSg",
-      "calories": 3684,
-      "protein": 72,
-      "carbs": 51,
-      "fat": 362,
+      "calories": 2993,
+      "protein": 66,
+      "carbs": 75,
+      "fat": 273,
       "price": 280,
-      "calories_per_serving": 921,
+      "calories_per_serving": 748,
       "price_per_serving": 75,
       "sources": [
         "USDA FoodData Central",
@@ -2708,7 +3185,16 @@
       "price_planned": 308,
       "price_per_serving_min": 75,
       "price_per_serving_max": 90,
-      "price_per_serving_planned": 82
+      "price_per_serving_planned": 82,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.046730Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "55",
@@ -2738,12 +3224,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=A2dY2fM9p4o",
-      "calories": 1172,
-      "protein": 20,
-      "carbs": 39,
-      "fat": 116,
+      "calories": 1694,
+      "protein": 18,
+      "carbs": 101,
+      "fat": 136,
       "price": 320,
-      "calories_per_serving": 293,
+      "calories_per_serving": 424,
       "price_per_serving": 31,
       "sources": [
         "Local market average",
@@ -2758,7 +3244,16 @@
       "price_planned": 352,
       "price_per_serving_min": 31,
       "price_per_serving_max": 37,
-      "price_per_serving_planned": 34
+      "price_per_serving_planned": 34,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.047198Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "56",
@@ -2788,12 +3283,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Gk7FzB6L_8M",
-      "calories": 2008,
-      "protein": 96,
-      "carbs": 380,
-      "fat": 12,
+      "calories": 2240,
+      "protein": 113,
+      "carbs": 365,
+      "fat": 15,
       "price": 150,
-      "calories_per_serving": 502,
+      "calories_per_serving": 560,
       "price_per_serving": 30,
       "sources": [
         "Local supermarket",
@@ -2811,7 +3306,16 @@
       "price_planned": 165,
       "price_per_serving_min": 30,
       "price_per_serving_max": 36,
-      "price_per_serving_planned": 33
+      "price_per_serving_planned": 33,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.047668Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "57",
@@ -2841,12 +3345,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=A2dY2fM9p4o",
-      "calories": 3342,
-      "protein": 90,
-      "carbs": 15,
-      "fat": 325,
+      "calories": 3928,
+      "protein": 130,
+      "carbs": 317,
+      "fat": 243,
       "price": 240,
-      "calories_per_serving": 836,
+      "calories_per_serving": 982,
       "price_per_serving": 47,
       "sources": [
         "Local market average",
@@ -2862,7 +3366,16 @@
       "price_planned": 264,
       "price_per_serving_min": 47,
       "price_per_serving_max": 56,
-      "price_per_serving_planned": 52
+      "price_per_serving_planned": 52,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.048009Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "58",
@@ -2892,12 +3405,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=qT3g2kP5bWc",
-      "calories": 965,
-      "protein": 37,
-      "carbs": 1,
-      "fat": 89,
+      "calories": 1217,
+      "protein": 35,
+      "carbs": 81,
+      "fat": 88,
       "price": 150,
-      "calories_per_serving": 241,
+      "calories_per_serving": 304,
       "price_per_serving": 19,
       "sources": [
         "USDA FoodData Central",
@@ -2911,7 +3424,16 @@
       "price_planned": 165,
       "price_per_serving_min": 19,
       "price_per_serving_max": 23,
-      "price_per_serving_planned": 21
+      "price_per_serving_planned": 21,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.048543Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 4
+      }
     },
     {
       "idMeal": "59",
@@ -2941,12 +3463,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Fj0y7E_4mUw",
-      "calories": 5350,
-      "protein": 105,
-      "carbs": 29,
-      "fat": 531,
+      "calories": 2728,
+      "protein": 280,
+      "carbs": 35,
+      "fat": 151,
       "price": 400,
-      "calories_per_serving": 1338,
+      "calories_per_serving": 682,
       "price_per_serving": 86,
       "sources": [
         "USDA FoodData Central",
@@ -2960,7 +3482,16 @@
       "price_planned": 440,
       "price_per_serving_min": 86,
       "price_per_serving_max": 103,
-      "price_per_serving_planned": 95
+      "price_per_serving_planned": 95,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.048895Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 0
+      }
     },
     {
       "idMeal": "60",
@@ -2990,12 +3521,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=lV0_gZ1sXqE",
-      "calories": 9,
-      "protein": 2,
-      "carbs": 1,
-      "fat": 0,
+      "calories": 446,
+      "protein": 40,
+      "carbs": 52,
+      "fat": 14,
       "price": 290,
-      "calories_per_serving": 2,
+      "calories_per_serving": 112,
       "price_per_serving": 0,
       "sources": [
         "Approximate / condiment composition",
@@ -3005,7 +3536,16 @@
       "calculated_at": "2026-01-07T23:14:08.697700Z",
       "price_min": 290,
       "price_max": 348,
-      "price_planned": 319
+      "price_planned": 319,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.049347Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 5
+      }
     },
     {
       "idMeal": "61",
@@ -3035,12 +3575,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Fj0y7E_4mUw",
-      "calories": 82,
-      "protein": 10,
-      "carbs": 10,
-      "fat": 1,
+      "calories": 1449,
+      "protein": 141,
+      "carbs": 38,
+      "fat": 76,
       "price": 310,
-      "calories_per_serving": 20,
+      "calories_per_serving": 362,
       "price_per_serving": 6,
       "sources": [
         "Generic citrus composition",
@@ -3055,7 +3595,16 @@
       "price_planned": 341,
       "price_per_serving_min": 6,
       "price_per_serving_max": 7,
-      "price_per_serving_planned": 7
+      "price_per_serving_planned": 7,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.049751Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 0
+      }
     },
     {
       "idMeal": "62",
@@ -3085,12 +3634,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=A2dY2fM9p4o",
-      "calories": 646,
-      "protein": 0,
-      "carbs": 50,
-      "fat": 50,
+      "calories": 1212,
+      "protein": 103,
+      "carbs": 72,
+      "fat": 59,
       "price": 200,
-      "calories_per_serving": 162,
+      "calories_per_serving": 264,
       "price_per_serving": 4,
       "sources": [
         "Local market average",
@@ -3105,7 +3654,16 @@
       "price_planned": 220,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.050292Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "63",
@@ -3135,12 +3693,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=qT3g2kP5bWc",
-      "calories": 1156,
-      "protein": 19,
-      "carbs": 31,
-      "fat": 115,
+      "calories": 443,
+      "protein": 11,
+      "carbs": 39,
+      "fat": 30,
       "price": 150,
-      "calories_per_serving": 289,
+      "calories_per_serving": 111,
       "price_per_serving": 30,
       "sources": [
         "USDA FoodData Central",
@@ -3153,7 +3711,16 @@
       "price_planned": 165,
       "price_per_serving_min": 30,
       "price_per_serving_max": 36,
-      "price_per_serving_planned": 33
+      "price_per_serving_planned": 33,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.050786Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 4
+      }
     },
     {
       "idMeal": "64",
@@ -3183,12 +3750,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=lV0_gZ1sXqE",
-      "calories": 802,
-      "protein": 68,
-      "carbs": 4,
-      "fat": 54,
+      "calories": 1053,
+      "protein": 100,
+      "carbs": 7,
+      "fat": 66,
       "price": 190,
-      "calories_per_serving": 200,
+      "calories_per_serving": 263,
       "price_per_serving": 33,
       "sources": [
         "USDA FoodData Central",
@@ -3202,7 +3769,16 @@
       "price_planned": 209,
       "price_per_serving_min": 33,
       "price_per_serving_max": 40,
-      "price_per_serving_planned": 36
+      "price_per_serving_planned": 36,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.051169Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "65",
@@ -3232,12 +3808,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=iE5sW-5FjSg",
-      "calories": 4140,
-      "protein": 80,
-      "carbs": 52,
-      "fat": 398,
+      "calories": 4549,
+      "protein": 84,
+      "carbs": 138,
+      "fat": 411,
       "price": 350,
-      "calories_per_serving": 1035,
+      "calories_per_serving": 1137,
       "price_per_serving": 66,
       "sources": [
         "USDA FoodData Central",
@@ -3253,7 +3829,16 @@
       "price_planned": 385,
       "price_per_serving_min": 66,
       "price_per_serving_max": 79,
-      "price_per_serving_planned": 73
+      "price_per_serving_planned": 73,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.051621Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "66",
@@ -3283,12 +3868,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Gk7FzB6L_8M",
-      "calories": 877,
-      "protein": 32,
-      "carbs": 152,
-      "fat": 8,
+      "calories": 1196,
+      "protein": 92,
+      "carbs": 97,
+      "fat": 46,
       "price": 170,
-      "calories_per_serving": 219,
+      "calories_per_serving": 299,
       "price_per_serving": 13,
       "sources": [
         "Local market average",
@@ -3305,7 +3890,16 @@
       "price_planned": 187,
       "price_per_serving_min": 13,
       "price_per_serving_max": 16,
-      "price_per_serving_planned": 14
+      "price_per_serving_planned": 14,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.052156Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 6
+      }
     },
     {
       "idMeal": "67",
@@ -3335,12 +3929,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=A2dY2fM9p4o",
-      "calories": 70,
-      "protein": 4,
-      "carbs": 11,
-      "fat": 0,
+      "calories": 843,
+      "protein": 92,
+      "carbs": 104,
+      "fat": 15,
       "price": 250,
-      "calories_per_serving": 18,
+      "calories_per_serving": 211,
       "price_per_serving": 4,
       "sources": [
         "Dried spices market average",
@@ -3354,7 +3948,16 @@
       "price_planned": 275,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.052619Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "68",
@@ -3384,12 +3987,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=iE5sW-5FjSg",
-      "calories": 229,
-      "protein": 15,
-      "carbs": 46,
-      "fat": 3,
+      "calories": 2147,
+      "protein": 187,
+      "carbs": 115,
+      "fat": 97,
       "price": 330,
-      "calories_per_serving": 57,
+      "calories_per_serving": 537,
       "price_per_serving": 11,
       "sources": [
         "USDA FoodData Central",
@@ -3403,7 +4006,16 @@
       "price_planned": 363,
       "price_per_serving_min": 11,
       "price_per_serving_max": 13,
-      "price_per_serving_planned": 12
+      "price_per_serving_planned": 12,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.053138Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 0
+      }
     },
     {
       "idMeal": "69",
@@ -3433,12 +4045,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Gk7FzB6L_8M",
-      "calories": 2020,
-      "protein": 115,
-      "carbs": 228,
-      "fat": 68,
+      "calories": 2302,
+      "protein": 228,
+      "carbs": 31,
+      "fat": 128,
       "price": 200,
-      "calories_per_serving": 505,
+      "calories_per_serving": 576,
       "price_per_serving": 44,
       "sources": [
         "Local supermarket",
@@ -3458,7 +4070,16 @@
       "price_planned": 220,
       "price_per_serving_min": 44,
       "price_per_serving_max": 53,
-      "price_per_serving_planned": 48
+      "price_per_serving_planned": 48,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.053481Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "70",
@@ -3488,12 +4109,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=iE5sW-5FjSg",
-      "calories": 91,
-      "protein": 3,
-      "carbs": 18,
-      "fat": 0,
+      "calories": 1131,
+      "protein": 17,
+      "carbs": 167,
+      "fat": 45,
       "price": 300,
-      "calories_per_serving": 23,
+      "calories_per_serving": 283,
       "price_per_serving": 2,
       "sources": [
         "USDA FoodData Central",
@@ -3508,7 +4129,16 @@
       "price_planned": 330,
       "price_per_serving_min": 2,
       "price_per_serving_max": 2,
-      "price_per_serving_planned": 2
+      "price_per_serving_planned": 2,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.053885Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "71",
@@ -3538,12 +4168,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Fj0y7E_4mUw",
-      "calories": 257,
-      "protein": 10,
-      "carbs": 56,
-      "fat": 1,
+      "calories": 1005,
+      "protein": 31,
+      "carbs": 116,
+      "fat": 29,
       "price": 270,
-      "calories_per_serving": 64,
+      "calories_per_serving": 251,
       "price_per_serving": 4,
       "sources": [
         "USDA FoodData Central",
@@ -3557,7 +4187,16 @@
       "price_planned": 297,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.054456Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 5
+      }
     },
     {
       "idMeal": "72",
@@ -3587,12 +4226,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=A2dY2fM9p4o",
-      "calories": 1068,
-      "protein": 128,
-      "carbs": 18,
-      "fat": 59,
+      "calories": 2074,
+      "protein": 137,
+      "carbs": 78,
+      "fat": 147,
       "price": 270,
-      "calories_per_serving": 267,
+      "calories_per_serving": 518,
       "price_per_serving": 68,
       "sources": [
         "Local market average",
@@ -3607,7 +4246,16 @@
       "price_planned": 297,
       "price_per_serving_min": 68,
       "price_per_serving_max": 82,
-      "price_per_serving_planned": 75
+      "price_per_serving_planned": 75,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.054885Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "73",
@@ -3637,12 +4285,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=iE5sW-5FjSg",
-      "calories": 85,
-      "protein": 3,
-      "carbs": 10,
-      "fat": 0,
+      "calories": 1900,
+      "protein": 190,
+      "carbs": 111,
+      "fat": 86,
       "price": 240,
-      "calories_per_serving": 21,
+      "calories_per_serving": 475,
       "price_per_serving": 6,
       "sources": [
         "USDA FoodData Central",
@@ -3657,7 +4305,16 @@
       "price_planned": 264,
       "price_per_serving_min": 6,
       "price_per_serving_max": 7,
-      "price_per_serving_planned": 7
+      "price_per_serving_planned": 7,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.055361Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "74",
@@ -3687,12 +4344,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Gk7FzB6L_8M",
-      "calories": 3015,
-      "protein": 167,
-      "carbs": 399,
-      "fat": 77,
+      "calories": 1471,
+      "protein": 135,
+      "carbs": 76,
+      "fat": 60,
       "price": 250,
-      "calories_per_serving": 754,
+      "calories_per_serving": 368,
       "price_per_serving": 65,
       "sources": [
         "Local supermarket",
@@ -3714,7 +4371,16 @@
       "price_planned": 275,
       "price_per_serving_min": 65,
       "price_per_serving_max": 78,
-      "price_per_serving_planned": 72
+      "price_per_serving_planned": 72,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.055911Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "75",
@@ -3744,12 +4410,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=A2dY2fM9p4o",
-      "calories": 564,
-      "protein": 6,
-      "carbs": 16,
-      "fat": 58,
+      "calories": 1614,
+      "protein": 15,
+      "carbs": 73,
+      "fat": 150,
       "price": 350,
-      "calories_per_serving": 141,
+      "calories_per_serving": 404,
       "price_per_serving": 15,
       "sources": [
         "Local market average",
@@ -3764,7 +4430,16 @@
       "price_planned": 385,
       "price_per_serving_min": 15,
       "price_per_serving_max": 18,
-      "price_per_serving_planned": 16
+      "price_per_serving_planned": 16,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.056397Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "76",
@@ -3794,12 +4469,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=b2yM4q3lR08",
-      "calories": 48,
-      "protein": 1,
-      "carbs": 7,
-      "fat": 1,
+      "calories": 1550,
+      "protein": 146,
+      "carbs": 67,
+      "fat": 78,
       "price": 180,
-      "calories_per_serving": 12,
+      "calories_per_serving": 388,
       "price_per_serving": 4,
       "sources": [
         "Local market average",
@@ -3815,7 +4490,16 @@
       "price_planned": 198,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.056935Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "77",
@@ -3845,12 +4529,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=hB9vK0l6rU4",
-      "calories": 607,
-      "protein": 31,
-      "carbs": 0,
-      "fat": 53,
+      "calories": 1213,
+      "protein": 33,
+      "carbs": 38,
+      "fat": 103,
       "price": 200,
-      "calories_per_serving": 152,
+      "calories_per_serving": 303,
       "price_per_serving": 18,
       "sources": [
         "USDA FoodData Central",
@@ -3863,7 +4547,16 @@
       "price_planned": 220,
       "price_per_serving_min": 18,
       "price_per_serving_max": 22,
-      "price_per_serving_planned": 20
+      "price_per_serving_planned": 20,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.057375Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 4
+      }
     },
     {
       "idMeal": "78",
@@ -3893,12 +4586,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=e_0oP0qFv_8",
-      "calories": 10,
-      "protein": 1,
-      "carbs": 2,
-      "fat": 0,
+      "calories": 2846,
+      "protein": 272,
+      "carbs": 75,
+      "fat": 152,
       "price": 560,
-      "calories_per_serving": 2,
+      "calories_per_serving": 569,
       "price_per_serving": 0,
       "sources": [
         "Supermarket price",
@@ -3909,7 +4602,16 @@
       "calculated_at": "2026-01-07T23:14:08.697793Z",
       "price_min": 560,
       "price_max": 672,
-      "price_planned": 616
+      "price_planned": 616,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.057778Z",
+      "nutrition_assumptions": {
+        "servings_used": 5,
+        "per_piece_defaults_applied": 5
+      }
     },
     {
       "idMeal": "79",
@@ -3939,12 +4641,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Fj-v5H0n_4Y",
-      "calories": 194,
-      "protein": 4,
-      "carbs": 31,
-      "fat": 4,
+      "calories": 676,
+      "protein": 59,
+      "carbs": 33,
+      "fat": 33,
       "price": 280,
-      "calories_per_serving": 48,
+      "calories_per_serving": 169,
       "price_per_serving": 12,
       "sources": [
         "Generic citrus composition",
@@ -3961,7 +4663,16 @@
       "price_planned": 308,
       "price_per_serving_min": 12,
       "price_per_serving_max": 14,
-      "price_per_serving_planned": 13
+      "price_per_serving_planned": 13,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.058179Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "80",
@@ -3991,12 +4702,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=R9j0_1kX7D8",
-      "calories": 128,
-      "protein": 3,
-      "carbs": 20,
-      "fat": 0,
+      "calories": 385,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 16,
       "price": 360,
-      "calories_per_serving": 32,
+      "calories_per_serving": 96,
       "price_per_serving": 9,
       "sources": [
         "Generic citrus composition",
@@ -4011,7 +4722,16 @@
       "price_planned": 396,
       "price_per_serving_min": 9,
       "price_per_serving_max": 11,
-      "price_per_serving_planned": 10
+      "price_per_serving_planned": 10,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.058586Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "81",
@@ -4041,12 +4761,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=0A2xK4B6mG8",
-      "calories": 18,
-      "protein": 3,
-      "carbs": 2,
-      "fat": 0,
+      "calories": 1497,
+      "protein": 163,
+      "carbs": 45,
+      "fat": 75,
       "price": 370,
-      "calories_per_serving": 4,
+      "calories_per_serving": 374,
       "price_per_serving": 1,
       "sources": [
         "Approximate / condiment composition",
@@ -4059,7 +4779,16 @@
       "price_planned": 407,
       "price_per_serving_min": 1,
       "price_per_serving_max": 1,
-      "price_per_serving_planned": 1
+      "price_per_serving_planned": 1,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.058966Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "82",
@@ -4089,12 +4818,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=GkXnE070vBw",
-      "calories": 877,
-      "protein": 32,
-      "carbs": 152,
-      "fat": 8,
+      "calories": 1255,
+      "protein": 103,
+      "carbs": 86,
+      "fat": 52,
       "price": 220,
-      "calories_per_serving": 219,
+      "calories_per_serving": 314,
       "price_per_serving": 13,
       "sources": [
         "Generic citrus composition",
@@ -4112,7 +4841,16 @@
       "price_planned": 242,
       "price_per_serving_min": 13,
       "price_per_serving_max": 16,
-      "price_per_serving_planned": 14
+      "price_per_serving_planned": 14,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.059490Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 6
+      }
     },
     {
       "idMeal": "83",
@@ -4142,12 +4880,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=S3QkX3_9XoY",
-      "calories": 297,
-      "protein": 10,
-      "carbs": 43,
-      "fat": 14,
+      "calories": 1899,
+      "protein": 150,
+      "carbs": 119,
+      "fat": 91,
       "price": 380,
-      "calories_per_serving": 74,
+      "calories_per_serving": 475,
       "price_per_serving": 11,
       "sources": [
         "USDA FoodData Central",
@@ -4160,7 +4898,16 @@
       "price_planned": 418,
       "price_per_serving_min": 11,
       "price_per_serving_max": 13,
-      "price_per_serving_planned": 12
+      "price_per_serving_planned": 12,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.060171Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "84",
@@ -4190,12 +4937,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=UqQ3yA_8m70",
-      "calories": 568,
-      "protein": 8,
-      "carbs": 20,
-      "fat": 58,
+      "calories": 1991,
+      "protein": 147,
+      "carbs": 72,
+      "fat": 127,
       "price": 260,
-      "calories_per_serving": 142,
+      "calories_per_serving": 497,
       "price_per_serving": 14,
       "sources": [
         "USDA FoodData Central",
@@ -4208,7 +4955,16 @@
       "price_planned": 286,
       "price_per_serving_min": 14,
       "price_per_serving_max": 17,
-      "price_per_serving_planned": 15
+      "price_per_serving_planned": 15,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.060530Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "85",
@@ -4237,12 +4993,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=A7tW6kR8n0g",
-      "calories": 15,
-      "protein": 4,
-      "carbs": 0,
-      "fat": 0,
+      "calories": 187,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 7,
       "price": 170,
-      "calories_per_serving": 4,
+      "calories_per_serving": 47,
       "price_per_serving": 2,
       "sources": [
         "USDA FoodData Central",
@@ -4255,7 +5011,16 @@
       "price_planned": 187,
       "price_per_serving_min": 2,
       "price_per_serving_max": 2,
-      "price_per_serving_planned": 2
+      "price_per_serving_planned": 2,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.060843Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "86",
@@ -4285,12 +5050,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 1182,
-      "protein": 30,
-      "carbs": 23,
-      "fat": 107,
+      "calories": 1100,
+      "protein": 117,
+      "carbs": 32,
+      "fat": 55,
       "price": 250,
-      "calories_per_serving": 296,
+      "calories_per_serving": 275,
       "price_per_serving": 24,
       "sources": [
         "Local market average",
@@ -4305,7 +5070,16 @@
       "price_planned": 275,
       "price_per_serving_min": 24,
       "price_per_serving_max": 29,
-      "price_per_serving_planned": 26
+      "price_per_serving_planned": 26,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.061238Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "87",
@@ -4335,12 +5109,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 82,
-      "protein": 10,
-      "carbs": 10,
-      "fat": 1,
+      "calories": 1449,
+      "protein": 141,
+      "carbs": 38,
+      "fat": 76,
       "price": 300,
-      "calories_per_serving": 20,
+      "calories_per_serving": 362,
       "price_per_serving": 6,
       "sources": [
         "Generic citrus composition",
@@ -4355,7 +5129,16 @@
       "price_planned": 330,
       "price_per_serving_min": 6,
       "price_per_serving_max": 7,
-      "price_per_serving_planned": 7
+      "price_per_serving_planned": 7,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.061623Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 0
+      }
     },
     {
       "idMeal": "88",
@@ -4385,12 +5168,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=t-L2C2x_P-I",
-      "calories": 193,
-      "protein": 0,
-      "carbs": 46,
-      "fat": 0,
+      "calories": 845,
+      "protein": 107,
+      "carbs": 93,
+      "fat": 10,
       "price": 240,
-      "calories_per_serving": 48,
+      "calories_per_serving": 216,
       "price_per_serving": 3,
       "sources": [
         "Local market average",
@@ -4405,7 +5188,16 @@
       "price_planned": 264,
       "price_per_serving_min": 3,
       "price_per_serving_max": 4,
-      "price_per_serving_planned": 3
+      "price_per_serving_planned": 3,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.062014Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "89",
@@ -4435,12 +5227,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=tV2K3B2hB-c",
-      "calories": 1002,
-      "protein": 76,
-      "carbs": 6,
-      "fat": 72,
+      "calories": 2425,
+      "protein": 92,
+      "carbs": 156,
+      "fat": 139,
       "price": 280,
-      "calories_per_serving": 250,
+      "calories_per_serving": 606,
       "price_per_serving": 33,
       "sources": [
         "USDA FoodData Central",
@@ -4454,7 +5246,16 @@
       "price_planned": 308,
       "price_per_serving_min": 33,
       "price_per_serving_max": 40,
-      "price_per_serving_planned": 36
+      "price_per_serving_planned": 36,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.062365Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "90",
@@ -4484,12 +5285,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=mD4-7Xj2xLg",
-      "calories": 2107,
-      "protein": 110,
-      "carbs": 391,
-      "fat": 15,
+      "calories": 2390,
+      "protein": 101,
+      "carbs": 382,
+      "fat": 34,
       "price": 180,
-      "calories_per_serving": 527,
+      "calories_per_serving": 598,
       "price_per_serving": 37,
       "sources": [
         "Local supermarket",
@@ -4507,7 +5308,16 @@
       "price_planned": 198,
       "price_per_serving_min": 37,
       "price_per_serving_max": 44,
-      "price_per_serving_planned": 41
+      "price_per_serving_planned": 41,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.062825Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "91",
@@ -4537,12 +5347,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=l_t8bQ2wBqY",
-      "calories": 1620,
-      "protein": 133,
+      "calories": 834,
+      "protein": 125,
       "carbs": 31,
-      "fat": 117,
+      "fat": 26,
       "price": 280,
-      "calories_per_serving": 405,
+      "calories_per_serving": 208,
       "price_per_serving": 81,
       "sources": [
         "Local market average",
@@ -4557,7 +5367,16 @@
       "price_planned": 308,
       "price_per_serving_min": 81,
       "price_per_serving_max": 97,
-      "price_per_serving_planned": 89
+      "price_per_serving_planned": 89,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.063215Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "92",
@@ -4587,12 +5406,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=J_jKj8Z7w2U",
-      "calories": 500,
-      "protein": 18,
-      "carbs": 106,
-      "fat": 2,
+      "calories": 3482,
+      "protein": 304,
+      "carbs": 209,
+      "fat": 146,
       "price": 250,
-      "calories_per_serving": 130,
+      "calories_per_serving": 870,
       "price_per_serving": 7,
       "sources": [
         "Generic citrus composition",
@@ -4608,7 +5427,16 @@
       "price_planned": 275,
       "price_per_serving_min": 7,
       "price_per_serving_max": 8,
-      "price_per_serving_planned": 8
+      "price_per_serving_planned": 8,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.063556Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "93",
@@ -4638,12 +5466,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=w0g9OQyWk0A",
-      "calories": 1594,
-      "protein": 92,
-      "carbs": 15,
-      "fat": 125,
+      "calories": 3406,
+      "protein": 141,
+      "carbs": 404,
+      "fat": 139,
       "price": 270,
-      "calories_per_serving": 398,
+      "calories_per_serving": 852,
       "price_per_serving": 39,
       "sources": [
         "USDA FoodData Central",
@@ -4656,7 +5484,16 @@
       "price_planned": 297,
       "price_per_serving_min": 39,
       "price_per_serving_max": 47,
-      "price_per_serving_planned": 43
+      "price_per_serving_planned": 43,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.063977Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "94",
@@ -4686,12 +5523,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 1224,
-      "protein": 42,
-      "carbs": 1,
-      "fat": 116,
+      "calories": 898,
+      "protein": 75,
+      "carbs": 76,
+      "fat": 36,
       "price": 280,
-      "calories_per_serving": 306,
+      "calories_per_serving": 224,
       "price_per_serving": 23,
       "sources": [
         "USDA FoodData Central",
@@ -4705,7 +5542,16 @@
       "price_planned": 308,
       "price_per_serving_min": 23,
       "price_per_serving_max": 28,
-      "price_per_serving_planned": 25
+      "price_per_serving_planned": 25,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.064459Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "95",
@@ -4735,12 +5581,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=Fj-v5H0n_4Y",
-      "calories": 73,
-      "protein": 5,
-      "carbs": 6,
-      "fat": 4,
+      "calories": 551,
+      "protein": 13,
+      "carbs": 54,
+      "fat": 28,
       "price": 150,
-      "calories_per_serving": 18,
+      "calories_per_serving": 125,
       "price_per_serving": 3,
       "sources": [
         "USDA FoodData Central",
@@ -4752,7 +5598,16 @@
       "price_planned": 165,
       "price_per_serving_min": 3,
       "price_per_serving_max": 4,
-      "price_per_serving_planned": 3
+      "price_per_serving_planned": 3,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.065048Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "96",
@@ -4782,12 +5637,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=R9j0_1kX7D8",
-      "calories": 147,
-      "protein": 10,
-      "carbs": 15,
-      "fat": 5,
+      "calories": 1462,
+      "protein": 98,
+      "carbs": 40,
+      "fat": 98,
       "price": 170,
-      "calories_per_serving": 37,
+      "calories_per_serving": 366,
       "price_per_serving": 4,
       "sources": [
         "USDA FoodData Central",
@@ -4800,7 +5655,16 @@
       "price_planned": 187,
       "price_per_serving_min": 4,
       "price_per_serving_max": 5,
-      "price_per_serving_planned": 4
+      "price_per_serving_planned": 4,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.065462Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 1
+      }
     },
     {
       "idMeal": "97",
@@ -4830,12 +5694,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=S3QkX3_9XoY",
-      "calories": 2787,
-      "protein": 57,
-      "carbs": 43,
-      "fat": 268,
+      "calories": 1942,
+      "protein": 157,
+      "carbs": 120,
+      "fat": 87,
       "price": 260,
-      "calories_per_serving": 697,
+      "calories_per_serving": 486,
       "price_per_serving": 49,
       "sources": [
         "USDA FoodData Central",
@@ -4849,7 +5713,16 @@
       "price_planned": 286,
       "price_per_serving_min": 49,
       "price_per_serving_max": 59,
-      "price_per_serving_planned": 54
+      "price_per_serving_planned": 54,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.065959Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 2
+      }
     },
     {
       "idMeal": "98",
@@ -4879,12 +5752,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=hB9vK0l6rU4",
-      "calories": 28,
-      "protein": 0,
-      "carbs": 2,
-      "fat": 0,
+      "calories": 2383,
+      "protein": 210,
+      "carbs": 100,
+      "fat": 127,
       "price": 180,
-      "calories_per_serving": 7,
+      "calories_per_serving": 596,
       "price_per_serving": 2,
       "sources": [
         "Dried spices market average",
@@ -4898,7 +5771,16 @@
       "price_planned": 198,
       "price_per_serving_min": 2,
       "price_per_serving_max": 2,
-      "price_per_serving_planned": 2
+      "price_per_serving_planned": 2,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.066228Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 3
+      }
     },
     {
       "idMeal": "99",
@@ -4928,12 +5810,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=F0i8NqB9f04",
-      "calories": 649,
-      "protein": 134,
-      "carbs": 3,
-      "fat": 11,
+      "calories": 996,
+      "protein": 135,
+      "carbs": 77,
+      "fat": 17,
       "price": 280,
-      "calories_per_serving": 162,
+      "calories_per_serving": 249,
       "price_per_serving": 55,
       "sources": [
         "Local market average",
@@ -4949,7 +5831,16 @@
       "price_planned": 308,
       "price_per_serving_min": 55,
       "price_per_serving_max": 66,
-      "price_per_serving_planned": 60
+      "price_per_serving_planned": 60,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.066495Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 6
+      }
     },
     {
       "idMeal": "100",
@@ -4979,12 +5870,12 @@
       "strIngredient10": "",
       "strMeasure10": "",
       "strYoutube": "https://www.youtube.com/watch?v=R9j0_1kX7D8",
-      "calories": 1490,
-      "protein": 63,
-      "carbs": 204,
-      "fat": 48,
+      "calories": 3010,
+      "protein": 79,
+      "carbs": 453,
+      "fat": 100,
       "price": 180,
-      "calories_per_serving": 372,
+      "calories_per_serving": 752,
       "price_per_serving": 14,
       "sources": [
         "USDA FoodData Central",
@@ -4998,7 +5889,16 @@
       "price_planned": 198,
       "price_per_serving_min": 14,
       "price_per_serving_max": 17,
-      "price_per_serving_planned": 15
+      "price_per_serving_planned": 15,
+      "nutrition_sources": [
+        "USDA FoodData Central",
+        "NutritionValue.org"
+      ],
+      "nutrition_calculated_at": "2026-01-13T01:58:45.066746Z",
+      "nutrition_assumptions": {
+        "servings_used": 4,
+        "per_piece_defaults_applied": 0
+      }
     }
   ],
   "categories": [
