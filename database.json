@@ -761,9 +761,9 @@
         "Dried spices market average"
       ],
       "calculated_at": "2026-01-07T23:14:08.697452Z",
-      "price_min": 45,
-      "price_max": 54,
-      "price_planned": 50,
+      "price_min": 250,
+      "price_max": 380,
+      "price_planned": 315,
       "price_per_serving_min": 11,
       "price_per_serving_max": 13,
       "price_per_serving_planned": 12,
