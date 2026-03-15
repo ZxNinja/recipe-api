@@ -1470,9 +1470,9 @@
         "USDA FoodData Central"
       ],
       "calculated_at": "2026-01-07T23:14:08.697516Z",
-      "price_min": 105,
-      "price_max": 126,
-      "price_planned": 116,
+      "price_min": 150,
+      "price_max": 180,
+      "price_planned": 165,
       "price_per_serving_min": 26,
       "price_per_serving_max": 31,
       "price_per_serving_planned": 29,
