@@ -1,8 +1,6 @@
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
-const compression = require('compression');
-const timeout = require('express-timeout-handler');
 const fs = require('fs');
 const path = require('path');
 
@@ -11,53 +9,26 @@ const PORT = process.env.PORT || 3000;
 
 // Middleware
 app.use(cors());
-app.use(compression()); // Enable gzip compression
-app.use(bodyParser.json({ limit: '10mb' })); // Limit payload size
-
-// Timeout handling
-app.use(timeout.handler({
-  timeout: 10000, // 10 seconds
-  onTimeout: function(req, res) {
-    res.status(408).json({ error: 'Request timeout' });
-  }
-}));
+app.use(bodyParser.json());
 
 // Database file path
 const DB_PATH = path.join(__dirname, 'database.json');
 
-// In-memory cache
-let cachedDb = null;
-let cacheTimestamp = null;
-const CACHE_DURATION = 5 * 60 * 1000; // 5 minutes
-
-// Helper function to read database with caching
+// Helper function to read database
 function readDatabase() {
-  const now = Date.now();
-
-  // Return cached data if still valid
-  if (cachedDb && cacheTimestamp && (now - cacheTimestamp) < CACHE_DURATION) {
-    return cachedDb;
-  }
-
   try {
-    console.log('Reading database from file...');
     const data = fs.readFileSync(DB_PATH, 'utf8');
-    cachedDb = JSON.parse(data);
-    cacheTimestamp = now;
-    return cachedDb;
+    return JSON.parse(data);
   } catch (error) {
     console.error('Error reading database:', error);
     return { recipes: [], categories: [] };
   }
 }
 
-// Helper function to write database and invalidate cache
+// Helper function to write database
 function writeDatabase(data) {
   try {
     fs.writeFileSync(DB_PATH, JSON.stringify(data, null, 2), 'utf8');
-    // Invalidate cache
-    cachedDb = null;
-    cacheTimestamp = null;
     return true;
   } catch (error) {
     console.error('Error writing database:', error);
@@ -326,13 +297,14 @@ app.post('/api/categories', (req, res) => {
   }
 });
 
-// Health check endpoint (optimized - no database read)
+// Health check endpoint
 app.get('/api/health', (req, res) => {
+  const db = readDatabase();
   res.json({
     status: 'healthy',
-    timestamp: new Date().toISOString(),
-    cacheStatus: cachedDb ? 'cached' : 'not_cached',
-    cacheAge: cachedDb ? (Date.now() - cacheTimestamp) / 1000 : null
+    recipesCount: db.recipes.length,
+    categoriesCount: db.categories.length,
+    timestamp: new Date().toISOString()
   });
 });
 
