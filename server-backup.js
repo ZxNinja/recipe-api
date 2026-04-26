@@ -12,7 +12,7 @@ let DB = [];
 let CATEGORIES = [];
 let RECIPE_MAP = {};
 let CATEGORY_MAP = {};
-let MEAL_TYPE_MAP = { main: [], side: [] };
+let MEAL_TYPE_MAP = {};
 let PRECOMPILED_CATEGORIES = '';
 let CACHE_SIZE = 0;
 
@@ -40,6 +40,7 @@ function loadDatabase() {
       
       // Track meal types
       const mealType = recipe.strMealType || 'main';
+      if (!MEAL_TYPE_MAP[mealType]) MEAL_TYPE_MAP[mealType] = [];
       MEAL_TYPE_MAP[mealType].push(recipe);
       
       if (mealType === 'main') mainCount++;
@@ -86,7 +87,7 @@ const sendJSON = (res, data) => {
 
 // ⚡ LIGHTNING FAST ENDPOINTS
 
-// Get paginated recipes WITH MEAL TYPE
+// Get paginated recipes
 app.get('/api/recipes', (req, res) => {
   const page = Math.max(1, parseInt(req.query.page, 10) || 1);
   const limit = Math.min(100, parseInt(req.query.limit, 10) || 20);
@@ -112,21 +113,15 @@ app.get('/api/recipes', (req, res) => {
 
 // Get recipe by ID
 app.get('/api/recipes/:id', (req, res) => {
-  const recipe = RECIPE_MAP[req.params.id];
-  sendJSON(res, { 
-    meals: recipe ? [recipe] : null 
-  });
+  sendJSON(res, { meals: RECIPE_MAP[req.params.id] ? [RECIPE_MAP[req.params.id]] : null });
 });
 
 // Legacy lookup
 app.get('/api/lookup', (req, res) => {
-  const recipe = RECIPE_MAP[req.query.i];
-  sendJSON(res, { 
-    meals: recipe ? [recipe] : null 
-  });
+  sendJSON(res, { meals: RECIPE_MAP[req.query.i] ? [RECIPE_MAP[req.query.i]] : null });
 });
 
-// Search recipes WITH MEAL TYPE
+// Search recipes
 app.get('/api/search', (req, res) => {
   const q = (req.query.s || '').toLowerCase().trim();
   if (!q) return sendJSON(res, { meals: null });
@@ -139,14 +134,13 @@ app.get('/api/search', (req, res) => {
       strMealThumb: r.strMealThumb,
       strCategory: r.strCategory,
       strMealType: r.strMealType || 'main',
-      good_for: r.good_for,
-      price_planned: r.price_planned
+      good_for: r.good_for
     }));
   
   sendJSON(res, { meals: results.length > 0 ? results : null });
 });
 
-// Filter by ingredient category WITH MEAL TYPE
+// Filter by category
 app.get('/api/filter', (req, res) => {
   const category = req.query.c?.trim();
   if (!category) return sendJSON(res, { error: 'Category required' });
@@ -158,8 +152,7 @@ app.get('/api/filter', (req, res) => {
     strMealThumb: r.strMealThumb,
     strCategory: r.strCategory,
     strMealType: r.strMealType || 'main',
-    good_for: r.good_for,
-    price_planned: r.price_planned
+    good_for: r.good_for
   }));
   
   sendJSON(res, { meals: meals.length > 0 ? meals : null });
@@ -173,12 +166,12 @@ app.get('/api/bytype/:type', (req, res) => {
   }
   
   const recipes = MEAL_TYPE_MAP[mealType] || [];
-  const meals = recipes.slice(0, 200).map(r => ({
+  const meals = recipes.map(r => ({
     idMeal: r.idMeal,
     strMeal: r.strMeal,
     strMealThumb: r.strMealThumb,
     strCategory: r.strCategory,
-    strMealType: r.strMealType || 'main',
+    strMealType: r.strMealType,
     good_for: r.good_for,
     price_planned: r.price_planned
   }));
@@ -190,7 +183,7 @@ app.get('/api/bytype/:type', (req, res) => {
   });
 });
 
-// ⭐ NEW: Get statistics
+// ⭐ NEW: Get meal type distribution
 app.get('/api/stats', (req, res) => {
   sendJSON(res, {
     total: DB.length,
@@ -209,14 +202,6 @@ app.get('/api/stats', (req, res) => {
 app.get('/api/categories', (req, res) => {
   res.setHeader('Content-Type', 'application/json');
   res.end(PRECOMPILED_CATEGORIES);
-});
-
-// DEBUG: Show first recipe to verify strMealType is there
-app.get('/api/debug/recipe', (req, res) => {
-  sendJSON(res, { 
-    firstRecipe: DB[0],
-    hasStrMealType: DB[0]?.strMealType ? true : false
-  });
 });
 
 // Health check
@@ -241,8 +226,7 @@ app.use((req, res) => {
 
 // 🚀 START
 app.listen(PORT, () => {
-  console.log(`\n⚡ Recipe API v4.0 (MEAL TYPES ENABLED)`);
-  console.log(`📦 ${DB.length} recipes | 🍖 ${MEAL_TYPE_MAP.main?.length || 0} main | 🥗 ${MEAL_TYPE_MAP.side?.length || 0} side`);
-  console.log(`🏷️ ${CATEGORIES.length} categories`);
+  console.log(`\n⚡ Recipe API v3.0`);
+  console.log(`📦 ${DB.length} recipes | 🏷️  ${CATEGORIES.length} categories`);
   console.log(`🚀 Port: ${PORT}\n`);
 });
