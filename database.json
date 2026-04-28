@@ -42,7 +42,7 @@
             "calculated_at": "2026-01-07T23:14:08.697356Z",
             "price_min": 350,
             "price_max": 420,
-            "price_planned": 385,
+            "price_planned": 132,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -98,7 +98,7 @@
             "calculated_at": "2026-01-07T23:14:08.697387Z",
             "price_min": 380,
             "price_max": 456,
-            "price_planned": 418,
+            "price_planned": 387,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -154,7 +154,7 @@
             "calculated_at": "2026-01-07T23:14:08.697397Z",
             "price_min": 385,
             "price_max": 460,
-            "price_planned": 420,
+            "price_planned": 374,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -214,7 +214,7 @@
             "calculated_at": "2026-01-07T23:14:08.697402Z",
             "price_min": 259,
             "price_max": 355,
-            "price_planned": 307,
+            "price_planned": 244,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -269,7 +269,7 @@
             "calculated_at": "2026-01-07T23:14:08.697414Z",
             "price_min": 237,
             "price_max": 329,
-            "price_planned": 283,
+            "price_planned": 302,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -326,7 +326,7 @@
             "calculated_at": "2026-01-07T23:14:08.697420Z",
             "price_min": 472,
             "price_max": 615,
-            "price_planned": 544,
+            "price_planned": 492,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -382,7 +382,7 @@
             "calculated_at": "2026-01-07T23:14:08.697425Z",
             "price_min": 335,
             "price_max": 440,
-            "price_planned": 388,
+            "price_planned": 377,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -437,7 +437,7 @@
             "calculated_at": "2026-01-07T23:14:08.697430Z",
             "price_min": 102,
             "price_max": 145,
-            "price_planned": 124,
+            "price_planned": 119,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -492,7 +492,7 @@
             "calculated_at": "2026-01-07T23:14:08.697435Z",
             "price_min": 145,
             "price_max": 235,
-            "price_planned": 190,
+            "price_planned": 194,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -546,7 +546,7 @@
             "calculated_at": "2026-01-07T23:14:08.697446Z",
             "price_min": 145,
             "price_max": 235,
-            "price_planned": 190,
+            "price_planned": 207,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -601,7 +601,7 @@
             "calculated_at": "2026-01-07T23:14:08.697452Z",
             "price_min": 250,
             "price_max": 350,
-            "price_planned": 300,
+            "price_planned": 314,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -656,7 +656,7 @@
             "calculated_at": "2026-01-07T23:14:08.697457Z",
             "price_min": 380,
             "price_max": 555,
-            "price_planned": 468,
+            "price_planned": 451,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -711,7 +711,7 @@
             "calculated_at": "2026-01-07T23:14:08.697463Z",
             "price_min": 224,
             "price_max": 307,
-            "price_planned": 266,
+            "price_planned": 249,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -766,7 +766,7 @@
             "calculated_at": "2026-01-07T23:14:08.697468Z",
             "price_min": 105,
             "price_max": 165,
-            "price_planned": 135,
+            "price_planned": 164,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -820,7 +820,7 @@
             "calculated_at": "2026-01-07T23:14:08.697473Z",
             "price_min": 116,
             "price_max": 166,
-            "price_planned": 141,
+            "price_planned": 179,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -876,7 +876,7 @@
             "calculated_at": "2026-01-07T23:14:08.697479Z",
             "price_min": 215,
             "price_max": 315,
-            "price_planned": 265,
+            "price_planned": 203,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -931,7 +931,7 @@
             "calculated_at": "2026-01-07T23:14:08.697484Z",
             "price_min": 340,
             "price_max": 448,
-            "price_planned": 394,
+            "price_planned": 423,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -986,7 +986,7 @@
             "calculated_at": "2026-01-07T23:14:08.697495Z",
             "price_min": 145,
             "price_max": 210,
-            "price_planned": 178,
+            "price_planned": 185,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1042,7 +1042,7 @@
             "calculated_at": "2026-01-07T23:14:08.697500Z",
             "price_min": 151,
             "price_max": 223,
-            "price_planned": 187,
+            "price_planned": 202,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1096,7 +1096,7 @@
             "calculated_at": "2026-01-07T23:14:08.697505Z",
             "price_min": 246,
             "price_max": 346,
-            "price_planned": 296,
+            "price_planned": 303,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1153,7 +1153,7 @@
             "calculated_at": "2026-01-07T23:14:08.697510Z",
             "price_min": 127,
             "price_max": 198,
-            "price_planned": 163,
+            "price_planned": 173,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1208,7 +1208,7 @@
             "calculated_at": "2026-01-07T23:14:08.697516Z",
             "price_min": 129,
             "price_max": 196,
-            "price_planned": 163,
+            "price_planned": 215,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1263,7 +1263,7 @@
             "calculated_at": "2026-01-07T23:14:08.697521Z",
             "price_min": 148,
             "price_max": 218,
-            "price_planned": 183,
+            "price_planned": 194,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1320,7 +1320,7 @@
             "calculated_at": "2026-01-07T23:14:08.697527Z",
             "price_min": 132,
             "price_max": 205,
-            "price_planned": 169,
+            "price_planned": 96,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1373,7 +1373,7 @@
             "calculated_at": "2026-01-07T23:14:08.697538Z",
             "price_min": 86,
             "price_max": 128,
-            "price_planned": 107,
+            "price_planned": 124,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1426,7 +1426,7 @@
             "calculated_at": "2026-01-07T23:14:08.697543Z",
             "price_min": 93,
             "price_max": 148,
-            "price_planned": 121,
+            "price_planned": 82,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1480,7 +1480,7 @@
             "calculated_at": "2026-01-07T23:14:08.697554Z",
             "price_min": 177,
             "price_max": 280,
-            "price_planned": 229,
+            "price_planned": 237,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1536,7 +1536,7 @@
             "calculated_at": "2026-01-07T23:14:08.697559Z",
             "price_min": 95,
             "price_max": 132,
-            "price_planned": 114,
+            "price_planned": 129,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1590,7 +1590,7 @@
             "calculated_at": "2026-01-07T23:14:08.697565Z",
             "price_min": 117,
             "price_max": 205,
-            "price_planned": 161,
+            "price_planned": 167,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1646,7 +1646,7 @@
             "calculated_at": "2026-01-07T23:14:08.697570Z",
             "price_min": 66,
             "price_max": 97,
-            "price_planned": 82,
+            "price_planned": 67,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1702,7 +1702,7 @@
             "calculated_at": "2026-01-07T23:14:08.697576Z",
             "price_min": 249,
             "price_max": 325,
-            "price_planned": 287,
+            "price_planned": 282,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1755,7 +1755,7 @@
             "calculated_at": "2026-01-07T23:14:08.697591Z",
             "price_min": 138,
             "price_max": 218,
-            "price_planned": 178,
+            "price_planned": 175,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1812,7 +1812,7 @@
             "calculated_at": "2026-01-07T23:14:08.697597Z",
             "price_min": 194,
             "price_max": 297,
-            "price_planned": 246,
+            "price_planned": 258,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1920,7 +1920,7 @@
             "calculated_at": "2026-01-07T23:14:08.697607Z",
             "price_min": 113,
             "price_max": 178,
-            "price_planned": 146,
+            "price_planned": 110,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -1974,7 +1974,7 @@
             "calculated_at": "2026-01-07T23:14:08.697612Z",
             "price_min": 93,
             "price_max": 160,
-            "price_planned": 127,
+            "price_planned": 63,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2028,7 +2028,7 @@
             "calculated_at": "2026-01-07T23:14:08.697622Z",
             "price_min": 175,
             "price_max": 265,
-            "price_planned": 220,
+            "price_planned": 221,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2084,7 +2084,7 @@
             "calculated_at": "2026-01-07T23:14:08.697627Z",
             "price_min": 64,
             "price_max": 100,
-            "price_planned": 82,
+            "price_planned": 81,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2138,7 +2138,7 @@
             "calculated_at": "2026-01-07T23:14:08.697633Z",
             "price_min": 134,
             "price_max": 189,
-            "price_planned": 162,
+            "price_planned": 147,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2195,7 +2195,7 @@
             "calculated_at": "2026-01-07T23:14:08.697638Z",
             "price_min": 84,
             "price_max": 140,
-            "price_planned": 112,
+            "price_planned": 131,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2252,7 +2252,7 @@
             "calculated_at": "2026-01-07T23:14:08.697643Z",
             "price_min": 193,
             "price_max": 274,
-            "price_planned": 234,
+            "price_planned": 281,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2306,7 +2306,7 @@
             "calculated_at": "2026-01-07T23:14:08.697649Z",
             "price_min": 126,
             "price_max": 192,
-            "price_planned": 159,
+            "price_planned": 167,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2364,7 +2364,7 @@
             "calculated_at": "2026-01-07T23:14:08.697654Z",
             "price_min": 465,
             "price_max": 680,
-            "price_planned": 573,
+            "price_planned": 568,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2420,7 +2420,7 @@
             "calculated_at": "2026-01-07T23:14:08.697664Z",
             "price_min": 229,
             "price_max": 390,
-            "price_planned": 310,
+            "price_planned": 305,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2474,7 +2474,7 @@
             "calculated_at": "2026-01-07T23:14:08.697670Z",
             "price_min": 245,
             "price_max": 335,
-            "price_planned": 290,
+            "price_planned": 328,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2529,7 +2529,7 @@
             "calculated_at": "2026-01-07T23:14:08.697675Z",
             "price_min": 140,
             "price_max": 220,
-            "price_planned": 180,
+            "price_planned": 174,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2587,7 +2587,7 @@
             "calculated_at": "2026-01-07T23:14:08.697680Z",
             "price_min": 140,
             "price_max": 210,
-            "price_planned": 175,
+            "price_planned": 166,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2641,7 +2641,7 @@
             "calculated_at": "2026-01-07T23:14:08.697691Z",
             "price_min": 107,
             "price_max": 153,
-            "price_planned": 130,
+            "price_planned": 150,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2695,7 +2695,7 @@
             "calculated_at": "2026-01-07T23:14:08.697696Z",
             "price_min": 305,
             "price_max": 390,
-            "price_planned": 348,
+            "price_planned": 375,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2748,7 +2748,7 @@
             "calculated_at": "2026-01-07T23:14:08.697700Z",
             "price_min": 180,
             "price_max": 305,
-            "price_planned": 243,
+            "price_planned": 297,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2803,7 +2803,7 @@
             "calculated_at": "2026-01-07T23:14:08.697711Z",
             "price_min": 130,
             "price_max": 185,
-            "price_planned": 158,
+            "price_planned": 169,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2856,7 +2856,7 @@
             "calculated_at": "2026-01-07T23:14:08.697716Z",
             "price_min": 90,
             "price_max": 140,
-            "price_planned": 115,
+            "price_planned": 120,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2910,7 +2910,7 @@
             "calculated_at": "2026-01-07T23:14:08.697721Z",
             "price_min": 140,
             "price_max": 206,
-            "price_planned": 173,
+            "price_planned": 169,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -2966,7 +2966,7 @@
             "calculated_at": "2026-01-07T23:14:08.697727Z",
             "price_min": 248,
             "price_max": 326,
-            "price_planned": 287,
+            "price_planned": 322,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3023,7 +3023,7 @@
             "calculated_at": "2026-01-07T23:14:08.697732Z",
             "price_min": 106,
             "price_max": 165,
-            "price_planned": 136,
+            "price_planned": 150,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3077,7 +3077,7 @@
             "calculated_at": "2026-01-07T23:14:08.697743Z",
             "price_min": 245,
             "price_max": 368,
-            "price_planned": 307,
+            "price_planned": 258,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3137,7 +3137,7 @@
             "calculated_at": "2026-01-07T23:14:08.697748Z",
             "price_min": 111,
             "price_max": 173,
-            "price_planned": 142,
+            "price_planned": 150,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3192,7 +3192,7 @@
             "calculated_at": "2026-01-07T23:14:08.697753Z",
             "price_min": 183,
             "price_max": 272,
-            "price_planned": 228,
+            "price_planned": 197,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3246,7 +3246,7 @@
             "calculated_at": "2026-01-07T23:14:08.697758Z",
             "price_min": 342,
             "price_max": 461,
-            "price_planned": 402,
+            "price_planned": 409,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3301,7 +3301,7 @@
             "calculated_at": "2026-01-07T23:14:08.697763Z",
             "price_min": 202,
             "price_max": 293,
-            "price_planned": 248,
+            "price_planned": 250,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3363,7 +3363,7 @@
             "calculated_at": "2026-01-07T23:14:08.697774Z",
             "price_min": 184,
             "price_max": 265,
-            "price_planned": 225,
+            "price_planned": 200,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3418,7 +3418,7 @@
             "calculated_at": "2026-01-07T23:14:08.697779Z",
             "price_min": 315,
             "price_max": 512,
-            "price_planned": 414,
+            "price_planned": 409,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3471,7 +3471,7 @@
             "calculated_at": "2026-01-07T23:14:08.697790Z",
             "price_min": 118,
             "price_max": 180,
-            "price_planned": 149,
+            "price_planned": 171,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3526,7 +3526,7 @@
             "calculated_at": "2026-01-07T23:14:08.697807Z",
             "price_min": 127,
             "price_max": 204,
-            "price_planned": 166,
+            "price_planned": 195,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3579,7 +3579,7 @@
             "calculated_at": "2026-01-07T23:14:08.697823Z",
             "price_min": 305,
             "price_max": 450,
-            "price_planned": 378,
+            "price_planned": 367,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3631,7 +3631,7 @@
             "calculated_at": "2026-01-07T23:14:08.697834Z",
             "price_min": 63,
             "price_max": 95,
-            "price_planned": 79,
+            "price_planned": 91,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3686,7 +3686,7 @@
             "calculated_at": "2026-01-07T23:14:08.697845Z",
             "price_min": 223,
             "price_max": 330,
-            "price_planned": 277,
+            "price_planned": 290,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3741,7 +3741,7 @@
             "calculated_at": "2026-01-07T23:14:08.697850Z",
             "price_min": 151,
             "price_max": 226,
-            "price_planned": 189,
+            "price_planned": 215,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3796,7 +3796,7 @@
             "calculated_at": "2026-01-07T23:14:08.697866Z",
             "price_min": 245,
             "price_max": 360,
-            "price_planned": 303,
+            "price_planned": 310,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3852,7 +3852,7 @@
             "calculated_at": "2026-01-07T23:14:08.697871Z",
             "price_min": 183,
             "price_max": 308,
-            "price_planned": 246,
+            "price_planned": 268,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3905,7 +3905,7 @@
             "calculated_at": "2026-01-07T23:14:08.697876Z",
             "price_min": 170,
             "price_max": 236,
-            "price_planned": 203,
+            "price_planned": 222,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -3959,7 +3959,7 @@
             "calculated_at": "2026-01-07T23:14:08.697881Z",
             "price_min": 111,
             "price_max": 155,
-            "price_planned": 133,
+            "price_planned": 165,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4011,7 +4011,7 @@
             "calculated_at": "2026-01-07T23:14:08.697887Z",
             "price_min": 60,
             "price_max": 95,
-            "price_planned": 78,
+            "price_planned": 88,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4118,7 +4118,7 @@
             "calculated_at": "2026-01-07T23:14:08.697898Z",
             "price_min": 220,
             "price_max": 330,
-            "price_planned": 275,
+            "price_planned": 237,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4174,7 +4174,7 @@
             "calculated_at": "2026-01-07T23:14:08.697908Z",
             "price_min": 193,
             "price_max": 277,
-            "price_planned": 235,
+            "price_planned": 236,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4280,7 +4280,7 @@
             "calculated_at": "2026-04-05T10:33:29.458Z",
             "price_min": 151,
             "price_max": 214,
-            "price_planned": 183,
+            "price_planned": 163,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4333,7 +4333,7 @@
             "calculated_at": "2026-04-05T10:33:29.458Z",
             "price_min": 172,
             "price_max": 250,
-            "price_planned": 211,
+            "price_planned": 196,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4386,7 +4386,7 @@
             "calculated_at": "2026-04-05T10:33:29.458Z",
             "price_min": 130,
             "price_max": 180,
-            "price_planned": 155,
+            "price_planned": 148,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4439,7 +4439,7 @@
             "calculated_at": "2026-04-05T10:33:29.458Z",
             "price_min": 57,
             "price_max": 80,
-            "price_planned": 69,
+            "price_planned": 64,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4492,7 +4492,7 @@
             "calculated_at": "2026-04-05T10:33:29.459Z",
             "price_min": 95,
             "price_max": 145,
-            "price_planned": 120,
+            "price_planned": 127,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4545,7 +4545,7 @@
             "calculated_at": "2026-04-05T10:33:29.459Z",
             "price_min": 50,
             "price_max": 79,
-            "price_planned": 65,
+            "price_planned": 106,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4651,7 +4651,7 @@
             "calculated_at": "2026-04-05T10:33:29.459Z",
             "price_min": 74,
             "price_max": 113,
-            "price_planned": 94,
+            "price_planned": 102,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4704,7 +4704,7 @@
             "calculated_at": "2026-04-05T10:33:29.459Z",
             "price_min": 60,
             "price_max": 88,
-            "price_planned": 74,
+            "price_planned": 75,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4757,7 +4757,7 @@
             "calculated_at": "2026-04-05T10:33:29.460Z",
             "price_min": 54,
             "price_max": 84,
-            "price_planned": 69,
+            "price_planned": 84,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4810,7 +4810,7 @@
             "calculated_at": "2026-04-05T10:33:29.461Z",
             "price_min": 28,
             "price_max": 46,
-            "price_planned": 37,
+            "price_planned": 43,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4863,7 +4863,7 @@
             "calculated_at": "2026-04-05T10:33:29.461Z",
             "price_min": 43,
             "price_max": 71,
-            "price_planned": 57,
+            "price_planned": 51,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4916,7 +4916,7 @@
             "calculated_at": "2026-04-05T10:33:29.461Z",
             "price_min": 55,
             "price_max": 80,
-            "price_planned": 68,
+            "price_planned": 66,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -4969,7 +4969,7 @@
             "calculated_at": "2026-04-05T10:33:29.462Z",
             "price_min": 53,
             "price_max": 86,
-            "price_planned": 70,
+            "price_planned": 51,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5022,7 +5022,7 @@
             "calculated_at": "2026-04-05T10:33:29.462Z",
             "price_min": 88,
             "price_max": 134,
-            "price_planned": 111,
+            "price_planned": 113,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5075,7 +5075,7 @@
             "calculated_at": "2026-04-05T10:33:29.462Z",
             "price_min": 83,
             "price_max": 124,
-            "price_planned": 104,
+            "price_planned": 100,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5128,7 +5128,7 @@
             "calculated_at": "2026-04-05T10:33:29.462Z",
             "price_min": 63,
             "price_max": 99,
-            "price_planned": 81,
+            "price_planned": 106,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5181,7 +5181,7 @@
             "calculated_at": "2026-04-05T10:33:29.462Z",
             "price_min": 35,
             "price_max": 60,
-            "price_planned": 48,
+            "price_planned": 50,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5234,7 +5234,7 @@
             "calculated_at": "2026-04-05T10:33:29.462Z",
             "price_min": 65,
             "price_max": 102,
-            "price_planned": 84,
+            "price_planned": 85,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5287,7 +5287,7 @@
             "calculated_at": "2026-04-05T10:33:29.463Z",
             "price_min": 58,
             "price_max": 91,
-            "price_planned": 75,
+            "price_planned": 72,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5340,7 +5340,7 @@
             "calculated_at": "2026-04-05T10:33:29.463Z",
             "price_min": 53,
             "price_max": 81,
-            "price_planned": 67,
+            "price_planned": 56,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5393,7 +5393,7 @@
             "calculated_at": "2026-04-05T10:33:29.463Z",
             "price_min": 58,
             "price_max": 91,
-            "price_planned": 75,
+            "price_planned": 76,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5446,7 +5446,7 @@
             "calculated_at": "2026-04-05T10:33:29.463Z",
             "price_min": 61,
             "price_max": 89,
-            "price_planned": 75,
+            "price_planned": 100,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5499,7 +5499,7 @@
             "calculated_at": "2026-04-05T10:33:29.463Z",
             "price_min": 48,
             "price_max": 81,
-            "price_planned": 65,
+            "price_planned": 59,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5552,7 +5552,7 @@
             "calculated_at": "2026-04-05T10:33:29.463Z",
             "price_min": 68,
             "price_max": 101,
-            "price_planned": 85,
+            "price_planned": 69,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5605,7 +5605,7 @@
             "calculated_at": "2026-04-05T10:33:29.464Z",
             "price_min": 67,
             "price_max": 105,
-            "price_planned": 86,
+            "price_planned": 131,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5658,7 +5658,7 @@
             "calculated_at": "2026-04-05T10:33:29.464Z",
             "price_min": 94,
             "price_max": 138,
-            "price_planned": 116,
+            "price_planned": 113,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5711,7 +5711,7 @@
             "calculated_at": "2026-04-05T10:33:29.464Z",
             "price_min": 43,
             "price_max": 71,
-            "price_planned": 57,
+            "price_planned": 66,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5764,7 +5764,7 @@
             "calculated_at": "2026-04-05T10:33:29.464Z",
             "price_min": 38,
             "price_max": 61,
-            "price_planned": 50,
+            "price_planned": 58,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5817,7 +5817,7 @@
             "calculated_at": "2026-04-05T10:33:29.464Z",
             "price_min": 48,
             "price_max": 76,
-            "price_planned": 62,
+            "price_planned": 68,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5870,7 +5870,7 @@
             "calculated_at": "2026-04-05T10:33:29.464Z",
             "price_min": 84,
             "price_max": 123,
-            "price_planned": 104,
+            "price_planned": 98,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5923,7 +5923,7 @@
             "calculated_at": "2026-04-05T10:33:29.464Z",
             "price_min": 38,
             "price_max": 61,
-            "price_planned": 50,
+            "price_planned": 58,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -5976,7 +5976,7 @@
             "calculated_at": "2026-04-05T10:33:29.464Z",
             "price_min": 43,
             "price_max": 66,
-            "price_planned": 55,
+            "price_planned": 56,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6029,7 +6029,7 @@
             "calculated_at": "2026-04-05T10:33:29.464Z",
             "price_min": 22,
             "price_max": 35,
-            "price_planned": 29,
+            "price_planned": 27,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6082,7 +6082,7 @@
             "calculated_at": "2026-04-05T10:33:29.465Z",
             "price_min": 53,
             "price_max": 81,
-            "price_planned": 67,
+            "price_planned": 63,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6135,7 +6135,7 @@
             "calculated_at": "2026-04-05T10:33:29.465Z",
             "price_min": 59,
             "price_max": 99,
-            "price_planned": 79,
+            "price_planned": 99,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6188,7 +6188,7 @@
             "calculated_at": "2026-04-05T10:33:29.465Z",
             "price_min": 39,
             "price_max": 64,
-            "price_planned": 52,
+            "price_planned": 59,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6241,7 +6241,7 @@
             "calculated_at": "2026-04-05T10:33:29.465Z",
             "price_min": 36,
             "price_max": 61,
-            "price_planned": 49,
+            "price_planned": 48,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6294,7 +6294,7 @@
             "calculated_at": "2026-04-05T10:33:29.465Z",
             "price_min": 78,
             "price_max": 119,
-            "price_planned": 99,
+            "price_planned": 108,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6400,7 +6400,7 @@
             "calculated_at": "2026-04-05T10:33:29.466Z",
             "price_min": 92,
             "price_max": 146,
-            "price_planned": 119,
+            "price_planned": 116,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6453,7 +6453,7 @@
             "calculated_at": "2026-04-05T10:33:29.466Z",
             "price_min": 59,
             "price_max": 96,
-            "price_planned": 78,
+            "price_planned": 81,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6506,7 +6506,7 @@
             "calculated_at": "2026-04-05T10:33:29.466Z",
             "price_min": 59,
             "price_max": 96,
-            "price_planned": 78,
+            "price_planned": 66,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6559,7 +6559,7 @@
             "calculated_at": "2026-04-05T10:33:29.466Z",
             "price_min": 59,
             "price_max": 96,
-            "price_planned": 78,
+            "price_planned": 81,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6612,7 +6612,7 @@
             "calculated_at": "2026-04-05T10:33:29.466Z",
             "price_min": 59,
             "price_max": 96,
-            "price_planned": 78,
+            "price_planned": 61,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6665,7 +6665,7 @@
             "calculated_at": "2026-04-05T10:33:29.466Z",
             "price_min": 59,
             "price_max": 96,
-            "price_planned": 78,
+            "price_planned": 81,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6718,7 +6718,7 @@
             "calculated_at": "2026-04-05T10:33:29.466Z",
             "price_min": 59,
             "price_max": 96,
-            "price_planned": 78,
+            "price_planned": 81,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6771,7 +6771,7 @@
             "calculated_at": "2026-04-05T10:33:29.467Z",
             "price_min": 59,
             "price_max": 96,
-            "price_planned": 78,
+            "price_planned": 81,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6824,7 +6824,7 @@
             "calculated_at": "2026-04-05T10:33:29.467Z",
             "price_min": 59,
             "price_max": 96,
-            "price_planned": 78,
+            "price_planned": 81,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6877,7 +6877,7 @@
             "calculated_at": "2026-04-05T10:33:29.467Z",
             "price_min": 43,
             "price_max": 65,
-            "price_planned": 54,
+            "price_planned": 52,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6930,7 +6930,7 @@
             "calculated_at": "2026-04-05T10:33:29.467Z",
             "price_min": 104,
             "price_max": 147,
-            "price_planned": 126,
+            "price_planned": 147,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -6983,7 +6983,7 @@
             "calculated_at": "2026-04-05T10:33:29.467Z",
             "price_min": 97,
             "price_max": 137,
-            "price_planned": 117,
+            "price_planned": 127,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7036,7 +7036,7 @@
             "calculated_at": "2026-04-05T10:33:29.467Z",
             "price_min": 74,
             "price_max": 113,
-            "price_planned": 94,
+            "price_planned": 99,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7089,7 +7089,7 @@
             "calculated_at": "2026-04-05T10:33:29.468Z",
             "price_min": 97,
             "price_max": 141,
-            "price_planned": 119,
+            "price_planned": 116,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7195,7 +7195,7 @@
             "calculated_at": "2026-04-05T10:33:29.468Z",
             "price_min": 106,
             "price_max": 152,
-            "price_planned": 129,
+            "price_planned": 135,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7248,7 +7248,7 @@
             "calculated_at": "2026-04-05T10:33:29.468Z",
             "price_min": 76,
             "price_max": 111,
-            "price_planned": 94,
+            "price_planned": 92,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7301,7 +7301,7 @@
             "calculated_at": "2026-04-05T10:33:29.468Z",
             "price_min": 59,
             "price_max": 85,
-            "price_planned": 72,
+            "price_planned": 69,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7354,7 +7354,7 @@
             "calculated_at": "2026-04-05T10:33:29.468Z",
             "price_min": 153,
             "price_max": 218,
-            "price_planned": 186,
+            "price_planned": 172,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7407,7 +7407,7 @@
             "calculated_at": "2026-04-05T10:33:29.468Z",
             "price_min": 76,
             "price_max": 116,
-            "price_planned": 96,
+            "price_planned": 104,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7460,7 +7460,7 @@
             "calculated_at": "2026-04-05T10:33:29.469Z",
             "price_min": 47,
             "price_max": 71,
-            "price_planned": 59,
+            "price_planned": 62,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7566,7 +7566,7 @@
             "calculated_at": "2026-04-05T10:33:29.469Z",
             "price_min": 100,
             "price_max": 148,
-            "price_planned": 124,
+            "price_planned": 155,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7672,7 +7672,7 @@
             "calculated_at": "2026-04-05T10:33:29.469Z",
             "price_min": 115,
             "price_max": 164,
-            "price_planned": 140,
+            "price_planned": 136,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7725,7 +7725,7 @@
             "calculated_at": "2026-04-05T10:33:29.469Z",
             "price_min": 121,
             "price_max": 175,
-            "price_planned": 148,
+            "price_planned": 176,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7778,7 +7778,7 @@
             "calculated_at": "2026-04-05T10:33:29.469Z",
             "price_min": 220,
             "price_max": 309,
-            "price_planned": 265,
+            "price_planned": 254,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7831,7 +7831,7 @@
             "calculated_at": "2026-04-05T10:33:29.469Z",
             "price_min": 59,
             "price_max": 93,
-            "price_planned": 76,
+            "price_planned": 102,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7884,7 +7884,7 @@
             "calculated_at": "2026-04-05T10:33:29.470Z",
             "price_min": 54,
             "price_max": 78,
-            "price_planned": 66,
+            "price_planned": 62,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7937,7 +7937,7 @@
             "calculated_at": "2026-04-05T10:33:29.470Z",
             "price_min": 131,
             "price_max": 210,
-            "price_planned": 171,
+            "price_planned": 157,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -7990,7 +7990,7 @@
             "calculated_at": "2026-04-05T10:33:29.470Z",
             "price_min": 194,
             "price_max": 296,
-            "price_planned": 245,
+            "price_planned": 226,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8043,7 +8043,7 @@
             "calculated_at": "2026-04-05T10:33:29.470Z",
             "price_min": 85,
             "price_max": 128,
-            "price_planned": 107,
+            "price_planned": 127,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8096,7 +8096,7 @@
             "calculated_at": "2026-04-05T10:33:29.470Z",
             "price_min": 58,
             "price_max": 78,
-            "price_planned": 68,
+            "price_planned": 70,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8149,7 +8149,7 @@
             "calculated_at": "2026-04-05T10:33:29.471Z",
             "price_min": 51,
             "price_max": 85,
-            "price_planned": 68,
+            "price_planned": 104,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8255,7 +8255,7 @@
             "calculated_at": "2026-04-05T10:33:29.471Z",
             "price_min": 54,
             "price_max": 85,
-            "price_planned": 70,
+            "price_planned": 68,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8361,7 +8361,7 @@
             "calculated_at": "2026-04-05T10:33:29.471Z",
             "price_min": 75,
             "price_max": 124,
-            "price_planned": 100,
+            "price_planned": 110,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8414,7 +8414,7 @@
             "calculated_at": "2026-04-05T10:33:29.471Z",
             "price_min": 124,
             "price_max": 189,
-            "price_planned": 157,
+            "price_planned": 164,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8467,7 +8467,7 @@
             "calculated_at": "2026-04-05T10:33:29.471Z",
             "price_min": 26,
             "price_max": 42,
-            "price_planned": 34,
+            "price_planned": 64,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8520,7 +8520,7 @@
             "calculated_at": "2026-04-05T10:33:29.471Z",
             "price_min": 47,
             "price_max": 74,
-            "price_planned": 61,
+            "price_planned": 54,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8573,7 +8573,7 @@
             "calculated_at": "2026-04-05T10:33:29.472Z",
             "price_min": 58,
             "price_max": 91,
-            "price_planned": 75,
+            "price_planned": 81,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8626,7 +8626,7 @@
             "calculated_at": "2026-04-05T10:33:29.472Z",
             "price_min": 41,
             "price_max": 66,
-            "price_planned": 54,
+            "price_planned": 63,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8679,7 +8679,7 @@
             "calculated_at": "2026-04-05T10:33:29.472Z",
             "price_min": 45,
             "price_max": 70,
-            "price_planned": 58,
+            "price_planned": 77,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8732,7 +8732,7 @@
             "calculated_at": "2026-04-05T10:33:29.472Z",
             "price_min": 21,
             "price_max": 32,
-            "price_planned": 27,
+            "price_planned": 26,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8838,7 +8838,7 @@
             "calculated_at": "2026-04-05T10:33:29.472Z",
             "price_min": 51,
             "price_max": 79,
-            "price_planned": 65,
+            "price_planned": 71,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8891,7 +8891,7 @@
             "calculated_at": "2026-04-05T10:33:29.473Z",
             "price_min": 56,
             "price_max": 87,
-            "price_planned": 72,
+            "price_planned": 76,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8944,7 +8944,7 @@
             "calculated_at": "2026-04-05T10:33:29.473Z",
             "price_min": 56,
             "price_max": 86,
-            "price_planned": 71,
+            "price_planned": 63,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -8997,7 +8997,7 @@
             "calculated_at": "2026-04-05T10:33:29.473Z",
             "price_min": 68,
             "price_max": 101,
-            "price_planned": 85,
+            "price_planned": 86,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9050,7 +9050,7 @@
             "calculated_at": "2026-04-05T10:33:29.473Z",
             "price_min": 69,
             "price_max": 108,
-            "price_planned": 89,
+            "price_planned": 146,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9103,7 +9103,7 @@
             "calculated_at": "2026-04-05T10:33:29.473Z",
             "price_min": 73,
             "price_max": 116,
-            "price_planned": 95,
+            "price_planned": 98,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9156,7 +9156,7 @@
             "calculated_at": "2026-04-05T10:33:29.474Z",
             "price_min": 62,
             "price_max": 93,
-            "price_planned": 78,
+            "price_planned": 99,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9209,7 +9209,7 @@
             "calculated_at": "2026-04-05T10:33:29.474Z",
             "price_min": 80,
             "price_max": 125,
-            "price_planned": 103,
+            "price_planned": 164,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9262,7 +9262,7 @@
             "calculated_at": "2026-04-05T10:33:29.474Z",
             "price_min": 58,
             "price_max": 91,
-            "price_planned": 75,
+            "price_planned": 91,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9315,7 +9315,7 @@
             "calculated_at": "2026-04-05T10:33:29.474Z",
             "price_min": 83,
             "price_max": 131,
-            "price_planned": 107,
+            "price_planned": 111,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9368,7 +9368,7 @@
             "calculated_at": "2026-04-05T10:33:29.474Z",
             "price_min": 51,
             "price_max": 76,
-            "price_planned": 64,
+            "price_planned": 73,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9421,7 +9421,7 @@
             "calculated_at": "2026-04-05T10:33:29.474Z",
             "price_min": 36,
             "price_max": 61,
-            "price_planned": 49,
+            "price_planned": 60,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9474,7 +9474,7 @@
             "calculated_at": "2026-04-05T10:33:29.475Z",
             "price_min": 58,
             "price_max": 86,
-            "price_planned": 72,
+            "price_planned": 67,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9527,7 +9527,7 @@
             "calculated_at": "2026-04-05T10:33:29.475Z",
             "price_min": 34,
             "price_max": 54,
-            "price_planned": 44,
+            "price_planned": 65,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9580,7 +9580,7 @@
             "calculated_at": "2026-04-05T10:33:29.475Z",
             "price_min": 47,
             "price_max": 69,
-            "price_planned": 58,
+            "price_planned": 70,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9633,7 +9633,7 @@
             "calculated_at": "2026-04-05T10:33:29.475Z",
             "price_min": 61,
             "price_max": 91,
-            "price_planned": 76,
+            "price_planned": 80,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9686,7 +9686,7 @@
             "calculated_at": "2026-04-05T10:33:29.475Z",
             "price_min": 100,
             "price_max": 140,
-            "price_planned": 120,
+            "price_planned": 133,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9739,7 +9739,7 @@
             "calculated_at": "2026-04-05T10:33:29.475Z",
             "price_min": 100,
             "price_max": 148,
-            "price_planned": 124,
+            "price_planned": 126,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9792,7 +9792,7 @@
             "calculated_at": "2026-04-05T10:33:29.476Z",
             "price_min": 45,
             "price_max": 70,
-            "price_planned": 58,
+            "price_planned": 74,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9845,7 +9845,7 @@
             "calculated_at": "2026-04-05T10:33:29.476Z",
             "price_min": 57,
             "price_max": 88,
-            "price_planned": 73,
+            "price_planned": 96,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -9898,7 +9898,7 @@
             "calculated_at": "2026-04-05T10:33:29.476Z",
             "price_min": 135,
             "price_max": 210,
-            "price_planned": 173,
+            "price_planned": 146,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10004,7 +10004,7 @@
             "calculated_at": "2026-04-05T10:33:29.476Z",
             "price_min": 33,
             "price_max": 56,
-            "price_planned": 45,
+            "price_planned": 51,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10110,7 +10110,7 @@
             "calculated_at": "2026-04-05T10:33:29.476Z",
             "price_min": 52,
             "price_max": 80,
-            "price_planned": 66,
+            "price_planned": 72,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10163,7 +10163,7 @@
             "calculated_at": "2026-04-05T10:33:29.476Z",
             "price_min": 35,
             "price_max": 55,
-            "price_planned": 45,
+            "price_planned": 61,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10216,7 +10216,7 @@
             "calculated_at": "2026-04-05T10:33:29.477Z",
             "price_min": 51,
             "price_max": 80,
-            "price_planned": 66,
+            "price_planned": 69,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10269,7 +10269,7 @@
             "calculated_at": "2026-04-05T10:33:29.477Z",
             "price_min": 20,
             "price_max": 35,
-            "price_planned": 28,
+            "price_planned": 27,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10322,7 +10322,7 @@
             "calculated_at": "2026-04-05T10:33:29.477Z",
             "price_min": 53,
             "price_max": 81,
-            "price_planned": 67,
+            "price_planned": 76,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10375,7 +10375,7 @@
             "calculated_at": "2026-04-05T10:33:29.477Z",
             "price_min": 80,
             "price_max": 140,
-            "price_planned": 110,
+            "price_planned": 114,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10481,7 +10481,7 @@
             "calculated_at": "2026-04-05T10:33:29.478Z",
             "price_min": 71,
             "price_max": 106,
-            "price_planned": 89,
+            "price_planned": 88,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10534,7 +10534,7 @@
             "calculated_at": "2026-04-05T10:33:29.478Z",
             "price_min": 52,
             "price_max": 79,
-            "price_planned": 66,
+            "price_planned": 64,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10640,7 +10640,7 @@
             "calculated_at": "2026-04-05T10:33:29.478Z",
             "price_min": 25,
             "price_max": 40,
-            "price_planned": 33,
+            "price_planned": 36,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10693,7 +10693,7 @@
             "calculated_at": "2026-04-05T10:33:29.478Z",
             "price_min": 78,
             "price_max": 114,
-            "price_planned": 96,
+            "price_planned": 100,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10746,7 +10746,7 @@
             "calculated_at": "2026-04-05T10:33:29.478Z",
             "price_min": 28,
             "price_max": 46,
-            "price_planned": 37,
+            "price_planned": 48,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10799,7 +10799,7 @@
             "calculated_at": "2026-04-05T10:33:29.478Z",
             "price_min": 44,
             "price_max": 70,
-            "price_planned": 57,
+            "price_planned": 48,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10852,7 +10852,7 @@
             "calculated_at": "2026-04-05T10:33:29.478Z",
             "price_min": 45,
             "price_max": 74,
-            "price_planned": 60,
+            "price_planned": 69,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10905,7 +10905,7 @@
             "calculated_at": "2026-04-05T10:33:29.479Z",
             "price_min": 60,
             "price_max": 95,
-            "price_planned": 78,
+            "price_planned": 83,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -10958,7 +10958,7 @@
             "calculated_at": "2026-04-05T10:33:29.479Z",
             "price_min": 36,
             "price_max": 56,
-            "price_planned": 46,
+            "price_planned": 52,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -11011,7 +11011,7 @@
             "calculated_at": "2026-04-05T10:33:29.479Z",
             "price_min": 68,
             "price_max": 106,
-            "price_planned": 87,
+            "price_planned": 92,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -11117,7 +11117,7 @@
             "calculated_at": "2026-04-05T10:33:29.479Z",
             "price_min": 45,
             "price_max": 73,
-            "price_planned": 59,
+            "price_planned": 98,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -11170,7 +11170,7 @@
             "calculated_at": "2026-04-05T10:33:29.479Z",
             "price_min": 36,
             "price_max": 57,
-            "price_planned": 47,
+            "price_planned": 66,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -11223,7 +11223,7 @@
             "calculated_at": "2026-04-05T10:33:29.479Z",
             "price_min": 34,
             "price_max": 57,
-            "price_planned": 46,
+            "price_planned": 49,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -11276,7 +11276,7 @@
             "calculated_at": "2026-04-05T10:33:29.479Z",
             "price_min": 100,
             "price_max": 144,
-            "price_planned": 122,
+            "price_planned": 116,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -11329,7 +11329,7 @@
             "calculated_at": "2026-04-05T10:33:29.480Z",
             "price_min": 38,
             "price_max": 61,
-            "price_planned": 50,
+            "price_planned": 71,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -11382,7 +11382,7 @@
             "calculated_at": "2026-04-05T10:33:29.480Z",
             "price_min": 76,
             "price_max": 124,
-            "price_planned": 100,
+            "price_planned": 94,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
@@ -11435,7 +11435,7 @@
             "calculated_at": "2026-04-05T10:33:29.480Z",
             "price_min": 59,
             "price_max": 96,
-            "price_planned": 78,
+            "price_planned": 130,
             "nutrition_sources": [
                 "USDA FoodData Central",
                 "NutritionValue.org"
